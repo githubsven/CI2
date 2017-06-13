@@ -1,4 +1,4 @@
-import random, time, math
+import random, math, time
 
 def getSudoku(fileName):
     f = open(fileName, "r")
@@ -53,30 +53,37 @@ def fillSudoku(sudoku):
     #return newSudoku
 
 def switchSquares(sudoku, (firstRow, firstCol, secondRow, secondCol)):
-
-    return updateEvaluation(sudoku)
+    return 0
 
 def updateEvaluation(sudoku, evaluationValue, firstRow, firstCol, secondRow, secondCol):
     return 0
 
-def initialEvaluation(sudoku):
-    score = 0
-
+def initialEvaluation(sudoku, score):
     #Loop over iedere rij en tel het aantal nummers dat ontbreekt
     for x in range(len(sudoku)):
         domain = set(i + 1 for i in range(len(sudoku)))
         for y in range(len(sudoku)):
-            domain.discard(sudoku[x, y])
+            domain.discard(sudoku[x][y].value)
         score += len(domain)
 
     #Loop over iedere kolom en tel het aantal nummers dat ontbreekt
     for y in range(len(sudoku)):
         domain = set(i + 1 for i in range(len(sudoku)))
         for x in range(len(sudoku)):
-            domain.discard(sudoku[x, y])
+            domain.discard(sudoku[x][y].value)
         score += len(domain)
 
-def localSearch(sudoku):
+def inBlock(sudoku, rowNumber, columnNumber, number):
+    length = int(math.sqrt(len(sudoku)))
+    blockRow = rowNumber - rowNumber % length
+    blockColumn = columnNumber - columnNumber % length
+    for x in range(length):
+        for y in range(length):
+            if sudoku[blockRow + x][blockColumn + y] == number:
+                return True
+    return False
+
+def iteratedLocalSearch(sudoku, score):
     # TODO: check of de random een seed nodig hebben of niet
     firstRandomRow = random.randint(0, len(sudoku))
     firstRandomColumn = random.randint(0, len(sudoku))
@@ -86,11 +93,11 @@ def localSearch(sudoku):
 
     return 0
 
-class Counter:
+class Score:
     i = 0
 
-    def up(self):
-        self.i = self.i + 1
+    def __add__(self, other):
+        return self.i + other
 
     def count(self):
         return self.i
@@ -101,9 +108,14 @@ class Square:
 
 if __name__ == '__main__':
     sudoku = getSudoku("sudoku.txt")
-    fillSudoku(sudoku)
+    filledSudoku = fillSudoku(sudoku)
+    score = Score()
+    initialEvaluation(sudoku, score)
+    print score.count()
     start_time = time.time()
     counter = Counter()
-    print prettyPrint(sudoku)
+    print prettyPrint(newSudoku)
+
+    solved = iteratedLocalSearch(filledSudoku, score)
 
     print "Run Time:", (time.time() - start_time) * 1000, "milliseconds"
