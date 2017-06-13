@@ -1,16 +1,19 @@
-import math, time
+import random, time
 
 def getSudoku(fileName):
     f = open(fileName, "r")
     rows = f.read().split("\n")
 
     width, height = len(rows[0].split()), len(rows)
-    sudoku = [[0 for x in range(width)] for y in range(height)]
+    sudoku = [[Square() for x in range(width)] for y in range(height)]
 
     for index in range(height):
         columns = rows[index].split()
         for counter, column in enumerate(columns):
-            sudoku[index][counter] = (int)(columns[counter])
+            val = (int)(columns[counter])
+            if val != 0:
+                sudoku[index][counter].isFixed = True
+            sudoku[index][counter].value = (int)(columns[counter])
 
     return sudoku
 
@@ -49,6 +52,40 @@ def fillSudoku(sudoku):
             fillBlock(sudoku,newSudoku,x*blockLength,y*blockLength)
     return newSudoku
 
+def switchSquares(sudoku, (firstRow, firstCol, secondRow, secondCol)):
+
+    return updateEvaluation(sudoku)
+
+def updateEvaluation(sudoku, evaluationValue, firstRow, firstCol, secondRow, secondCol):
+    return 0
+
+def initialEvaluation(sudoku):
+    score = 0
+
+    #Loop over iedere rij en tel het aantal nummers dat ontbreekt
+    for x in range(len(sudoku)):
+        domain = set(i + 1 for i in range(len(sudoku)))
+        for y in range(len(sudoku)):
+            domain.discard(sudoku[x, y])
+        score += len(domain)
+
+    #Loop over iedere kolom en tel het aantal nummers dat ontbreekt
+    for y in range(len(sudoku)):
+        domain = set(i + 1 for i in range(len(sudoku)))
+        for x in range(len(sudoku)):
+            domain.discard(sudoku[x, y])
+        score += len(domain)
+
+def localSearch(sudoku):
+    # TODO: check of de random een seed nodig hebben of niet
+    firstRandomRow = random.randint(0, len(sudoku))
+    firstRandomColumn = random.randint(0, len(sudoku))
+
+    secondRandomRow = random.randint(0, len(sudoku))
+    secondRandomColumn = random.randint(0, len(sudoku))
+
+    return 0
+
 class Counter:
     i = 0
 
@@ -57,6 +94,10 @@ class Counter:
 
     def count(self):
         return self.i
+
+class Square:
+    value = 0
+    isFixed = False
 
 if __name__ == '__main__':
     sudoku = getSudoku("sudoku.txt")
