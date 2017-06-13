@@ -1,4 +1,4 @@
-import random, time
+import random, time, math
 
 def getSudoku(fileName):
     f = open(fileName, "r")
@@ -22,12 +22,12 @@ def prettyPrint(sudoku):
     result = ""
     for x in range(length):
         for y in range(length):
-            result += str(sudoku[x][y]) + " "
+            result += str(sudoku[x][y].value) + " "
         result += "\n"
 
     return result
 
-def fillBlock(sudoku,newSudoku,rowNumber, columnNumber):
+def fillBlock(sudoku,rowNumber, columnNumber):
     sudokuSize =len(sudoku)
     domain = set(i + 1 for i in range(sudokuSize))
 
@@ -36,21 +36,21 @@ def fillBlock(sudoku,newSudoku,rowNumber, columnNumber):
     blockColumn = columnNumber - columnNumber % blockLength
     for x in range(blockLength):
         for y in range(blockLength):
-            domain.discard(sudoku[blockRow + x][blockColumn + y])
+            domain.discard(sudoku[blockRow + x][blockColumn + y].value)
     for x in range(blockLength):
         for y in range(blockLength):
-            if sudoku[blockRow + x][blockColumn + y] == 0:
-                newSudoku[blockRow + x][blockColumn + y] = domain.pop()
-            else: newSudoku[blockRow + x][blockColumn + y] = sudoku[blockRow + x][blockColumn + y]
+            if sudoku[blockRow + x][blockColumn + y].value == 0:
+                sudoku[blockRow + x][blockColumn + y].value = domain.pop()
+            #else: newSudoku[blockRow + x][blockColumn + y] = sudoku[blockRow + x][blockColumn + y]
 
 def fillSudoku(sudoku):
     sudokuSize = len(sudoku)
-    newSudoku= [[0 for x in range(sudokuSize)] for y in range(sudokuSize)]
+    #newSudoku= [[0 for x in range(sudokuSize)] for y in range(sudokuSize)]
     blockLength = int(math.sqrt(sudokuSize))
     for x in range (blockLength):
         for y in range (blockLength):
-            fillBlock(sudoku,newSudoku,x*blockLength,y*blockLength)
-    return newSudoku
+            fillBlock(sudoku,x*blockLength,y*blockLength)
+    #return newSudoku
 
 def switchSquares(sudoku, (firstRow, firstCol, secondRow, secondCol)):
 
@@ -101,9 +101,9 @@ class Square:
 
 if __name__ == '__main__':
     sudoku = getSudoku("sudoku.txt")
-    newSudoku = fillSudoku(sudoku)
+    fillSudoku(sudoku)
     start_time = time.time()
     counter = Counter()
-    print prettyPrint(newSudoku)
+    print prettyPrint(sudoku)
 
     print "Run Time:", (time.time() - start_time) * 1000, "milliseconds"
