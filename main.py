@@ -52,11 +52,11 @@ def fillSudoku(sudoku):
             fillBlock(sudoku,x*blockLength,y*blockLength)
     #return newSudoku
 
-def switchSquares(sudoku, (firstRow, firstCol, secondRow, secondCol)):
+def switchSquares(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
     return 0
 
-def updateEvaluation(sudoku, evaluationValue, firstRow, firstCol, secondRow, secondCol):
-    return 0
+def updateEvaluation(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
+    return -10
 
 def initialEvaluation(sudoku, score):
     #Loop over iedere rij en tel het aantal nummers dat ontbreekt
@@ -73,26 +73,46 @@ def initialEvaluation(sudoku, score):
             domain.discard(sudoku[x][y].value)
         score.plus(len(domain))
 
-def inBlock(sudoku, rowNumber, columnNumber, number):
+def getRandomBlock(sudoku):
+    randInt = random.randint(0, len(sudoku) - 1)
     length = int(math.sqrt(len(sudoku)))
-    blockRow = rowNumber - rowNumber % length
-    blockColumn = columnNumber - columnNumber % length
+    blockRow = math.floor(randInt / length) * length
+    blockColumn = randInt % length * length
+
+    blockList = []
     for x in range(length):
         for y in range(length):
-            if sudoku[blockRow + x][blockColumn + y] == number:
-                return True
-    return False
+            if not sudoku[blockRow + x][blockColumn + y].isFixed:
+                blockList.append((blockRow + x, blockColumn + y))
+    return blockList
 
-def iteratedLocalSearch(sudoku, score):
+def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
+    blockList = getRandomBlock(sudoku)
+    bestSwap = ((0, 0), (0, 0), 0) #((firstSquare), (secondSquare), swapScore)
 
-    top = len(sudoku)-1
-    firstRandomRow = random.randint(0, top)
-    firstRandomColumn = random.randint(0, top)
-    print firstRandomRow
-    #secondRandomRow = random.randint(0, len(sudoku)-1)
-    #secondRandomColumn = random.randint(0, len(sudoku)-1)
-    print firstRandomColumn
-    #print secondRandomColumn
+    for i in range(len(blockList)):
+        firstSquare = blockList.pop()
+        for j in range(len(blockList)):
+            secondSquare = blockList[j]
+            switchSquares(sudoku, firstSquare, secondSquare)
+            evaluation = updateEvaluation(sudoku)
+            if evaluation > bestSwap[2]:
+                bestSwap = (firstSquare, secondSquare, evaluation)
+            elif evaluation == bestSwap[2]:
+                acceptNeutralSwap = random.randint(0, 10) > 5
+                if acceptNeutralSwap:
+                    bestSwap = (firstSquare, secondSquare, evaluation)
+            switchSquares(sudoku, firstSquare, secondSquare) #undo swap
+
+    if bestSwap != ((0, 0), (0, 0), 0):
+        switchSquares(sudoku, bestSwap[0], bestSwap[1]) #apply the best swap
+
+    if bestSwap[2] == 0: #if there was no improvement
+        noImprovementCounter += 1
+    else:
+        score.plus(bestSwap[2])
+
+    iteratedLocalSearch(sudoku, score, noImprovementCounter)
     return 0
 
 
