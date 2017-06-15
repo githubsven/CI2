@@ -64,14 +64,14 @@ def initialEvaluation(sudoku, score):
         domain = set(i + 1 for i in range(len(sudoku)))
         for y in range(len(sudoku)):
             domain.discard(sudoku[x][y].value)
-        score += len(domain)
+        score.plus(len(domain))
 
     #Loop over iedere kolom en tel het aantal nummers dat ontbreekt
     for y in range(len(sudoku)):
         domain = set(i + 1 for i in range(len(sudoku)))
         for x in range(len(sudoku)):
             domain.discard(sudoku[x][y].value)
-        score += len(domain)
+        score.plus(len(domain))
 
 def inBlock(sudoku, rowNumber, columnNumber, number):
     length = int(math.sqrt(len(sudoku)))
@@ -84,19 +84,23 @@ def inBlock(sudoku, rowNumber, columnNumber, number):
     return False
 
 def iteratedLocalSearch(sudoku, score):
-    # TODO: check of de random een seed nodig hebben of niet
-    firstRandomRow = random.randint(0, len(sudoku))
-    firstRandomColumn = random.randint(0, len(sudoku))
 
-    secondRandomRow = random.randint(0, len(sudoku))
-    secondRandomColumn = random.randint(0, len(sudoku))
-
+    top = len(sudoku)-1
+    firstRandomRow = random.randint(0, top)
+    firstRandomColumn = random.randint(0, top)
+    print firstRandomRow
+    #secondRandomRow = random.randint(0, len(sudoku)-1)
+    #secondRandomColumn = random.randint(0, len(sudoku)-1)
+    print firstRandomColumn
+    #print secondRandomColumn
     return 0
+
 
 class Score:
     i = 0
 
-    def __add__(self, other):
+    def plus(self, other):
+        self.i = self.i + other
         return self.i + other
 
     def count(self):
@@ -108,14 +112,18 @@ class Square:
 
 if __name__ == '__main__':
     sudoku = getSudoku("sudoku.txt")
-    filledSudoku = fillSudoku(sudoku)
+    fillSudoku(sudoku)
     score = Score()
+    random.seed(100)
+
+
     initialEvaluation(sudoku, score)
     print score.count()
     start_time = time.time()
-    counter = Counter()
-    print prettyPrint(newSudoku)
 
-    solved = iteratedLocalSearch(filledSudoku, score)
 
+
+    iteratedLocalSearch(sudoku, score)
+    print prettyPrint(sudoku)
     print "Run Time:", (time.time() - start_time) * 1000, "milliseconds"
+
