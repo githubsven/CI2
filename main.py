@@ -53,9 +53,14 @@ def fillSudoku(sudoku):
     #return newSudoku
 
 def switchSquares(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
-    return 0
+    temp = sudoku[firstRow][firstCol]
+    sudoku[firstRow][firstCol] = sudoku[secondRow][secondCol]
+    sudoku[secondRow][secondCol] = temp
 
-def updateEvaluation(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
+def updateEvaluation(sudoku, (firstRow, firstCol), (secondRow, secondCol), currentScore):
+    #Bereken de score van de huidige indeling (alleen van de row/col)
+    #Bereken de score van de nieuwe indeling
+    #return het verschil tussen de twee (om te kijken of de nieuwe beter is)
     return -10
 
 def initialEvaluation(sudoku, score):
@@ -76,7 +81,7 @@ def initialEvaluation(sudoku, score):
 def getRandomBlock(sudoku):
     randInt = random.randint(0, len(sudoku) - 1)
     length = int(math.sqrt(len(sudoku)))
-    blockRow = math.floor(randInt / length) * length
+    blockRow = int(randInt / length * length)
     blockColumn = randInt % length * length
 
     blockList = []
@@ -94,15 +99,15 @@ def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
         firstSquare = blockList.pop()
         for j in range(len(blockList)):
             secondSquare = blockList[j]
-            switchSquares(sudoku, firstSquare, secondSquare)
-            evaluation = updateEvaluation(sudoku)
+            #switchSquares(sudoku, firstSquare, secondSquare)
+            evaluation = updateEvaluation(sudoku, firstSquare, secondSquare, score.count()) #bereken de verandering van de score
             if evaluation > bestSwap[2]:
                 bestSwap = (firstSquare, secondSquare, evaluation)
             elif evaluation == bestSwap[2]:
                 acceptNeutralSwap = random.randint(0, 10) > 5
                 if acceptNeutralSwap:
                     bestSwap = (firstSquare, secondSquare, evaluation)
-            switchSquares(sudoku, firstSquare, secondSquare) #undo swap
+            #switchSquares(sudoku, firstSquare, secondSquare) #undo swap
 
     if bestSwap != ((0, 0), (0, 0), 0):
         switchSquares(sudoku, bestSwap[0], bestSwap[1]) #apply the best swap
@@ -112,8 +117,10 @@ def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
     else:
         score.plus(bestSwap[2])
 
-    iteratedLocalSearch(sudoku, score, noImprovementCounter)
-    return 0
+    if noImprovementCounter >= 10:
+        return score.count()
+    else:
+        iteratedLocalSearch(sudoku, score, noImprovementCounter)
 
 
 class Score:
@@ -136,12 +143,9 @@ if __name__ == '__main__':
     score = Score()
     random.seed(100)
 
-
     initialEvaluation(sudoku, score)
     print score.count()
     start_time = time.time()
-
-
 
     iteratedLocalSearch(sudoku, score)
     print prettyPrint(sudoku)
