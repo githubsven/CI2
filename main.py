@@ -129,41 +129,42 @@ def randomWalk(sudoku):
 
     #prettyPrint(sudoku)
 
-def iteratedLocalSearch(sudoku, score, counter, noImprovementCounter = 0, randomWalkCounter = 1):
-    counter.plus(1)
-    if score.count() == 0:
-        return True
+def iteratedLocalSearch(sudoku, score, counter, noImprovementCounter = 0, randomWalkCounter = 0):
+    initialScore = score.count()
+    while score.count() != 0 and randomWalkCounter < initialScore:
+        counter.plus(1)
 
-    blockList = getRandomBlock(sudoku)
-    bestSwap = ((0, 0), (0, 0), 0) #((firstSquare), (secondSquare), swapScore)
+        blockList = getRandomBlock(sudoku)
+        bestSwap = ((0, 0), (0, 0), 0) #((firstSquare), (secondSquare), swapScore)
 
-    for i in range(len(blockList)):
-        firstSquare = blockList.pop()
-        for j in range(len(blockList)):
-            secondSquare = blockList[j]
-            evaluation = updateEvaluation(sudoku, firstSquare, secondSquare) #bereken de verandering van de score
-            if evaluation < bestSwap[2]:
-                bestSwap = (firstSquare, secondSquare, evaluation)
-            elif evaluation == bestSwap[2]:
-                acceptNeutralSwap = random.randint(0, 10) > 5
-                if acceptNeutralSwap:
+        for i in range(len(blockList)):
+            firstSquare = blockList.pop()
+            for j in range(len(blockList)):
+                secondSquare = blockList[j]
+                evaluation = updateEvaluation(sudoku, firstSquare, secondSquare) #bereken de verandering van de score
+                if evaluation < bestSwap[2]:
                     bestSwap = (firstSquare, secondSquare, evaluation)
+                elif evaluation == bestSwap[2]:
+                    acceptNeutralSwap = random.randint(0, 10) > 5
+                    if acceptNeutralSwap:
+                        bestSwap = (firstSquare, secondSquare, evaluation)
 
-    if bestSwap != ((0, 0), (0, 0), 0):
-        switchSquares(sudoku, bestSwap[0], bestSwap[1]) #apply the best swap
+        if bestSwap != ((0, 0), (0, 0), 0):
+            switchSquares(sudoku, bestSwap[0], bestSwap[1]) #apply the best swap
 
-    if bestSwap[2] == 0: #if there was no improvement
-        noImprovementCounter += 1
-    else:
-        score.plus(bestSwap[2])
+        if bestSwap[2] == 0: #if there was no improvement
+            noImprovementCounter += 1
+        else:
+            score.plus(bestSwap[2])
 
-    if noImprovementCounter >= 100:
-        randomWalk(sudoku)
-        initialEvaluation(sudoku, score)
-        noImprovementCounter = 0
-        randomWalkCounter += 1
+        if noImprovementCounter >= initialScore:
+            randomWalk(sudoku)
+            initialEvaluation(sudoku, score)
+            noImprovementCounter = 0
+            randomWalkCounter += 1
 
-    iteratedLocalSearch(sudoku, score, counter, noImprovementCounter, randomWalkCounter)
+    print randomWalkCounter
+    return True
 
 class Score:
     i = 0
@@ -183,10 +184,10 @@ class Square:
     isFixed = False
 
 if __name__ == '__main__':
-    sys.setrecursionlimit(10000)
+
     random.seed(100)
 
-    sudoku = getSudoku("sudoku5.txt")
+    sudoku = getSudoku("sudoku2.txt")
     fillSudoku(sudoku)
     score = Score()
     counter = Score()
