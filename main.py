@@ -1,4 +1,4 @@
-import random, math, time
+import sys, random, math, time
 
 def getSudoku(fileName):
     f = open(fileName, "r")
@@ -25,7 +25,7 @@ def prettyPrint(sudoku):
             result += str(sudoku[x][y].value) + " "
         result += "\n"
 
-    return result
+    print result
 
 def fillBlock(sudoku,rowNumber, columnNumber):
     sudokuSize =len(sudoku)
@@ -57,13 +57,36 @@ def switchSquares(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
     sudoku[firstRow][firstCol] = sudoku[secondRow][secondCol]
     sudoku[secondRow][secondCol] = temp
 
-def updateEvaluation(sudoku, (firstRow, firstCol), (secondRow, secondCol), currentScore):
+def updateEvaluation(sudoku, (firstRow, firstCol), (secondRow, secondCol)):
     #Bereken de score van de huidige indeling (alleen van de row/col)
     #Bereken de score van de nieuwe indeling
     #return het verschil tussen de twee (om te kijken of de nieuwe beter is)
-    return -10
+    currentScore = getScore(sudoku, firstRow, firstCol) + getScore(sudoku, secondRow, secondCol)
+    switchSquares(sudoku, (firstRow, firstCol), (secondRow, secondCol))
+    newScore = getScore(sudoku, firstRow, firstCol) + getScore(sudoku, secondRow, secondCol)
+    switchSquares(sudoku, (firstRow, firstCol), (secondRow, secondCol))
+
+    return newScore - currentScore
+
+def getScore(sudoku, row, col):
+    score = 0
+
+    # Loop over iedere rij en tel het aantal nummers dat ontbreekt
+    domain = set(i + 1 for i in range(len(sudoku)))
+    for x in range(len(sudoku)):
+        domain.discard(sudoku[x][col].value)
+    score += len(domain)
+
+    #Loop over iedere kolom en tel het aantal nummers dat ontbreekt
+    domain = set(i + 1 for i in range(len(sudoku)))
+    for y in range(len(sudoku)):
+        domain.discard(sudoku[row][y].value)
+    score += len(domain)
+
+    return score
 
 def initialEvaluation(sudoku, score):
+    score.reset()
     #Loop over iedere rij en tel het aantal nummers dat ontbreekt
     for x in range(len(sudoku)):
         domain = set(i + 1 for i in range(len(sudoku)))
@@ -91,7 +114,26 @@ def getRandomBlock(sudoku):
                 blockList.append((blockRow + x, blockColumn + y))
     return blockList
 
-def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
+def randomWalk(sudoku):
+    blockSwitchAmount = 1
+    squareSwitchAmount = 2
+
+    #prettyPrint(sudoku)
+
+    for i in range(blockSwitchAmount):
+        blockList = getRandomBlock(sudoku)
+        for j in range(squareSwitchAmount):
+            firstSquare = blockList[random.randint(0, len(blockList) - 1)]
+            secondSquare = blockList[random.randint(0, len(blockList) - 1)]
+            switchSquares(sudoku, firstSquare, secondSquare)
+
+    #prettyPrint(sudoku)
+
+def iteratedLocalSearch(sudoku, score, counter, noImprovementCounter = 0, randomWalkCounter = 1):
+    counter.plus(1)
+    if score.count() == 0:
+        return True
+
     blockList = getRandomBlock(sudoku)
     bestSwap = ((0, 0), (0, 0), 0) #((firstSquare), (secondSquare), swapScore)
 
@@ -99,15 +141,13 @@ def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
         firstSquare = blockList.pop()
         for j in range(len(blockList)):
             secondSquare = blockList[j]
-            #switchSquares(sudoku, firstSquare, secondSquare)
-            evaluation = updateEvaluation(sudoku, firstSquare, secondSquare, score.count()) #bereken de verandering van de score
-            if evaluation > bestSwap[2]:
+            evaluation = updateEvaluation(sudoku, firstSquare, secondSquare) #bereken de verandering van de score
+            if evaluation < bestSwap[2]:
                 bestSwap = (firstSquare, secondSquare, evaluation)
             elif evaluation == bestSwap[2]:
                 acceptNeutralSwap = random.randint(0, 10) > 5
                 if acceptNeutralSwap:
                     bestSwap = (firstSquare, secondSquare, evaluation)
-            #switchSquares(sudoku, firstSquare, secondSquare) #undo swap
 
     if bestSwap != ((0, 0), (0, 0), 0):
         switchSquares(sudoku, bestSwap[0], bestSwap[1]) #apply the best swap
@@ -117,11 +157,13 @@ def iteratedLocalSearch(sudoku, score, noImprovementCounter = 0):
     else:
         score.plus(bestSwap[2])
 
-    if noImprovementCounter >= 10:
-        return score.count()
-    else:
-        iteratedLocalSearch(sudoku, score, noImprovementCounter)
+    if noImprovementCounter >= 100:
+        randomWalk(sudoku)
+        initialEvaluation(sudoku, score)
+        noImprovementCounter = 0
+        randomWalkCounter += 1
 
+    iteratedLocalSearch(sudoku, score, counter, noImprovementCounter, randomWalkCounter)
 
 class Score:
     i = 0
@@ -129,6 +171,9 @@ class Score:
     def plus(self, other):
         self.i = self.i + other
         return self.i + other
+
+    def reset(self):
+        self.i = 0
 
     def count(self):
         return self.i
@@ -138,16 +183,21 @@ class Square:
     isFixed = False
 
 if __name__ == '__main__':
-    sudoku = getSudoku("sudoku.txt")
+    sys.setrecursionlimit(10000)
+    random.seed(100)
+
+    sudoku = getSudoku("sudoku5.txt")
     fillSudoku(sudoku)
     score = Score()
-    random.seed(100)
+    counter = Score()
 
     initialEvaluation(sudoku, score)
     print score.count()
     start_time = time.time()
 
-    iteratedLocalSearch(sudoku, score)
-    print prettyPrint(sudoku)
+    solved = iteratedLocalSearch(sudoku, score, counter)
+    prettyPrint(sudoku)
+    print score.count()
+    print counter.count()
     print "Run Time:", (time.time() - start_time) * 1000, "milliseconds"
 
