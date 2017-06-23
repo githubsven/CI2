@@ -101,7 +101,7 @@ def initialEvaluation(sudoku, score):
             domain.discard(sudoku[x][y].value)
         score.plus(len(domain))
 
-def getRandomBlock(sudoku):
+def getRandomBlockList(sudoku):
     randInt = random.randint(0, len(sudoku) - 1)
     length = int(math.sqrt(len(sudoku)))
     blockRow = int(randInt / length * length)
@@ -114,18 +114,18 @@ def getRandomBlock(sudoku):
                 blockList.append((blockRow + x, blockColumn + y))
     return blockList
 
-def randomWalk(sudoku):
-    blockSwitchAmount = 5
-    squareSwitchAmount = 5
+def randomWalk(sudoku, S):
+    blockSwitchAmount = 1
+    squareSwitchAmount = 1
 
     #prettyPrint(sudoku)
-
-    for i in range(blockSwitchAmount):
-        blockList = getRandomBlock(sudoku)
-        for j in range(squareSwitchAmount):
-            firstSquare = blockList[random.randint(0, len(blockList) - 1)]
-            secondSquare = blockList[random.randint(0, len(blockList) - 1)]
-            switchSquares(sudoku, firstSquare, secondSquare)
+    for i in range(S):
+        for i in range(blockSwitchAmount):
+            blockList = getRandomBlockList(sudoku)
+            for j in range(squareSwitchAmount):
+                firstSquare = blockList[random.randint(0, len(blockList) - 1)]
+                secondSquare = blockList[random.randint(0, len(blockList) - 1)]
+                switchSquares(sudoku, firstSquare, secondSquare)
 
     #prettyPrint(sudoku)
 
@@ -134,7 +134,7 @@ def iteratedLocalSearch(sudoku, score, counter, noImprovementCounter = 0, random
     while score.count() != 0 and randomWalkCounter < initialScore:
         counter.plus(1)
 
-        blockList = getRandomBlock(sudoku)
+        blockList = getRandomBlockList(sudoku)
         bestSwap = ((0, 0), (0, 0), 0) #((firstSquare), (secondSquare), swapScore)
 
         for i in range(len(blockList)):
@@ -158,7 +158,7 @@ def iteratedLocalSearch(sudoku, score, counter, noImprovementCounter = 0, random
             score.plus(bestSwap[2])
 
         if noImprovementCounter >= initialScore:
-            randomWalk(sudoku)
+            randomWalk(sudoku, 1)
             initialEvaluation(sudoku, score)
             noImprovementCounter = 0
             randomWalkCounter += 1
