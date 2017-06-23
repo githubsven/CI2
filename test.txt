@@ -1,0 +1,1199 @@
+sudoku.txt 1 1 
+0
+1419
+Run Time:309.000015259milliseconds
+sudoku.txt
+0
+185
+Run Time:54.9998283386milliseconds
+sudoku.txt
+0
+756
+Run Time:168.999910355milliseconds
+sudoku.txt
+0
+1022
+Run Time:250.0milliseconds
+sudoku.txt
+0
+120
+Run Time:26.0000228882milliseconds
+sudoku.txt
+6
+1495
+Run Time:325.000047684milliseconds
+sudoku.txt
+6
+1502
+Run Time:333.999872208milliseconds
+sudoku.txt
+6
+1498
+Run Time:347.00012207milliseconds
+sudoku.txt
+6
+1492
+Run Time:348.999977112milliseconds
+sudoku.txt
+2
+1499
+Run Time:337.000131607milliseconds
+sudoku.txt
+0
+267
+Run Time:63.000202179milliseconds
+_____________________________ 1 2
+sudoku.txt
+6
+1520
+Run Time:335.999965668milliseconds
+sudoku.txt
+0
+236
+Run Time:53.9999008179milliseconds
+sudoku.txt
+0
+660
+Run Time:145.999908447milliseconds
+sudoku.txt
+0
+469
+Run Time:105.000019073milliseconds
+sudoku.txt
+0
+55
+Run Time:11.9998455048milliseconds
+sudoku.txt
+11
+1528
+Run Time:342.000007629milliseconds
+sudoku.txt
+0
+828
+Run Time:189.0001297milliseconds
+sudoku.txt
+0
+1375
+Run Time:309.000015259milliseconds
+sudoku.txt
+0
+1446
+Run Time:322.999954224milliseconds
+sudoku.txt
+0
+1125
+Run Time:251.999855042milliseconds
+sudoku.txt
+0
+95
+Run Time:20.9999084473milliseconds
+_________ 1 3
+
+sudoku.txt
+0
+140
+Run Time:29.9999713898milliseconds
+sudoku.txt
+0
+195
+Run Time:42.0000553131milliseconds
+sudoku.txt
+6
+1539
+Run Time:381.999969482milliseconds
+sudoku.txt
+5
+1538
+Run Time:342.000007629milliseconds
+sudoku.txt
+8
+1532
+Run Time:355.999946594milliseconds
+sudoku.txt
+0
+608
+Run Time:134.999990463milliseconds
+sudoku.txt
+0
+456
+Run Time:101.000070572milliseconds
+sudoku.txt
+0
+374
+Run Time:82.9999446869milliseconds
+sudoku.txt
+0
+207
+Run Time:46.0000038147milliseconds
+sudoku.txt
+0
+1223
+Run Time:266.999959946milliseconds
+sudoku.txt
+0
+89
+Run Time:21.0001468658milliseconds
+________________________ 1 4
+
+sudoku.txt
+0
+1225
+Run Time:278.000116348milliseconds
+sudoku.txt
+0
+275
+Run Time:64.9998188019milliseconds
+sudoku.txt
+0
+130
+Run Time:28.9998054504milliseconds
+sudoku.txt
+0
+118
+Run Time:26.0000228882milliseconds
+sudoku.txt
+7
+1545
+Run Time:341.000080109milliseconds
+sudoku.txt
+0
+496
+Run Time:109.999895096milliseconds
+sudoku.txt
+0
+51
+Run Time:12.0000839233milliseconds
+sudoku.txt
+0
+112
+Run Time:23.9999294281milliseconds
+sudoku.txt
+0
+1094
+Run Time:246.000051498milliseconds
+sudoku.txt
+0
+251
+Run Time:59.0000152588milliseconds
+sudoku.txt
+0
+611
+Run Time:137.000083923milliseconds
+_________ 1 5 
+
+sudoku.txt
+5
+1555
+Run Time:335.999965668milliseconds
+sudoku.txt
+0
+91
+Run Time:22.0000743866milliseconds
+sudoku.txt
+0
+215
+Run Time:49.0000247955milliseconds
+sudoku.txt
+0
+329
+Run Time:75.0000476837milliseconds
+sudoku.txt
+10
+1534
+Run Time:338.999986649milliseconds
+sudoku.txt
+0
+733
+Run Time:163.000106812milliseconds
+sudoku.txt
+0
+1284
+Run Time:286.000013351milliseconds
+sudoku.txt
+0
+106
+Run Time:25.0000953674milliseconds
+sudoku.txt
+0
+588
+Run Time:123.999834061milliseconds
+sudoku.txt
+0
+170
+Run Time:38.0001068115milliseconds
+sudoku.txt
+9
+1561
+Run Time:338.999986649milliseconds
+__________ 2 1
+
+sudoku.txt
+0
+783
+Run Time:174.000024796milliseconds
+sudoku.txt
+0
+232
+Run Time:52.0000457764milliseconds
+sudoku.txt
+0
+557
+Run Time:124.000072479milliseconds
+sudoku.txt
+0
+73
+Run Time:16.9999599457milliseconds
+sudoku.txt
+0
+305
+Run Time:65.9999847412milliseconds
+sudoku.txt
+10
+1524
+Run Time:351.999998093milliseconds
+sudoku.txt
+0
+303
+Run Time:66.999912262milliseconds
+sudoku.txt
+9
+1531
+Run Time:355.000019073milliseconds
+sudoku.txt
+0
+1397
+Run Time:313.999891281milliseconds
+sudoku.txt
+0
+148
+Run Time:30.9998989105milliseconds
+sudoku.txt
+0
+384
+Run Time:86.0002040863milliseconds
+_____ 2 2 
+
+sudoku.txt
+0
+85
+Run Time:19.0000534058milliseconds
+sudoku.txt
+0
+94
+Run Time:23.0000019073milliseconds
+sudoku.txt
+0
+138
+Run Time:29.000043869milliseconds
+sudoku.txt
+0
+127
+Run Time:28.0001163483milliseconds
+sudoku.txt
+0
+1080
+Run Time:247.000217438milliseconds
+sudoku.txt
+0
+118
+Run Time:24.9998569489milliseconds
+sudoku.txt
+0
+240
+Run Time:54.9998283386milliseconds
+sudoku.txt
+0
+823
+Run Time:187.99996376milliseconds
+sudoku.txt
+0
+189
+Run Time:42.0000553131milliseconds
+sudoku.txt
+0
+59
+Run Time:13.9999389648milliseconds
+sudoku.txt
+0
+220
+Run Time:49.0000247955milliseconds
+_____________ 2 3
+
+sudoku.txt
+0
+570
+Run Time:125.999927521milliseconds
+sudoku.txt
+0
+85
+Run Time:19.0000534058milliseconds
+sudoku.txt
+0
+91
+Run Time:19.0000534058milliseconds
+sudoku.txt
+0
+133
+Run Time:29.9999713898milliseconds
+sudoku.txt
+0
+1036
+Run Time:233.999967575milliseconds
+sudoku.txt
+0
+1551
+Run Time:355.999946594milliseconds
+sudoku.txt
+0
+348
+Run Time:75.0000476837milliseconds
+sudoku.txt
+0
+1134
+Run Time:271.999835968milliseconds
+sudoku.txt
+0
+128
+Run Time:29.9999713898milliseconds
+sudoku.txt
+0
+412
+Run Time:94.0001010895milliseconds
+sudoku.txt
+0
+420
+Run Time:97.0001220703milliseconds
+_______ 2 4
+
+sudoku.txt
+0
+1550
+Run Time:345.00002861milliseconds
+sudoku.txt
+0
+799
+Run Time:177.000045776milliseconds
+sudoku.txt
+0
+91
+Run Time:20.9999084473milliseconds
+sudoku.txt
+0
+201
+Run Time:45.0000762939milliseconds
+sudoku.txt
+0
+296
+Run Time:65.9999847412milliseconds
+sudoku.txt
+0
+1083
+Run Time:245.000123978milliseconds
+sudoku.txt
+0
+959
+Run Time:214.999914169milliseconds
+sudoku.txt
+0
+249
+Run Time:57.0001602173milliseconds
+sudoku.txt
+0
+684
+Run Time:161.999940872milliseconds
+sudoku.txt
+0
+849
+Run Time:187.99996376milliseconds
+sudoku.txt
+0
+1280
+Run Time:315.00005722milliseconds
+______ 2 5
+
+sudoku.txt
+0
+178
+Run Time:37.9998683929milliseconds
+sudoku.txt
+0
+1438
+Run Time:332.999944687milliseconds
+sudoku.txt
+0
+169
+Run Time:37.9998683929milliseconds
+sudoku.txt
+0
+88
+Run Time:19.9999809265milliseconds
+sudoku.txt
+0
+203
+Run Time:45.0000762939milliseconds
+sudoku.txt
+0
+175
+Run Time:36.9999408722milliseconds
+sudoku.txt
+0
+344
+Run Time:79.9999237061milliseconds
+sudoku.txt
+0
+1364
+Run Time:302.000045776milliseconds
+sudoku.txt
+0
+122
+Run Time:32.9999923706milliseconds
+sudoku.txt
+0
+682
+Run Time:151.000022888milliseconds
+sudoku.txt
+0
+480
+Run Time:115.000009537milliseconds
+_______ 1 3
+sudoku.txt
+0
+1227
+Run Time:270.999908447milliseconds
+sudoku.txt
+0
+276
+Run Time:62.0000362396milliseconds
+sudoku.txt
+0
+914
+Run Time:203.999996185milliseconds
+sudoku.txt
+0
+334
+Run Time:75.0000476837milliseconds
+sudoku.txt
+0
+358
+Run Time:82.0000171661milliseconds
+sudoku.txt
+0
+213
+Run Time:47.000169754milliseconds
+sudoku.txt
+0
+71
+Run Time:16.0000324249milliseconds
+sudoku.txt
+12
+1545
+Run Time:343.999862671milliseconds
+sudoku.txt
+0
+478
+Run Time:110.000133514milliseconds
+sudoku.txt
+0
+306
+Run Time:65.9999847412milliseconds
+sudoku.txt
+0
+1282
+Run Time:289.000034332milliseconds
+______ 2 3
+sudoku.txt
+0
+486
+Run Time:105.000019073milliseconds
+sudoku.txt
+0
+171
+Run Time:36.9999408722milliseconds
+sudoku.txt
+0
+87
+Run Time:16.9999599457milliseconds
+sudoku.txt
+0
+1572
+Run Time:364.000082016milliseconds
+sudoku.txt
+0
+1315
+Run Time:296.000003815milliseconds
+sudoku.txt
+0
+72
+Run Time:16.9999599457milliseconds
+sudoku.txt
+0
+1513
+Run Time:359.999895096milliseconds
+sudoku.txt
+11
+1619
+Run Time:365.000009537milliseconds
+sudoku.txt
+0
+306
+Run Time:69.9999332428milliseconds
+sudoku.txt
+0
+191
+Run Time:47.000169754milliseconds
+sudoku.txt
+0
+766
+Run Time:174.000024796milliseconds
+_____ 3 3
+sudoku.txt
+0
+67
+Run Time:17.0001983643milliseconds
+sudoku.txt
+0
+646
+Run Time:141.000032425milliseconds
+sudoku.txt
+0
+1219
+Run Time:273.000001907milliseconds
+sudoku.txt
+0
+258
+Run Time:60.9998703003milliseconds
+sudoku.txt
+0
+396
+Run Time:85.9999656677milliseconds
+sudoku.txt
+0
+553
+Run Time:125.999927521milliseconds
+sudoku.txt
+0
+141
+Run Time:31.0001373291milliseconds
+sudoku.txt
+0
+271
+Run Time:62.0000362396milliseconds
+sudoku.txt
+0
+241
+Run Time:52.0000457764milliseconds
+sudoku.txt
+0
+723
+Run Time:165.999889374milliseconds
+sudoku.txt
+0
+132
+Run Time:32.0000648499milliseconds
+_____ 3 4 
+
+sudoku.txt
+0
+748
+Run Time:165.999889374milliseconds
+sudoku.txt
+0
+1548
+Run Time:391.000032425milliseconds
+sudoku.txt
+0
+98
+Run Time:21.999835968milliseconds
+sudoku.txt
+0
+480
+Run Time:105.999946594milliseconds
+sudoku.txt
+0
+129
+Run Time:29.9999713898milliseconds
+sudoku.txt
+0
+100
+Run Time:21.999835968milliseconds
+sudoku.txt
+0
+1085
+Run Time:240.000009537milliseconds
+sudoku.txt
+0
+50
+Run Time:13.0000114441milliseconds
+sudoku.txt
+0
+121
+Run Time:29.000043869milliseconds
+sudoku.txt
+0
+811
+Run Time:180.999994278milliseconds
+sudoku.txt
+0
+149
+Run Time:31.9998264313milliseconds
+______ 3 5
+sudoku.txt
+0
+493
+Run Time:108.999967575milliseconds
+sudoku.txt
+12
+1684
+Run Time:394.000053406milliseconds
+sudoku.txt
+0
+268
+Run Time:62.0000362396milliseconds
+sudoku.txt
+0
+164
+Run Time:35.0000858307milliseconds
+sudoku.txt
+0
+391
+Run Time:88.0000591278milliseconds
+sudoku.txt
+0
+350
+Run Time:80.0001621246milliseconds
+sudoku.txt
+0
+156
+Run Time:37.0001792908milliseconds
+sudoku.txt
+0
+85
+Run Time:22.0000743866milliseconds
+sudoku.txt
+0
+361
+Run Time:87.0001316071milliseconds
+sudoku.txt
+0
+830
+Run Time:191.00022316milliseconds
+sudoku.txt
+0
+304
+Run Time:67.9998397827milliseconds
+_____ 4 1
+
+sudoku.txt
+0
+721
+Run Time:154.000043869milliseconds
+sudoku.txt
+0
+482
+Run Time:108.000040054milliseconds
+sudoku.txt
+0
+246
+Run Time:55.0000667572milliseconds
+sudoku.txt
+0
+428
+Run Time:93.0001735687milliseconds
+sudoku.txt
+0
+534
+Run Time:119.999885559milliseconds
+sudoku.txt
+0
+126
+Run Time:26.9999504089milliseconds
+sudoku.txt
+0
+80
+Run Time:16.9999599457milliseconds
+sudoku.txt
+0
+182
+Run Time:39.0000343323milliseconds
+sudoku.txt
+0
+498
+Run Time:115.999937057milliseconds
+sudoku.txt
+0
+1288
+Run Time:280.999898911milliseconds
+sudoku.txt
+0
+209
+Run Time:48.0000972748milliseconds
+_____ 4 2 
+sudoku.txt
+0
+93
+Run Time:20.9999084473milliseconds
+sudoku.txt
+0
+182
+Run Time:42.9999828339milliseconds
+sudoku.txt
+0
+161
+Run Time:33.9999198914milliseconds
+sudoku.txt
+0
+762
+Run Time:164.000034332milliseconds
+sudoku.txt
+0
+84
+Run Time:20.9999084473milliseconds
+sudoku.txt
+0
+56
+Run Time:13.0000114441milliseconds
+sudoku.txt
+23
+1670
+Run Time:387.000083923milliseconds
+sudoku.txt
+0
+648
+Run Time:151.000022888milliseconds
+sudoku.txt
+0
+817
+Run Time:184.000015259milliseconds
+sudoku.txt
+0
+770
+Run Time:170.000076294milliseconds
+sudoku.txt
+0
+172
+Run Time:40.9998893738milliseconds
+_____ 4 3 
+sudoku.txt
+0
+171
+Run Time:39.0000343323milliseconds
+sudoku.txt
+0
+266
+Run Time:60.0001811981milliseconds
+sudoku.txt
+0
+349
+Run Time:77.999830246milliseconds
+sudoku.txt
+0
+264
+Run Time:62.0000362396milliseconds
+sudoku.txt
+0
+174
+Run Time:41.0001277924milliseconds
+sudoku.txt
+0
+457
+Run Time:102.999925613milliseconds
+sudoku.txt
+22
+1692
+Run Time:416.999816895milliseconds
+sudoku.txt
+0
+184
+Run Time:42.0000553131milliseconds
+sudoku.txt
+0
+539
+Run Time:118.999958038milliseconds
+sudoku.txt
+0
+1150
+Run Time:253.000020981milliseconds
+sudoku.txt
+0
+1011
+Run Time:230.000019073milliseconds
+______ 4 4 
+sudoku.txt
+0
+783
+Run Time:177.000045776milliseconds
+sudoku.txt
+0
+1545
+Run Time:349.999904633milliseconds
+sudoku.txt
+0
+1309
+Run Time:287.999868393milliseconds
+sudoku.txt
+0
+910
+Run Time:204.999923706milliseconds
+sudoku.txt
+0
+255
+Run Time:57.0001602173milliseconds
+sudoku.txt
+0
+659
+Run Time:154.000043869milliseconds
+sudoku.txt
+0
+630
+Run Time:141.999959946milliseconds
+sudoku.txt
+0
+960
+Run Time:220.00002861milliseconds
+sudoku.txt
+0
+767
+Run Time:183.000087738milliseconds
+sudoku.txt
+0
+135
+Run Time:28.0001163483milliseconds
+sudoku.txt
+0
+860
+Run Time:194.999933243milliseconds
+_____ 4 5
+sudoku.txt
+0
+617
+Run Time:137.000083923milliseconds
+sudoku.txt
+0
+139
+Run Time:32.0000648499milliseconds
+sudoku.txt
+0
+141
+Run Time:29.9999713898milliseconds
+sudoku.txt
+0
+642
+Run Time:145.999908447milliseconds
+sudoku.txt
+0
+416
+Run Time:94.0001010895milliseconds
+sudoku.txt
+0
+1010
+Run Time:226.000070572milliseconds
+sudoku.txt
+0
+142
+Run Time:35.0000858307milliseconds
+sudoku.txt
+0
+187
+Run Time:42.9999828339milliseconds
+sudoku.txt
+0
+110
+Run Time:25.0000953674milliseconds
+sudoku.txt
+0
+622
+Run Time:141.000032425milliseconds
+sudoku.txt
+0
+90
+Run Time:20.9999084473milliseconds
+_____ 5 1
+sudoku.txt
+0
+922
+Run Time:202.999830246milliseconds
+sudoku.txt
+0
+1293
+Run Time:296.000003815milliseconds
+sudoku.txt
+0
+417
+Run Time:95.999956131milliseconds
+sudoku.txt
+0
+225
+Run Time:53.0002117157milliseconds
+sudoku.txt
+0
+447
+Run Time:98.9999771118milliseconds
+sudoku.txt
+0
+93
+Run Time:19.0000534058milliseconds
+sudoku.txt
+0
+388
+Run Time:98.0000495911milliseconds
+sudoku.txt
+0
+169
+Run Time:39.0000343323milliseconds
+sudoku.txt
+0
+299
+Run Time:67.0001506805milliseconds
+sudoku.txt
+0
+132
+Run Time:28.9998054504milliseconds
+sudoku.txt
+0
+481
+Run Time:107.000112534milliseconds
+_____ 5 2 
+
+sudoku.txt
+0
+395
+Run Time:93.0001735687milliseconds
+sudoku.txt
+0
+896
+Run Time:213.999986649milliseconds
+sudoku.txt
+0
+400
+Run Time:87.0001316071milliseconds
+sudoku.txt
+0
+136
+Run Time:30.9998989105milliseconds
+sudoku.txt
+14
+1709
+Run Time:387.999773026milliseconds
+sudoku.txt
+0
+478
+Run Time:105.000019073milliseconds
+sudoku.txt
+0
+225
+Run Time:52.9999732971milliseconds
+sudoku.txt
+0
+229
+Run Time:49.9999523163milliseconds
+sudoku.txt
+0
+649
+Run Time:144.999980927milliseconds
+sudoku.txt
+0
+208
+Run Time:46.0000038147milliseconds
+sudoku.txt
+0
+448
+Run Time:97.9998111725milliseconds
+_____ 5 3 
+sudoku.txt
+0
+876
+Run Time:193.000078201milliseconds
+sudoku.txt
+0
+220
+Run Time:50.0001907349milliseconds
+sudoku.txt
+0
+1216
+Run Time:276.999950409milliseconds
+sudoku.txt
+0
+360
+Run Time:80.0001621246milliseconds
+sudoku.txt
+0
+328
+Run Time:75.0000476837milliseconds
+sudoku.txt
+0
+639
+Run Time:142.000198364milliseconds
+sudoku.txt
+0
+685
+Run Time:151.000022888milliseconds
+sudoku.txt
+0
+218
+Run Time:46.9999313354milliseconds
+sudoku.txt
+0
+1142
+Run Time:263.000011444milliseconds
+sudoku.txt
+0
+139
+Run Time:31.0001373291milliseconds
+sudoku.txt
+0
+961
+Run Time:213.999986649milliseconds
+_____  5 4 
+sudoku.txt
+0
+93
+Run Time:22.0000743866milliseconds
+sudoku.txt
+0
+414
+Run Time:91.0000801086milliseconds
+sudoku.txt
+0
+137
+Run Time:30.9998989105milliseconds
+sudoku.txt
+0
+442
+Run Time:99.9999046326milliseconds
+sudoku.txt
+0
+243
+Run Time:55.0000667572milliseconds
+sudoku.txt
+0
+1113
+Run Time:255.000114441milliseconds
+sudoku.txt
+0
+292
+Run Time:66.999912262milliseconds
+sudoku.txt
+0
+218
+Run Time:48.0000972748milliseconds
+sudoku.txt
+0
+840
+Run Time:182.000160217milliseconds
+sudoku.txt
+0
+56
+Run Time:13.0000114441milliseconds
+sudoku.txt
+0
+126
+Run Time:29.000043869milliseconds
+_____ 5 5 
+
+sudoku.txt
+0
+408
+Run Time:99.9999046326milliseconds
+sudoku.txt
+0
+183
+Run Time:41.0001277924milliseconds
+sudoku.txt
+0
+1142
+Run Time:259.000062943milliseconds
+sudoku.txt
+0
+744
+Run Time:170.000076294milliseconds
+sudoku.txt
+0
+558
+Run Time:123.999834061milliseconds
+sudoku.txt
+0
+337
+Run Time:75.9999752045milliseconds
+sudoku.txt
+0
+791
+Run Time:180.999994278milliseconds
+sudoku.txt
+0
+147
+Run Time:36.0000133514milliseconds
+sudoku.txt
+0
+90
+Run Time:19.0000534058milliseconds
+sudoku.txt
+0
+402
+Run Time:90.0001525879milliseconds
+sudoku.txt
+0
+235
+Run Time:49.9999523163milliseconds
+s value1
+sudoku.txt
+5
+1496
+Run Time: 342.000007629 milliseconds
+sudoku.txt
+0
+288
+Run Time: 62.9999637604 milliseconds
+sudoku.txt
+4
+1496
+Run Time: 335.999965668 milliseconds
+sudoku.txt
+0
+131
+Run Time: 27.9998779297 milliseconds
+sudoku.txt
+0
+74
+Run Time: 18.000125885 milliseconds
+sudoku.txt
+7
+1504
+Run Time: 351.999998093 milliseconds
+sudoku.txt
+0
+732
+Run Time: 180.000066757 milliseconds
+sudoku.txt
+4
+1495
+Run Time: 332.000017166 milliseconds
+sudoku.txt
+4
+1492
+Run Time: 331.000089645 milliseconds
+sudoku.txt
+0
+1299
+Run Time: 295.000076294 milliseconds
+sudoku.txt
+3
+1496
+Run Time: 335.000038147 milliseconds
+sudoku.txt
+6
+1492
+Run Time: 338.000059128 milliseconds
+sudoku.txt
+0
+83
+Run Time: 19.0000534058 milliseconds
+sudoku.txt
+6
+1502
+Run Time: 337.000131607 milliseconds
+sudoku.txt
+0
+96
+Run Time: 20.9999084473 milliseconds
+average time: 221.800025304
+average iterations: 978
