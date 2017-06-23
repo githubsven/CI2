@@ -115,8 +115,8 @@ def getRandomBlock(sudoku):
     return blockList
 
 def randomWalk(sudoku):
-    blockSwitchAmount = 1
-    squareSwitchAmount = 2
+    blockSwitchAmount = 5
+    squareSwitchAmount = 5
 
     #prettyPrint(sudoku)
 
@@ -184,10 +184,10 @@ class Square:
     isFixed = False
 
 if __name__ == '__main__':
-
-    random.seed(100)
-
-    sudoku = getSudoku("sudoku2.txt")
+    file = open("test.txt", "a")
+    #random.seed(100)
+    sudokuFile = "sudoku.txt"
+    sudoku = getSudoku(sudokuFile)
     fillSudoku(sudoku)
     score = Score()
     counter = Score()
@@ -200,5 +200,15 @@ if __name__ == '__main__':
     prettyPrint(sudoku)
     print score.count()
     print counter.count()
-    print "Run Time:", (time.time() - start_time) * 1000, "milliseconds"
+    x = (time.time() - start_time) * 1000
+    y = counter.count()
+    print "Run Time:", x, "milliseconds"
+
+    file.write(sudokuFile+"\n")
+    file.write(str(score.count())+"\n")
+    file.write(str(y)+"\n")
+    file.write("Run Time:")
+    file.write(str(x))
+    file.write("milliseconds\n")
+    file.close()
 
