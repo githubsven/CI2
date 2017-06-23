@@ -189,51 +189,57 @@ if __name__ == '__main__':
     #random.seed(100)
     avgIt = 0
     avgTime = 0
-    goes = 100
+    goes = 1
     sMax = 30
+
     #file.write("times ran" + str(goes) + "\n")
     file2.write("times ran " + str(goes) + "\n")
-    for s in range(sMax):
-        avgIt = 0
-        avgTime = 0
-        timesNotSolved = 0
-        #file.write("s value "+ str(s)+ "\n")
-        file2.write("s value " + str(s) + "\n")
-        for i in range(goes):
-            sudokuFile = "sudoku.txt"
-            sudoku = getSudoku(sudokuFile)
-            fillSudoku(sudoku)
-            score = Score()
-            counter = Score()
+    for sudokuNr in range (1,16,1):
+        print sudokuNr
+        sudokuFile = "sudoku" + str(sudokuNr) + ".txt"
+        file2.write("Sudoku " + str(sudokuNr) + "\n")
+        for s in range(1, 2, 1):
+            print s
+            avgIt = 0
+            avgTime = 0
+            timesNotSolved = 0
+            #file.write("s value "+ str(s)+ "\n")
+            file2.write("s value " + str(s) + "\n")
+            for i in range(goes):
+                sudokuFile = "sudoku"+str(sudokuNr)+".txt"
+                sudoku = getSudoku(sudokuFile)
+                fillSudoku(sudoku)
+                score = Score()
+                counter = Score()
 
-            initialEvaluation(sudoku, score)
-            print score.count()
-            start_time = time.time()
+                initialEvaluation(sudoku, score)
+                print score.count()
+                start_time = time.time()
 
-            solved = iteratedLocalSearch(sudoku, score, counter, s)
-            #prettyPrint(sudoku)
-            #print score.count()
-            #print counter.count()
-            x = (time.time() - start_time) * 1000
-            y = counter.count()
-            #print "Run Time:", x, "milliseconds"
-            avgIt += y
-            avgTime += x
-            if score.count() > 0:
-                timesNotSolved += 1
-            #file.write(sudokuFile+"\n")
-            #file.write(str(score.count())+"\n")
-            #file.write(str(y)+"\n")
-            #file.write("Run Time: ")
-            #file.write(str(x))
-            #file.write(" milliseconds\n")
+                solved = iteratedLocalSearch(sudoku, score, counter, s)
+                #prettyPrint(sudoku)
+                #print score.count()
+                #print counter.count()
+                x = (time.time() - start_time) * 1000
+                y = counter.count()
+                #print "Run Time:", x, "milliseconds"
+                avgIt += y
+                avgTime += x
+                if score.count() > 0:
+                    timesNotSolved += 1
+                #file.write(sudokuFile+"\n")
+                #file.write(str(score.count())+"\n")
+                #file.write(str(y)+"\n")
+                #file.write("Run Time: ")
+                #file.write(str(x))
+                #file.write(" milliseconds\n")
 
-        #file.write("average time: " + str(avgTime/goes)+"\n")
-        #file.write("average iterations: " + str(avgIt / goes) + "\n")
-        #file.write("Times not solved: " + str(timesNotSolved) + "\n")
-        file2.write("average time: " + str(avgTime / goes) + "\n")
-        file2.write("average iterations: " + str(avgIt / goes) + "\n")
-        file2.write("Times not solved: " + str(timesNotSolved) + "\n")
+            #file.write("average time: " + str(avgTime/goes)+"\n")
+            #file.write("average iterations: " + str(avgIt / goes) + "\n")
+            #file.write("Times not solved: " + str(timesNotSolved) + "\n")
+            file2.write("average time: " + str(avgTime / goes) + "\n")
+            file2.write("average iterations: " + str(avgIt / goes) + "\n")
+            file2.write("Times not solved: " + str(timesNotSolved) + "\n")
     #file.close()
     file2.close()
 
