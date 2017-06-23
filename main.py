@@ -1,4 +1,4 @@
-import sys, random, math, time
+import random, math, time
 
 def getSudoku(fileName):
     f = open(fileName, "r")
