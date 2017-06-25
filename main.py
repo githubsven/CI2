@@ -131,7 +131,12 @@ def randomWalk(sudoku, S):
 
 def iteratedLocalSearch(sudoku, score, counter, s, noImprovementCounter = 0, randomWalkCounter = 0):
     initialScore = score.count()
-    while score.count() != 0 and randomWalkCounter < initialScore:
+    if initialScore < 100:
+        maxWalks = 100
+    elif initialScore < 300:
+        maxWalks = 300
+    else: maxWalks = 500
+    while score.count() != 0 and randomWalkCounter < maxWalks:
         counter.plus(1)
 
         blockList = getRandomBlockList(sudoku)
@@ -157,13 +162,13 @@ def iteratedLocalSearch(sudoku, score, counter, s, noImprovementCounter = 0, ran
         else:
             score.plus(bestSwap[2])
 
-        if noImprovementCounter >= initialScore:
+        if noImprovementCounter >= (maxWalks):
             randomWalk(sudoku, s)
             initialEvaluation(sudoku, score)
             noImprovementCounter = 0
             randomWalkCounter += 1
 
-    print randomWalkCounter
+    #print randomWalkCounter
     return True
 
 class Score:
@@ -184,28 +189,33 @@ class Square:
     isFixed = False
 
 if __name__ == '__main__':
-    #file = open("test2.txt", "a")
-    file2 = open("test3.txt", "a")
+    file = open("test2.txt", "a")
+    file2 = open("test3.txt", "a+")
     #random.seed(100)
     avgIt = 0
     avgTime = 0
-    goes = 1
+    goes = 20
     sMax = 30
 
-    #file.write("times ran" + str(goes) + "\n")
+    file.write("times ran" + str(goes) + "\n")
     file2.write("times ran " + str(goes) + "\n")
-    for sudokuNr in range (1,16,1):
+    for sudokuNr in range (5,13,1):
+        fileSudoku = open("results"+str(sudokuNr)+".txt", "a+")
+        fileSudoku.write("times ran " + str(goes) + "\n")
         print sudokuNr
         sudokuFile = "sudoku" + str(sudokuNr) + ".txt"
         file2.write("Sudoku " + str(sudokuNr) + "\n")
-        for s in range(1, 2, 1):
+        for s in range(1, 16, 1):
             print s
             avgIt = 0
             avgTime = 0
             timesNotSolved = 0
             #file.write("s value "+ str(s)+ "\n")
             file2.write("s value " + str(s) + "\n")
+            fileSudoku.write("s value " + str(s) + "\n")
             for i in range(goes):
+                #file2.write("difficulty " + str(score.count()) + "\n")
+                #fileSudoku.write("difficulty " + str(score.count()) + "\n")
                 sudokuFile = "sudoku"+str(sudokuNr)+".txt"
                 sudoku = getSudoku(sudokuFile)
                 fillSudoku(sudoku)
@@ -214,6 +224,7 @@ if __name__ == '__main__':
 
                 initialEvaluation(sudoku, score)
                 print score.count()
+
                 start_time = time.time()
 
                 solved = iteratedLocalSearch(sudoku, score, counter, s)
@@ -227,19 +238,21 @@ if __name__ == '__main__':
                 avgTime += x
                 if score.count() > 0:
                     timesNotSolved += 1
-                #file.write(sudokuFile+"\n")
-                #file.write(str(score.count())+"\n")
-                #file.write(str(y)+"\n")
-                #file.write("Run Time: ")
-                #file.write(str(x))
-                #file.write(" milliseconds\n")
+                file.write(sudokuFile+"\n")
+                file.write(str(score.count())+"\n")
+                file.write(str(y)+"\n")
+                file.write("Run Time: "+str(x)+" milliseconds\n")
 
-            #file.write("average time: " + str(avgTime/goes)+"\n")
-            #file.write("average iterations: " + str(avgIt / goes) + "\n")
-            #file.write("Times not solved: " + str(timesNotSolved) + "\n")
+            file.write("average time: " + str(avgTime/goes)+"\n")
+            file.write("average iterations: " + str(avgIt / goes) + "\n")
+            file.write("Times not solved: " + str(timesNotSolved) + "\n")
             file2.write("average time: " + str(avgTime / goes) + "\n")
             file2.write("average iterations: " + str(avgIt / goes) + "\n")
             file2.write("Times not solved: " + str(timesNotSolved) + "\n")
-    #file.close()
+            fileSudoku.write("average time: " + str(avgTime / goes) + "\n")
+            fileSudoku.write("average iterations: " + str(avgIt / goes) + "\n")
+            fileSudoku.write("Times not solved: " + str(timesNotSolved) + "\n")
+        fileSudoku.close()
+    file.close()
     file2.close()
 

@@ -19,4 +19,4 @@ def formatSudoku(fileName):
     f.close()
 
 if __name__ == '__main__':
-    formatSudoku("sudoku15.txt")
+    formatSudoku("sudoku6.txt")

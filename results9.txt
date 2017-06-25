@@ -1,0 +1,173 @@
+s value 1
+average time: 1110.06000519
+average iterations: 2961
+Times not solved: 33
+s value 2
+average time: 1065.41998386
+average iterations: 2840
+Times not solved: 24
+s value 3
+average time: 914.379973412
+average iterations: 2438
+Times not solved: 14
+s value 4
+average time: 912.019987106
+average iterations: 2435
+Times not solved: 18
+s value 5
+average time: 904.340009689
+average iterations: 2402
+Times not solved: 17
+s value 6
+average time: 938.600001335
+average iterations: 2494
+Times not solved: 19
+s value 7
+average time: 1009.97999191
+average iterations: 2682
+Times not solved: 19
+s value 8
+average time: 913.49998951
+average iterations: 2426
+Times not solved: 13
+s value 9
+average time: 1043.90001297
+average iterations: 2779
+Times not solved: 24
+s value 10
+average time: 1073.95999432
+average iterations: 2845
+Times not solved: 21
+s value 11
+average time: 1022.31998444
+average iterations: 2709
+Times not solved: 17
+s value 12
+average time: 1120.01998901
+average iterations: 2982
+Times not solved: 24
+s value 13
+average time: 1198.54000568
+average iterations: 3175
+Times not solved: 30
+s value 14
+average time: 1157.90000916
+average iterations: 3066
+Times not solved: 27
+s value 15
+average time: 1251.38001442
+average iterations: 3315
+Times not solved: 27
+s value 16
+average time: 1208.31997871
+average iterations: 3194
+Times not solved: 26
+s value 17
+average time: 1243.79998207
+average iterations: 3296
+Times not solved: 29
+s value 18
+average time: 1316.65998936
+average iterations: 3495
+Times not solved: 31
+s value 19
+average time: 1306.3999939
+average iterations: 3454
+Times not solved: 31
+s value 20
+average time: 1342.50000954
+average iterations: 3540
+Times not solved: 30
+times ran 50
+s value 1
+difficulty 59
+average time: 1165.44000626
+average iterations: 3073
+Times not solved: 33
+times ran 1
+s value 1
+difficulty 59
+average time: 1245.99981308
+average iterations: 3241
+Times not solved: 0
+times ran 10
+s value 8
+average time: 1436.39998436
+average iterations: 3718
+Times not solved: 2
+times ran 10 random walks sneller
+s value 8
+average time: 1135.19999981
+average iterations: 2957
+Times not solved: 8
+times ran 10 random walks minder snel
+s value 8
+average time: 1209.59999561
+average iterations: 3222
+Times not solved: 0
+times ran 10 max walks lager
+s value 8
+average time: 1759.49997902
+average iterations: 4658
+Times not solved: 5
+times ran 20
+s value 1
+average time: 2057.14997053
+average iterations: 5532
+Times not solved: 6
+s value 2
+average time: 1809.35000181
+average iterations: 4853
+Times not solved: 2
+s value 3
+average time: 1643.3999896
+average iterations: 4407
+Times not solved: 2
+s value 4
+average time: 1389.49999809
+average iterations: 3724
+Times not solved: 1
+s value 5
+average time: 1420.20000219
+average iterations: 3796
+Times not solved: 1
+s value 6
+average time: 1928.70001793
+average iterations: 5175
+Times not solved: 0
+s value 7
+average time: 1516.44998789
+average iterations: 4058
+Times not solved: 3
+s value 8
+average time: 1156.4499855
+average iterations: 3105
+Times not solved: 1
+s value 9
+average time: 1225.80001354
+average iterations: 3285
+Times not solved: 1
+s value 10
+average time: 1274.10001755
+average iterations: 3408
+Times not solved: 0
+s value 11
+average time: 1591.44999981
+average iterations: 4254
+Times not solved: 1
+s value 12
+average time: 1170.15000582
+average iterations: 3146
+Times not solved: 0
+s value 13
+average time: 1919.74999905
+average iterations: 5139
+Times not solved: 2
+s value 14
+average time: 1707.40001202
+average iterations: 4559
+Times not solved: 3
+s value 15
+average time: 1469.85000372
+average iterations: 3933
+Times not solved: 1

@@ -1,0 +1,6 @@
+times ran 1
+s value 1
+difficulty 148
+average time: 29988.0001545
+average iterations: 22151
+Times not solved: 1

@@ -2521,3 +2521,9964 @@ Run Time: 134.000062943 milliseconds
 average time: 152.349984646
 average iterations: 656
 Times not solved: 1
+times ran20
+sudoku5.txt
+4
+10123
+Run Time: 4027.00018883 milliseconds
+sudoku5.txt
+0
+4022
+Run Time: 1604.00009155 milliseconds
+sudoku5.txt
+7
+10131
+Run Time: 4009.99999046 milliseconds
+sudoku5.txt
+10
+10129
+Run Time: 4033.99991989 milliseconds
+sudoku5.txt
+4
+10123
+Run Time: 4029.99997139 milliseconds
+sudoku5.txt
+6
+10124
+Run Time: 4029.00004387 milliseconds
+sudoku5.txt
+8
+10122
+Run Time: 4026.99995041 milliseconds
+sudoku5.txt
+6
+10125
+Run Time: 4013.99993896 milliseconds
+sudoku5.txt
+0
+4833
+Run Time: 1936.00010872 milliseconds
+sudoku5.txt
+0
+9055
+Run Time: 3569.00000572 milliseconds
+sudoku5.txt
+4
+10125
+Run Time: 3963.00005913 milliseconds
+sudoku5.txt
+0
+8067
+Run Time: 3155.99989891 milliseconds
+sudoku5.txt
+8
+10134
+Run Time: 3972.00012207 milliseconds
+sudoku5.txt
+4
+10147
+Run Time: 4007.999897 milliseconds
+sudoku5.txt
+6
+10131
+Run Time: 4024.00016785 milliseconds
+sudoku5.txt
+0
+9060
+Run Time: 3606.99987411 milliseconds
+sudoku5.txt
+5
+10132
+Run Time: 4029.99997139 milliseconds
+sudoku5.txt
+9
+10133
+Run Time: 4009.99999046 milliseconds
+sudoku5.txt
+4
+10138
+Run Time: 4028.00011635 milliseconds
+sudoku5.txt
+0
+5389
+Run Time: 2120.00012398 milliseconds
+average time: 3609.90002155
+average iterations: 9112
+Times not solved: 14
+sudoku5.txt
+2
+10213
+Run Time: 4006.99996948 milliseconds
+sudoku5.txt
+8
+10229
+Run Time: 4002.00009346 milliseconds
+sudoku5.txt
+6
+10237
+Run Time: 4006.99996948 milliseconds
+sudoku5.txt
+2
+10236
+Run Time: 3986.99998856 milliseconds
+sudoku5.txt
+0
+6421
+Run Time: 2501.99985504 milliseconds
+sudoku5.txt
+8
+10231
+Run Time: 3997.99990654 milliseconds
+sudoku5.txt
+6
+10243
+Run Time: 4009.00006294 milliseconds
+sudoku5.txt
+7
+10226
+Run Time: 3957.99994469 milliseconds
+sudoku5.txt
+0
+8462
+Run Time: 3305.99999428 milliseconds
+sudoku5.txt
+10
+10246
+Run Time: 4051.00011826 milliseconds
+sudoku5.txt
+6
+10238
+Run Time: 4061.00010872 milliseconds
+sudoku5.txt
+0
+3860
+Run Time: 1527.99987793 milliseconds
+sudoku5.txt
+10
+10250
+Run Time: 4077.00014114 milliseconds
+sudoku5.txt
+0
+451
+Run Time: 179.999828339 milliseconds
+sudoku5.txt
+5
+10233
+Run Time: 4072.99995422 milliseconds
+sudoku5.txt
+6
+10209
+Run Time: 4026.00002289 milliseconds
+sudoku5.txt
+0
+6536
+Run Time: 2601.00007057 milliseconds
+sudoku5.txt
+0
+5952
+Run Time: 2365.00000954 milliseconds
+sudoku5.txt
+12
+10217
+Run Time: 4054.00013924 milliseconds
+sudoku5.txt
+8
+10238
+Run Time: 4016.99995995 milliseconds
+average time: 3440.45000076
+average iterations: 8746
+Times not solved: 14
+sudoku5.txt
+8
+10356
+Run Time: 4082.99994469 milliseconds
+sudoku5.txt
+11
+10333
+Run Time: 4032.00006485 milliseconds
+sudoku5.txt
+8
+10313
+Run Time: 4051.00011826 milliseconds
+sudoku5.txt
+6
+10317
+Run Time: 4052.00004578 milliseconds
+sudoku5.txt
+0
+6386
+Run Time: 2510.99991798 milliseconds
+sudoku5.txt
+0
+4738
+Run Time: 1867.000103 milliseconds
+sudoku5.txt
+16
+10340
+Run Time: 4121.99997902 milliseconds
+sudoku5.txt
+8
+10321
+Run Time: 4118.00003052 milliseconds
+sudoku5.txt
+0
+4932
+Run Time: 1961.00020409 milliseconds
+sudoku5.txt
+14
+10336
+Run Time: 4122.99990654 milliseconds
+sudoku5.txt
+0
+8864
+Run Time: 3513.99993896 milliseconds
+sudoku5.txt
+10
+10322
+Run Time: 4089.00022507 milliseconds
+sudoku5.txt
+0
+8509
+Run Time: 3327.99983025 milliseconds
+sudoku5.txt
+10
+10325
+Run Time: 4048.00009727 milliseconds
+sudoku5.txt
+10
+10320
+Run Time: 4059.99994278 milliseconds
+sudoku5.txt
+9
+10312
+Run Time: 4070.00017166 milliseconds
+sudoku5.txt
+0
+3496
+Run Time: 1365.00000954 milliseconds
+sudoku5.txt
+0
+9936
+Run Time: 3877.00009346 milliseconds
+sudoku5.txt
+10
+10332
+Run Time: 4106.99987411 milliseconds
+sudoku5.txt
+0
+1619
+Run Time: 642.000198364 milliseconds
+average time: 3401.00003481
+average iterations: 8620
+Times not solved: 12
+sudoku5.txt
+7
+10397
+Run Time: 4161.00001335 milliseconds
+sudoku5.txt
+12
+10411
+Run Time: 4132.999897 milliseconds
+sudoku5.txt
+0
+6318
+Run Time: 2506.99996948 milliseconds
+sudoku5.txt
+0
+6989
+Run Time: 2774.99985695 milliseconds
+sudoku5.txt
+11
+10435
+Run Time: 4165.99988937 milliseconds
+sudoku5.txt
+14
+10418
+Run Time: 4071.00009918 milliseconds
+sudoku5.txt
+8
+10431
+Run Time: 4085.99996567 milliseconds
+sudoku5.txt
+0
+6527
+Run Time: 2565.99998474 milliseconds
+sudoku5.txt
+12
+10420
+Run Time: 4115.00000954 milliseconds
+sudoku5.txt
+17
+10410
+Run Time: 4163.99979591 milliseconds
+sudoku5.txt
+0
+9379
+Run Time: 3735.99982262 milliseconds
+sudoku5.txt
+11
+10438
+Run Time: 4171.00000381 milliseconds
+sudoku5.txt
+9
+10393
+Run Time: 4150.00009537 milliseconds
+sudoku5.txt
+0
+4811
+Run Time: 1909.00015831 milliseconds
+sudoku5.txt
+8
+10440
+Run Time: 4110.99982262 milliseconds
+sudoku5.txt
+0
+2664
+Run Time: 1050.99987984 milliseconds
+sudoku5.txt
+0
+4399
+Run Time: 1732.00011253 milliseconds
+sudoku5.txt
+8
+10414
+Run Time: 4115.99993706 milliseconds
+sudoku5.txt
+0
+2982
+Run Time: 1177.9999733 milliseconds
+sudoku5.txt
+14
+10396
+Run Time: 4076.99990273 milliseconds
+average time: 3348.74995947
+average iterations: 8453
+Times not solved: 12
+sudoku5.txt
+0
+1903
+Run Time: 749.000072479 milliseconds
+sudoku5.txt
+13
+10536
+Run Time: 4154.00004387 milliseconds
+sudoku5.txt
+12
+10502
+Run Time: 4128.9999485 milliseconds
+sudoku5.txt
+0
+2696
+Run Time: 1057.99984932 milliseconds
+sudoku5.txt
+0
+6258
+Run Time: 2473.00004959 milliseconds
+sudoku5.txt
+0
+1687
+Run Time: 672.000169754 milliseconds
+sudoku5.txt
+0
+1557
+Run Time: 622.99990654 milliseconds
+sudoku5.txt
+0
+9910
+Run Time: 3963.00005913 milliseconds
+sudoku5.txt
+14
+10533
+Run Time: 4192.00015068 milliseconds
+sudoku5.txt
+10
+10502
+Run Time: 4103.99985313 milliseconds
+sudoku5.txt
+0
+3443
+Run Time: 1369.00019646 milliseconds
+sudoku5.txt
+0
+2570
+Run Time: 1006.00004196 milliseconds
+sudoku5.txt
+0
+3776
+Run Time: 1480.99994659 milliseconds
+sudoku5.txt
+0
+8275
+Run Time: 3264.99986649 milliseconds
+sudoku5.txt
+17
+10538
+Run Time: 4138.99993896 milliseconds
+sudoku5.txt
+0
+2479
+Run Time: 986.999988556 milliseconds
+sudoku5.txt
+15
+10517
+Run Time: 4105.00001907 milliseconds
+sudoku5.txt
+0
+7479
+Run Time: 2947.99995422 milliseconds
+sudoku5.txt
+9
+10527
+Run Time: 4205.00016212 milliseconds
+sudoku5.txt
+0
+5389
+Run Time: 2140.99979401 milliseconds
+average time: 2588.15000057
+average iterations: 6553
+Times not solved: 7
+sudoku5.txt
+14
+10602
+Run Time: 4231.00018501 milliseconds
+sudoku5.txt
+0
+8848
+Run Time: 3527.99987793 milliseconds
+sudoku5.txt
+0
+1794
+Run Time: 711.000204086 milliseconds
+sudoku5.txt
+0
+1647
+Run Time: 651.999950409 milliseconds
+sudoku5.txt
+0
+8395
+Run Time: 3361.00006104 milliseconds
+sudoku5.txt
+13
+10584
+Run Time: 4205.99985123 milliseconds
+sudoku5.txt
+0
+8115
+Run Time: 3243.00003052 milliseconds
+sudoku5.txt
+0
+7242
+Run Time: 2888.99993896 milliseconds
+sudoku5.txt
+0
+9692
+Run Time: 3846.99988365 milliseconds
+sudoku5.txt
+0
+7501
+Run Time: 2988.0001545 milliseconds
+sudoku5.txt
+0
+9974
+Run Time: 3973.99997711 milliseconds
+sudoku5.txt
+10
+10598
+Run Time: 4217.00000763 milliseconds
+sudoku5.txt
+20
+10587
+Run Time: 4199.00012016 milliseconds
+sudoku5.txt
+19
+10561
+Run Time: 4207.99994469 milliseconds
+sudoku5.txt
+19
+10621
+Run Time: 4245.00012398 milliseconds
+sudoku5.txt
+17
+10598
+Run Time: 4167.99998283 milliseconds
+sudoku5.txt
+12
+10592
+Run Time: 4182.99984932 milliseconds
+sudoku5.txt
+23
+10590
+Run Time: 4151.00002289 milliseconds
+sudoku5.txt
+15
+10601
+Run Time: 4181.9999218 milliseconds
+sudoku5.txt
+0
+9452
+Run Time: 3725.99983215 milliseconds
+average time: 3545.44999599
+average iterations: 8929
+Times not solved: 10
+sudoku5.txt
+0
+4999
+Run Time: 1963.99998665 milliseconds
+sudoku5.txt
+0
+2455
+Run Time: 976.999998093 milliseconds
+sudoku5.txt
+15
+10689
+Run Time: 4196.00009918 milliseconds
+sudoku5.txt
+16
+10651
+Run Time: 4194.00000572 milliseconds
+sudoku5.txt
+0
+1543
+Run Time: 606.000185013 milliseconds
+sudoku5.txt
+24
+10702
+Run Time: 4205.99985123 milliseconds
+sudoku5.txt
+0
+7370
+Run Time: 2901.99995041 milliseconds
+sudoku5.txt
+0
+5279
+Run Time: 2085.99996567 milliseconds
+sudoku5.txt
+20
+10635
+Run Time: 4224.99990463 milliseconds
+sudoku5.txt
+0
+1319
+Run Time: 528.000116348 milliseconds
+sudoku5.txt
+14
+10668
+Run Time: 4256.99996948 milliseconds
+sudoku5.txt
+19
+10683
+Run Time: 4262.00008392 milliseconds
+sudoku5.txt
+0
+7117
+Run Time: 2829.99992371 milliseconds
+sudoku5.txt
+0
+2179
+Run Time: 866.000175476 milliseconds
+sudoku5.txt
+0
+6769
+Run Time: 2700.00004768 milliseconds
+sudoku5.txt
+21
+10702
+Run Time: 4273.99992943 milliseconds
+sudoku5.txt
+17
+10698
+Run Time: 4259.99999046 milliseconds
+sudoku5.txt
+22
+10679
+Run Time: 4236.00006104 milliseconds
+sudoku5.txt
+0
+5946
+Run Time: 2388.99993896 milliseconds
+sudoku5.txt
+0
+10443
+Run Time: 4183.00008774 milliseconds
+average time: 3007.05001354
+average iterations: 7576
+Times not solved: 9
+sudoku5.txt
+21
+10741
+Run Time: 4309.00001526 milliseconds
+sudoku5.txt
+0
+1511
+Run Time: 598.999977112 milliseconds
+sudoku5.txt
+13
+10749
+Run Time: 4289.99996185 milliseconds
+sudoku5.txt
+20
+10773
+Run Time: 4302.00004578 milliseconds
+sudoku5.txt
+18
+10731
+Run Time: 4280.99989891 milliseconds
+sudoku5.txt
+0
+3085
+Run Time: 1229.00009155 milliseconds
+sudoku5.txt
+0
+5969
+Run Time: 2345.99995613 milliseconds
+sudoku5.txt
+16
+10771
+Run Time: 4218.99986267 milliseconds
+sudoku5.txt
+0
+8821
+Run Time: 3435.9998703 milliseconds
+sudoku5.txt
+0
+10035
+Run Time: 3926.00011826 milliseconds
+sudoku5.txt
+0
+9530
+Run Time: 3755.00011444 milliseconds
+sudoku5.txt
+17
+10781
+Run Time: 4211.99989319 milliseconds
+sudoku5.txt
+0
+7775
+Run Time: 3034.99984741 milliseconds
+sudoku5.txt
+0
+6515
+Run Time: 2555.00006676 milliseconds
+sudoku5.txt
+25
+10751
+Run Time: 4328.00006866 milliseconds
+sudoku5.txt
+0
+3280
+Run Time: 1292.99998283 milliseconds
+sudoku5.txt
+16
+10790
+Run Time: 4319.99993324 milliseconds
+sudoku5.txt
+0
+2166
+Run Time: 855.000019073 milliseconds
+sudoku5.txt
+21
+10771
+Run Time: 4298.00009727 milliseconds
+sudoku5.txt
+20
+10781
+Run Time: 4308.00008774 milliseconds
+average time: 3294.79999542
+average iterations: 8316
+Times not solved: 10
+sudoku5.txt
+15
+10841
+Run Time: 4322.0000267 milliseconds
+sudoku5.txt
+19
+10778
+Run Time: 4279.99997139 milliseconds
+sudoku5.txt
+0
+5703
+Run Time: 2258.00013542 milliseconds
+sudoku5.txt
+20
+10859
+Run Time: 4250.99992752 milliseconds
+sudoku5.txt
+0
+8202
+Run Time: 3232.00011253 milliseconds
+sudoku5.txt
+0
+9694
+Run Time: 3812.99996376 milliseconds
+sudoku5.txt
+0
+2269
+Run Time: 892.999887466 milliseconds
+sudoku5.txt
+18
+10861
+Run Time: 4261.9998455 milliseconds
+sudoku5.txt
+14
+10824
+Run Time: 4268.99981499 milliseconds
+sudoku5.txt
+18
+10865
+Run Time: 4222.00012207 milliseconds
+sudoku5.txt
+0
+2986
+Run Time: 1181.9999218 milliseconds
+sudoku5.txt
+0
+6862
+Run Time: 2681.9999218 milliseconds
+sudoku5.txt
+21
+10843
+Run Time: 4246.99997902 milliseconds
+sudoku5.txt
+0
+4629
+Run Time: 1802.00004578 milliseconds
+sudoku5.txt
+0
+2489
+Run Time: 996.000051498 milliseconds
+sudoku5.txt
+16
+10820
+Run Time: 4211.99989319 milliseconds
+sudoku5.txt
+21
+10816
+Run Time: 4241.00017548 milliseconds
+sudoku5.txt
+21
+10840
+Run Time: 4246.99997902 milliseconds
+sudoku5.txt
+21
+10846
+Run Time: 4266.00003242 milliseconds
+sudoku5.txt
+0
+5392
+Run Time: 2146.00014687 milliseconds
+average time: 3291.14999771
+average iterations: 8370
+Times not solved: 11
+sudoku5.txt
+0
+1028
+Run Time: 413.000106812 milliseconds
+sudoku5.txt
+0
+1842
+Run Time: 747.99990654 milliseconds
+sudoku5.txt
+0
+929
+Run Time: 370.000123978 milliseconds
+sudoku5.txt
+0
+10476
+Run Time: 4205.99985123 milliseconds
+sudoku5.txt
+0
+2731
+Run Time: 1102.99992561 milliseconds
+sudoku5.txt
+20
+10897
+Run Time: 4344.00010109 milliseconds
+sudoku5.txt
+17
+10870
+Run Time: 4350.99983215 milliseconds
+sudoku5.txt
+0
+9023
+Run Time: 3618.99995804 milliseconds
+sudoku5.txt
+23
+10915
+Run Time: 4365.00000954 milliseconds
+sudoku5.txt
+0
+8344
+Run Time: 3326.99990273 milliseconds
+sudoku5.txt
+0
+3306
+Run Time: 1311.00010872 milliseconds
+sudoku5.txt
+0
+3879
+Run Time: 1549.99995232 milliseconds
+sudoku5.txt
+19
+10870
+Run Time: 4336.99989319 milliseconds
+sudoku5.txt
+16
+10880
+Run Time: 4336.00020409 milliseconds
+sudoku5.txt
+0
+8985
+Run Time: 3569.99993324 milliseconds
+sudoku5.txt
+0
+8607
+Run Time: 3432.00016022 milliseconds
+sudoku5.txt
+21
+10891
+Run Time: 4353.99985313 milliseconds
+sudoku5.txt
+25
+10940
+Run Time: 4361.00006104 milliseconds
+sudoku5.txt
+0
+10871
+Run Time: 4324.00012016 milliseconds
+sudoku5.txt
+0
+832
+Run Time: 328.999996185 milliseconds
+average time: 2937.5
+average iterations: 7355
+Times not solved: 7
+sudoku5.txt
+20
+10963
+Run Time: 4314.0001297 milliseconds
+sudoku5.txt
+27
+10979
+Run Time: 4291.00012779 milliseconds
+sudoku5.txt
+0
+2310
+Run Time: 923.999786377 milliseconds
+sudoku5.txt
+0
+9159
+Run Time: 3592.00000763 milliseconds
+sudoku5.txt
+26
+10961
+Run Time: 4295.00007629 milliseconds
+sudoku5.txt
+0
+4215
+Run Time: 1651.99995041 milliseconds
+sudoku5.txt
+25
+10958
+Run Time: 4311.00010872 milliseconds
+sudoku5.txt
+22
+10956
+Run Time: 4312.00003624 milliseconds
+sudoku5.txt
+0
+7740
+Run Time: 3042.99998283 milliseconds
+sudoku5.txt
+0
+4160
+Run Time: 1628.9999485 milliseconds
+sudoku5.txt
+0
+1945
+Run Time: 761.999845505 milliseconds
+sudoku5.txt
+0
+8303
+Run Time: 3254.99987602 milliseconds
+sudoku5.txt
+22
+10942
+Run Time: 4303.99990082 milliseconds
+sudoku5.txt
+23
+10983
+Run Time: 4302.9999733 milliseconds
+sudoku5.txt
+0
+4695
+Run Time: 1833.00018311 milliseconds
+sudoku5.txt
+20
+10990
+Run Time: 4315.99998474 milliseconds
+sudoku5.txt
+0
+3054
+Run Time: 1197.99995422 milliseconds
+sudoku5.txt
+23
+10988
+Run Time: 4300.00019073 milliseconds
+sudoku5.txt
+0
+4240
+Run Time: 1661.99994087 milliseconds
+sudoku5.txt
+0
+10320
+Run Time: 4100.99983215 milliseconds
+average time: 3119.8499918
+average iterations: 7943
+Times not solved: 9
+sudoku5.txt
+0
+1324
+Run Time: 529.99997139 milliseconds
+sudoku5.txt
+27
+11066
+Run Time: 4417.99998283 milliseconds
+sudoku5.txt
+31
+11052
+Run Time: 4417.00005531 milliseconds
+sudoku5.txt
+19
+11034
+Run Time: 4418.99991035 milliseconds
+sudoku5.txt
+24
+11058
+Run Time: 4404.00004387 milliseconds
+sudoku5.txt
+0
+6195
+Run Time: 2480.00001907 milliseconds
+sudoku5.txt
+0
+1860
+Run Time: 740.999937057 milliseconds
+sudoku5.txt
+0
+3718
+Run Time: 1490.00000954 milliseconds
+sudoku5.txt
+27
+11019
+Run Time: 4374.00007248 milliseconds
+sudoku5.txt
+0
+6278
+Run Time: 2480.99994659 milliseconds
+sudoku5.txt
+0
+11006
+Run Time: 4305.99999428 milliseconds
+sudoku5.txt
+26
+11035
+Run Time: 4315.00005722 milliseconds
+sudoku5.txt
+0
+4728
+Run Time: 1881.00004196 milliseconds
+sudoku5.txt
+0
+9969
+Run Time: 3904.00004387 milliseconds
+sudoku5.txt
+0
+2161
+Run Time: 869.999885559 milliseconds
+sudoku5.txt
+0
+3642
+Run Time: 1426.00011826 milliseconds
+sudoku5.txt
+0
+6903
+Run Time: 2719.99979019 milliseconds
+sudoku5.txt
+31
+11046
+Run Time: 4345.00002861 milliseconds
+sudoku5.txt
+0
+7975
+Run Time: 3164.99996185 milliseconds
+sudoku5.txt
+0
+8777
+Run Time: 3465.99984169 milliseconds
+average time: 3007.5999856
+average iterations: 7592
+Times not solved: 7
+sudoku5.txt
+0
+4098
+Run Time: 1613.9998436 milliseconds
+sudoku5.txt
+36
+11128
+Run Time: 4392.00019836 milliseconds
+sudoku5.txt
+29
+11116
+Run Time: 4379.99987602 milliseconds
+sudoku5.txt
+0
+6179
+Run Time: 2426.00011826 milliseconds
+sudoku5.txt
+0
+2371
+Run Time: 934.000015259 milliseconds
+sudoku5.txt
+18
+11099
+Run Time: 4406.00013733 milliseconds
+sudoku5.txt
+0
+4508
+Run Time: 1796.00000381 milliseconds
+sudoku5.txt
+0
+10707
+Run Time: 4279.99997139 milliseconds
+sudoku5.txt
+0
+6837
+Run Time: 2737.99991608 milliseconds
+sudoku5.txt
+0
+8593
+Run Time: 3436.00010872 milliseconds
+sudoku5.txt
+22
+11083
+Run Time: 4423.00009727 milliseconds
+sudoku5.txt
+33
+11101
+Run Time: 4425.99987984 milliseconds
+sudoku5.txt
+24
+11094
+Run Time: 4426.99980736 milliseconds
+sudoku5.txt
+0
+9737
+Run Time: 3889.99986649 milliseconds
+sudoku5.txt
+0
+5397
+Run Time: 2163.00010681 milliseconds
+sudoku5.txt
+19
+11164
+Run Time: 4447.0000267 milliseconds
+sudoku5.txt
+23
+11135
+Run Time: 4417.99998283 milliseconds
+sudoku5.txt
+22
+11163
+Run Time: 4418.99991035 milliseconds
+sudoku5.txt
+0
+8781
+Run Time: 3523.99992943 milliseconds
+sudoku5.txt
+23
+11090
+Run Time: 4341.00008011 milliseconds
+average time: 3543.9999938
+average iterations: 8919
+Times not solved: 10
+sudoku5.txt
+0
+994
+Run Time: 391.999959946 milliseconds
+sudoku5.txt
+27
+11152
+Run Time: 4374.00007248 milliseconds
+sudoku5.txt
+0
+864
+Run Time: 344.000101089 milliseconds
+sudoku5.txt
+28
+11101
+Run Time: 4356.99987411 milliseconds
+sudoku5.txt
+26
+11148
+Run Time: 4448.00019264 milliseconds
+sudoku5.txt
+0
+10412
+Run Time: 4069.00000572 milliseconds
+sudoku5.txt
+0
+1658
+Run Time: 654.99997139 milliseconds
+sudoku5.txt
+0
+5534
+Run Time: 2161.00001335 milliseconds
+sudoku5.txt
+0
+4365
+Run Time: 1730.99994659 milliseconds
+sudoku5.txt
+0
+4626
+Run Time: 1805.99999428 milliseconds
+sudoku5.txt
+25
+11173
+Run Time: 4385.00022888 milliseconds
+sudoku5.txt
+0
+6150
+Run Time: 2409.99984741 milliseconds
+sudoku5.txt
+28
+11164
+Run Time: 4394.00005341 milliseconds
+sudoku5.txt
+19
+11164
+Run Time: 4384.00006294 milliseconds
+sudoku5.txt
+24
+11127
+Run Time: 4359.9998951 milliseconds
+sudoku5.txt
+0
+7348
+Run Time: 2902.99987793 milliseconds
+sudoku5.txt
+25
+11192
+Run Time: 4448.99988174 milliseconds
+sudoku5.txt
+21
+11198
+Run Time: 4479.00009155 milliseconds
+sudoku5.txt
+22
+11163
+Run Time: 4496.99997902 milliseconds
+sudoku5.txt
+28
+11134
+Run Time: 4463.99998665 milliseconds
+average time: 3253.10000181
+average iterations: 8233
+Times not solved: 11
+sudoku5.txt
+28
+11191
+Run Time: 4479.00009155 milliseconds
+sudoku5.txt
+21
+11182
+Run Time: 4458.99987221 milliseconds
+sudoku5.txt
+33
+11212
+Run Time: 4439.9998188 milliseconds
+sudoku5.txt
+28
+11207
+Run Time: 4394.99998093 milliseconds
+sudoku5.txt
+0
+7037
+Run Time: 2781.00013733 milliseconds
+sudoku5.txt
+24
+11236
+Run Time: 4418.99991035 milliseconds
+sudoku5.txt
+0
+10343
+Run Time: 4121.99997902 milliseconds
+sudoku5.txt
+0
+3133
+Run Time: 1242.9997921 milliseconds
+sudoku5.txt
+27
+11211
+Run Time: 4483.00004005 milliseconds
+sudoku5.txt
+27
+11242
+Run Time: 4427.9999733 milliseconds
+sudoku5.txt
+24
+11217
+Run Time: 4463.00005913 milliseconds
+sudoku5.txt
+22
+11207
+Run Time: 4443.0000782 milliseconds
+sudoku5.txt
+29
+11227
+Run Time: 4475.99983215 milliseconds
+sudoku5.txt
+17
+11202
+Run Time: 4484.9998951 milliseconds
+sudoku5.txt
+0
+4526
+Run Time: 1812.99996376 milliseconds
+sudoku5.txt
+0
+1865
+Run Time: 753.999948502 milliseconds
+sudoku5.txt
+0
+4480
+Run Time: 1783.99991989 milliseconds
+sudoku5.txt
+29
+11230
+Run Time: 4484.9998951 milliseconds
+sudoku5.txt
+23
+11213
+Run Time: 4472.00012207 milliseconds
+sudoku5.txt
+25
+11175
+Run Time: 4478.99985313 milliseconds
+average time: 3745.14995813
+average iterations: 9416
+Times not solved: 14
+sudoku6.txt
+2
+10137
+Run Time: 4092.99993515 milliseconds
+sudoku6.txt
+0
+6607
+Run Time: 2677.9999733 milliseconds
+sudoku6.txt
+4
+10131
+Run Time: 4108.00004005 milliseconds
+sudoku6.txt
+0
+5425
+Run Time: 2144.00005341 milliseconds
+sudoku6.txt
+0
+1513
+Run Time: 593.000173569 milliseconds
+sudoku6.txt
+0
+5507
+Run Time: 2200.00004768 milliseconds
+sudoku6.txt
+0
+680
+Run Time: 267.999887466 milliseconds
+sudoku6.txt
+0
+1488
+Run Time: 593.999862671 milliseconds
+sudoku6.txt
+8
+10149
+Run Time: 4023.00000191 milliseconds
+sudoku6.txt
+4
+10136
+Run Time: 3987.99991608 milliseconds
+sudoku6.txt
+0
+4519
+Run Time: 1819.00000572 milliseconds
+sudoku6.txt
+0
+585
+Run Time: 230.000019073 milliseconds
+sudoku6.txt
+6
+10130
+Run Time: 4009.00006294 milliseconds
+sudoku6.txt
+6
+10125
+Run Time: 4000.0 milliseconds
+sudoku6.txt
+0
+8229
+Run Time: 3303.00021172 milliseconds
+sudoku6.txt
+0
+1503
+Run Time: 605.000019073 milliseconds
+sudoku6.txt
+8
+10130
+Run Time: 4098.00004959 milliseconds
+sudoku6.txt
+0
+1190
+Run Time: 473.000049591 milliseconds
+sudoku6.txt
+0
+3994
+Run Time: 1601.99999809 milliseconds
+sudoku6.txt
+2
+10134
+Run Time: 4098.99997711 milliseconds
+average time: 2446.35001421
+average iterations: 6115
+Times not solved: 8
+sudoku6.txt
+9
+10235
+Run Time: 4133.99982452 milliseconds
+sudoku6.txt
+6
+10252
+Run Time: 4116.00017548 milliseconds
+sudoku6.txt
+0
+4321
+Run Time: 1740.99993706 milliseconds
+sudoku6.txt
+0
+807
+Run Time: 318.000078201 milliseconds
+sudoku6.txt
+8
+10227
+Run Time: 4127.00009346 milliseconds
+sudoku6.txt
+0
+828
+Run Time: 328.999996185 milliseconds
+sudoku6.txt
+0
+9656
+Run Time: 3877.00009346 milliseconds
+sudoku6.txt
+0
+9177
+Run Time: 3625.0 milliseconds
+sudoku6.txt
+8
+10231
+Run Time: 4033.99991989 milliseconds
+sudoku6.txt
+0
+7939
+Run Time: 3217.00000763 milliseconds
+sudoku6.txt
+8
+10243
+Run Time: 4161.00001335 milliseconds
+sudoku6.txt
+5
+10252
+Run Time: 4138.99993896 milliseconds
+sudoku6.txt
+0
+671
+Run Time: 271.000146866 milliseconds
+sudoku6.txt
+0
+518
+Run Time: 222.999811172 milliseconds
+sudoku6.txt
+8
+10238
+Run Time: 4108.00004005 milliseconds
+sudoku6.txt
+0
+546
+Run Time: 217.99993515 milliseconds
+sudoku6.txt
+10
+10233
+Run Time: 4125.0 milliseconds
+sudoku6.txt
+10
+10250
+Run Time: 4132.999897 milliseconds
+sudoku6.txt
+8
+10240
+Run Time: 4144.99998093 milliseconds
+sudoku6.txt
+7
+10235
+Run Time: 4141.99995995 milliseconds
+average time: 2959.14999247
+average iterations: 7354
+Times not solved: 11
+sudoku6.txt
+0
+2110
+Run Time: 839.999914169 milliseconds
+sudoku6.txt
+0
+3249
+Run Time: 1301.00011826 milliseconds
+sudoku6.txt
+0
+5754
+Run Time: 2322.0000267 milliseconds
+sudoku6.txt
+0
+7408
+Run Time: 2988.9998436 milliseconds
+sudoku6.txt
+0
+8878
+Run Time: 3546.99993134 milliseconds
+sudoku6.txt
+0
+8845
+Run Time: 3509.99999046 milliseconds
+sudoku6.txt
+0
+1417
+Run Time: 569.999933243 milliseconds
+sudoku6.txt
+11
+10337
+Run Time: 4114.00008202 milliseconds
+sudoku6.txt
+0
+2178
+Run Time: 870.99981308 milliseconds
+sudoku6.txt
+0
+6611
+Run Time: 2634.99999046 milliseconds
+sudoku6.txt
+0
+8629
+Run Time: 3434.99994278 milliseconds
+sudoku6.txt
+9
+10341
+Run Time: 4067.00015068 milliseconds
+sudoku6.txt
+0
+1541
+Run Time: 630.999803543 milliseconds
+sudoku6.txt
+0
+1177
+Run Time: 465.000152588 milliseconds
+sudoku6.txt
+0
+3130
+Run Time: 1243.99995804 milliseconds
+sudoku6.txt
+0
+9118
+Run Time: 3626.00016594 milliseconds
+sudoku6.txt
+0
+2309
+Run Time: 925.999879837 milliseconds
+sudoku6.txt
+0
+2854
+Run Time: 1151.99995041 milliseconds
+sudoku6.txt
+0
+5717
+Run Time: 2308.00008774 milliseconds
+sudoku6.txt
+0
+1853
+Run Time: 761.000156403 milliseconds
+average time: 2065.69999456
+average iterations: 5172
+Times not solved: 2
+sudoku6.txt
+0
+1674
+Run Time: 672.999858856 milliseconds
+sudoku6.txt
+0
+3386
+Run Time: 1355.99994659 milliseconds
+sudoku6.txt
+0
+8392
+Run Time: 3380.00011444 milliseconds
+sudoku6.txt
+0
+5203
+Run Time: 2088.00005913 milliseconds
+sudoku6.txt
+17
+10417
+Run Time: 4213.99998665 milliseconds
+sudoku6.txt
+12
+10436
+Run Time: 4210.00003815 milliseconds
+sudoku6.txt
+14
+10429
+Run Time: 4203.00006866 milliseconds
+sudoku6.txt
+0
+4325
+Run Time: 1757.999897 milliseconds
+sudoku6.txt
+0
+1065
+Run Time: 427.999973297 milliseconds
+sudoku6.txt
+0
+7131
+Run Time: 2868.00003052 milliseconds
+sudoku6.txt
+0
+3760
+Run Time: 1519.99998093 milliseconds
+sudoku6.txt
+0
+8981
+Run Time: 3554.00013924 milliseconds
+sudoku6.txt
+0
+1400
+Run Time: 575.000047684 milliseconds
+sudoku6.txt
+0
+5884
+Run Time: 2345.00002861 milliseconds
+sudoku6.txt
+13
+10439
+Run Time: 4140.0001049 milliseconds
+sudoku6.txt
+0
+1104
+Run Time: 438.999891281 milliseconds
+sudoku6.txt
+16
+10444
+Run Time: 4156.99982643 milliseconds
+sudoku6.txt
+0
+1199
+Run Time: 473.000049591 milliseconds
+sudoku6.txt
+0
+3031
+Run Time: 1226.00007057 milliseconds
+sudoku6.txt
+10
+10430
+Run Time: 4135.99991798 milliseconds
+average time: 2387.15000153
+average iterations: 5956
+Times not solved: 6
+sudoku6.txt
+14
+10526
+Run Time: 4203.99999619 milliseconds
+sudoku6.txt
+0
+6155
+Run Time: 2440.99998474 milliseconds
+sudoku6.txt
+0
+2806
+Run Time: 1123.99983406 milliseconds
+sudoku6.txt
+0
+4275
+Run Time: 1720.99995613 milliseconds
+sudoku6.txt
+0
+2640
+Run Time: 1054.00013924 milliseconds
+sudoku6.txt
+0
+6640
+Run Time: 2621.99997902 milliseconds
+sudoku6.txt
+0
+1442
+Run Time: 592.99993515 milliseconds
+sudoku6.txt
+16
+10529
+Run Time: 4147.00007439 milliseconds
+sudoku6.txt
+0
+1148
+Run Time: 453.000068665 milliseconds
+sudoku6.txt
+0
+1486
+Run Time: 608.999967575 milliseconds
+sudoku6.txt
+0
+2068
+Run Time: 817.000150681 milliseconds
+sudoku6.txt
+19
+10524
+Run Time: 4183.00008774 milliseconds
+sudoku6.txt
+0
+3584
+Run Time: 1409.99984741 milliseconds
+sudoku6.txt
+0
+9779
+Run Time: 3881.99996948 milliseconds
+sudoku6.txt
+18
+10499
+Run Time: 4161.00001335 milliseconds
+sudoku6.txt
+0
+1119
+Run Time: 447.999954224 milliseconds
+sudoku6.txt
+0
+7638
+Run Time: 3046.00000381 milliseconds
+sudoku6.txt
+0
+2805
+Run Time: 1127.00009346 milliseconds
+sudoku6.txt
+0
+5328
+Run Time: 2125.99992752 milliseconds
+sudoku6.txt
+18
+10511
+Run Time: 4148.00000191 milliseconds
+average time: 2215.79999924
+average iterations: 5575
+Times not solved: 5
+sudoku6.txt
+0
+6655
+Run Time: 2654.99997139 milliseconds
+sudoku6.txt
+0
+1902
+Run Time: 759.000062943 milliseconds
+sudoku6.txt
+0
+1701
+Run Time: 687.00003624 milliseconds
+sudoku6.txt
+11
+10601
+Run Time: 4194.00000572 milliseconds
+sudoku6.txt
+0
+7198
+Run Time: 2851.99999809 milliseconds
+sudoku6.txt
+0
+1677
+Run Time: 657.00006485 milliseconds
+sudoku6.txt
+0
+5167
+Run Time: 2023.00000191 milliseconds
+sudoku6.txt
+0
+9607
+Run Time: 3792.99998283 milliseconds
+sudoku6.txt
+0
+2986
+Run Time: 1200.00004768 milliseconds
+sudoku6.txt
+0
+2169
+Run Time: 866.999864578 milliseconds
+sudoku6.txt
+0
+1954
+Run Time: 782.999992371 milliseconds
+sudoku6.txt
+17
+10643
+Run Time: 4279.99997139 milliseconds
+sudoku6.txt
+0
+2612
+Run Time: 1055.00006676 milliseconds
+sudoku6.txt
+0
+1400
+Run Time: 581.000089645 milliseconds
+sudoku6.txt
+0
+5834
+Run Time: 2347.00012207 milliseconds
+sudoku6.txt
+16
+10611
+Run Time: 4279.99997139 milliseconds
+sudoku6.txt
+0
+10383
+Run Time: 4199.99980927 milliseconds
+sudoku6.txt
+0
+1661
+Run Time: 674.000024796 milliseconds
+sudoku6.txt
+17
+10649
+Run Time: 4302.9999733 milliseconds
+sudoku6.txt
+0
+10140
+Run Time: 4066.99991226 milliseconds
+average time: 2312.84999847
+average iterations: 5777
+Times not solved: 4
+sudoku6.txt
+0
+10594
+Run Time: 4286.00001335 milliseconds
+sudoku6.txt
+23
+10701
+Run Time: 4326.99990273 milliseconds
+sudoku6.txt
+0
+6932
+Run Time: 2814.0001297 milliseconds
+sudoku6.txt
+0
+7259
+Run Time: 2922.99985886 milliseconds
+sudoku6.txt
+0
+2465
+Run Time: 986.999988556 milliseconds
+sudoku6.txt
+0
+1063
+Run Time: 437.99996376 milliseconds
+sudoku6.txt
+0
+7146
+Run Time: 2825.9999752 milliseconds
+sudoku6.txt
+18
+10734
+Run Time: 4302.00004578 milliseconds
+sudoku6.txt
+0
+8013
+Run Time: 3207.00001717 milliseconds
+sudoku6.txt
+0
+5054
+Run Time: 2003.9999485 milliseconds
+sudoku6.txt
+23
+10682
+Run Time: 4258.99982452 milliseconds
+sudoku6.txt
+0
+582
+Run Time: 236.999988556 milliseconds
+sudoku6.txt
+22
+10706
+Run Time: 4368.00003052 milliseconds
+sudoku6.txt
+0
+3964
+Run Time: 1575.00004768 milliseconds
+sudoku6.txt
+15
+10696
+Run Time: 4244.99988556 milliseconds
+sudoku6.txt
+19
+10686
+Run Time: 4244.99988556 milliseconds
+sudoku6.txt
+0
+5559
+Run Time: 2205.99985123 milliseconds
+sudoku6.txt
+0
+7538
+Run Time: 3048.00009727 milliseconds
+sudoku6.txt
+21
+10692
+Run Time: 4300.99987984 milliseconds
+sudoku6.txt
+0
+9541
+Run Time: 3847.00012207 milliseconds
+average time: 3022.24997282
+average iterations: 7530
+Times not solved: 7
+sudoku6.txt
+28
+10821
+Run Time: 4388.00001144 milliseconds
+sudoku6.txt
+0
+5975
+Run Time: 2457.99994469 milliseconds
+sudoku6.txt
+0
+6899
+Run Time: 2720.00002861 milliseconds
+sudoku6.txt
+0
+2973
+Run Time: 1177.00004578 milliseconds
+sudoku6.txt
+23
+10751
+Run Time: 4276.99995041 milliseconds
+sudoku6.txt
+0
+4863
+Run Time: 1931.9999218 milliseconds
+sudoku6.txt
+0
+5116
+Run Time: 2032.00006485 milliseconds
+sudoku6.txt
+22
+10787
+Run Time: 4298.00009727 milliseconds
+sudoku6.txt
+0
+7396
+Run Time: 2927.9999733 milliseconds
+sudoku6.txt
+0
+9438
+Run Time: 3756.00004196 milliseconds
+sudoku6.txt
+17
+10771
+Run Time: 4345.00002861 milliseconds
+sudoku6.txt
+0
+6908
+Run Time: 2793.00022125 milliseconds
+sudoku6.txt
+0
+392
+Run Time: 159.999847412 milliseconds
+sudoku6.txt
+0
+616
+Run Time: 265.000104904 milliseconds
+sudoku6.txt
+0
+1709
+Run Time: 694.000005722 milliseconds
+sudoku6.txt
+15
+10792
+Run Time: 4381.99996948 milliseconds
+sudoku6.txt
+17
+10796
+Run Time: 4273.00000191 milliseconds
+sudoku6.txt
+0
+3239
+Run Time: 1301.00011826 milliseconds
+sudoku6.txt
+15
+10794
+Run Time: 4279.00004387 milliseconds
+sudoku6.txt
+0
+524
+Run Time: 207.999944687 milliseconds
+average time: 2633.30001831
+average iterations: 6578
+Times not solved: 7
+sudoku6.txt
+20
+10845
+Run Time: 4321.00009918 milliseconds
+sudoku6.txt
+18
+10828
+Run Time: 4296.00000381 milliseconds
+sudoku6.txt
+27
+10817
+Run Time: 4306.9999218 milliseconds
+sudoku6.txt
+0
+1815
+Run Time: 716.000080109 milliseconds
+sudoku6.txt
+0
+2695
+Run Time: 1087.00013161 milliseconds
+sudoku6.txt
+0
+1380
+Run Time: 544.999837875 milliseconds
+sudoku6.txt
+0
+10558
+Run Time: 4255.00011444 milliseconds
+sudoku6.txt
+0
+2994
+Run Time: 1212.00013161 milliseconds
+sudoku6.txt
+24
+10847
+Run Time: 4404.99997139 milliseconds
+sudoku6.txt
+23
+10833
+Run Time: 4387.00008392 milliseconds
+sudoku6.txt
+0
+911
+Run Time: 366.999864578 milliseconds
+sudoku6.txt
+24
+10830
+Run Time: 4391.00003242 milliseconds
+sudoku6.txt
+0
+2940
+Run Time: 1182.99984932 milliseconds
+sudoku6.txt
+24
+10815
+Run Time: 4292.00005531 milliseconds
+sudoku6.txt
+22
+10859
+Run Time: 4298.00009727 milliseconds
+sudoku6.txt
+0
+3005
+Run Time: 1200.00004768 milliseconds
+sudoku6.txt
+0
+8651
+Run Time: 3444.00000572 milliseconds
+sudoku6.txt
+0
+9884
+Run Time: 3934.00001526 milliseconds
+sudoku6.txt
+0
+2603
+Run Time: 1039.00003433 milliseconds
+sudoku6.txt
+0
+702
+Run Time: 284.00015831 milliseconds
+average time: 2698.1500268
+average iterations: 6740
+Times not solved: 8
+sudoku6.txt
+0
+2483
+Run Time: 981.999874115 milliseconds
+sudoku6.txt
+20
+10932
+Run Time: 4429.00013924 milliseconds
+sudoku6.txt
+0
+5220
+Run Time: 2101.00007057 milliseconds
+sudoku6.txt
+24
+10963
+Run Time: 4425.99987984 milliseconds
+sudoku6.txt
+0
+1736
+Run Time: 709.000110626 milliseconds
+sudoku6.txt
+0
+4607
+Run Time: 1875.0 milliseconds
+sudoku6.txt
+0
+2355
+Run Time: 948.999881744 milliseconds
+sudoku6.txt
+22
+10952
+Run Time: 4427.00004578 milliseconds
+sudoku6.txt
+0
+4745
+Run Time: 1919.99983788 milliseconds
+sudoku6.txt
+24
+10907
+Run Time: 4388.00001144 milliseconds
+sudoku6.txt
+18
+10899
+Run Time: 4406.99982643 milliseconds
+sudoku6.txt
+0
+3116
+Run Time: 1245.99981308 milliseconds
+sudoku6.txt
+29
+10939
+Run Time: 4453.00006866 milliseconds
+sudoku6.txt
+21
+10954
+Run Time: 4407.99999237 milliseconds
+sudoku6.txt
+21
+10922
+Run Time: 4424.0000248 milliseconds
+sudoku6.txt
+0
+1953
+Run Time: 784.999847412 milliseconds
+sudoku6.txt
+28
+10921
+Run Time: 4417.99998283 milliseconds
+sudoku6.txt
+22
+10966
+Run Time: 4411.00001335 milliseconds
+sudoku6.txt
+0
+7704
+Run Time: 3128.00002098 milliseconds
+sudoku6.txt
+21
+10935
+Run Time: 4356.99987411 milliseconds
+average time: 3112.14996576
+average iterations: 7710
+Times not solved: 11
+sudoku6.txt
+0
+8796
+Run Time: 3509.99999046 milliseconds
+sudoku6.txt
+0
+1730
+Run Time: 683.000087738 milliseconds
+sudoku6.txt
+0
+442
+Run Time: 174.000024796 milliseconds
+sudoku6.txt
+0
+1797
+Run Time: 717.000007629 milliseconds
+sudoku6.txt
+0
+4798
+Run Time: 1908.99991989 milliseconds
+sudoku6.txt
+0
+2846
+Run Time: 1144.99998093 milliseconds
+sudoku6.txt
+0
+1683
+Run Time: 664.000034332 milliseconds
+sudoku6.txt
+0
+10426
+Run Time: 4171.00000381 milliseconds
+sudoku6.txt
+21
+11014
+Run Time: 4413.00010681 milliseconds
+sudoku6.txt
+0
+3188
+Run Time: 1302.9999733 milliseconds
+sudoku6.txt
+20
+11004
+Run Time: 4496.99997902 milliseconds
+sudoku6.txt
+0
+4481
+Run Time: 1809.99994278 milliseconds
+sudoku6.txt
+22
+11000
+Run Time: 4431.9999218 milliseconds
+sudoku6.txt
+27
+10983
+Run Time: 4436.00010872 milliseconds
+sudoku6.txt
+0
+3549
+Run Time: 1418.99991035 milliseconds
+sudoku6.txt
+19
+10961
+Run Time: 4440.00005722 milliseconds
+sudoku6.txt
+30
+10990
+Run Time: 4450.00004768 milliseconds
+sudoku6.txt
+0
+1047
+Run Time: 429.000139236 milliseconds
+sudoku6.txt
+0
+4129
+Run Time: 1664.00003433 milliseconds
+sudoku6.txt
+0
+9172
+Run Time: 3710.00003815 milliseconds
+average time: 2498.80001545
+average iterations: 6201
+Times not solved: 6
+sudoku6.txt
+0
+2971
+Run Time: 1184.99994278 milliseconds
+sudoku6.txt
+27
+11085
+Run Time: 4432.00016022 milliseconds
+sudoku6.txt
+0
+4387
+Run Time: 1760.99991798 milliseconds
+sudoku6.txt
+0
+2372
+Run Time: 940.00005722 milliseconds
+sudoku6.txt
+27
+11034
+Run Time: 4394.00005341 milliseconds
+sudoku6.txt
+26
+11056
+Run Time: 4408.99991989 milliseconds
+sudoku6.txt
+24
+11038
+Run Time: 4398.00000191 milliseconds
+sudoku6.txt
+0
+4288
+Run Time: 1712.99982071 milliseconds
+sudoku6.txt
+0
+7535
+Run Time: 3024.00016785 milliseconds
+sudoku6.txt
+0
+7636
+Run Time: 3013.00001144 milliseconds
+sudoku6.txt
+23
+11078
+Run Time: 4409.99984741 milliseconds
+sudoku6.txt
+0
+2997
+Run Time: 1210.99996567 milliseconds
+sudoku6.txt
+20
+11002
+Run Time: 4355.99994659 milliseconds
+sudoku6.txt
+22
+11077
+Run Time: 4388.00001144 milliseconds
+sudoku6.txt
+0
+2017
+Run Time: 793.999910355 milliseconds
+sudoku6.txt
+32
+11026
+Run Time: 4384.00006294 milliseconds
+sudoku6.txt
+22
+11026
+Run Time: 4401.00002289 milliseconds
+sudoku6.txt
+25
+11048
+Run Time: 4391.99995995 milliseconds
+sudoku6.txt
+18
+11026
+Run Time: 4458.00018311 milliseconds
+sudoku6.txt
+21
+11072
+Run Time: 4447.99995422 milliseconds
+average time: 3325.5499959
+average iterations: 8338
+Times not solved: 12
+sudoku6.txt
+0
+1668
+Run Time: 668.999910355 milliseconds
+sudoku6.txt
+0
+3980
+Run Time: 1605.99994659 milliseconds
+sudoku6.txt
+0
+6220
+Run Time: 2540.99988937 milliseconds
+sudoku6.txt
+0
+894
+Run Time: 355.999946594 milliseconds
+sudoku6.txt
+27
+11144
+Run Time: 4454.99992371 milliseconds
+sudoku6.txt
+0
+3755
+Run Time: 1480.99994659 milliseconds
+sudoku6.txt
+0
+4497
+Run Time: 1776.00002289 milliseconds
+sudoku6.txt
+30
+11068
+Run Time: 4400.00009537 milliseconds
+sudoku6.txt
+24
+11105
+Run Time: 4417.99998283 milliseconds
+sudoku6.txt
+0
+9232
+Run Time: 3726.00007057 milliseconds
+sudoku6.txt
+0
+938
+Run Time: 375.0 milliseconds
+sudoku6.txt
+26
+11092
+Run Time: 4490.00000954 milliseconds
+sudoku6.txt
+19
+11102
+Run Time: 4457.00001717 milliseconds
+sudoku6.txt
+27
+11084
+Run Time: 4497.00021744 milliseconds
+sudoku6.txt
+0
+6661
+Run Time: 2713.99998665 milliseconds
+sudoku6.txt
+26
+11098
+Run Time: 4491.99986458 milliseconds
+sudoku6.txt
+0
+5750
+Run Time: 2321.00009918 milliseconds
+sudoku6.txt
+24
+11105
+Run Time: 4509.99999046 milliseconds
+sudoku6.txt
+0
+3704
+Run Time: 1500.99992752 milliseconds
+sudoku6.txt
+0
+7980
+Run Time: 3230.00001907 milliseconds
+average time: 2900.74999332
+average iterations: 7203
+Times not solved: 8
+sudoku6.txt
+26
+11190
+Run Time: 4480.00001907 milliseconds
+sudoku6.txt
+0
+9953
+Run Time: 4012.00008392 milliseconds
+sudoku6.txt
+0
+1106
+Run Time: 453.999996185 milliseconds
+sudoku6.txt
+29
+11187
+Run Time: 4554.00013924 milliseconds
+sudoku6.txt
+0
+4530
+Run Time: 1833.99987221 milliseconds
+sudoku6.txt
+0
+10561
+Run Time: 4289.99996185 milliseconds
+sudoku6.txt
+29
+11154
+Run Time: 4514.99986649 milliseconds
+sudoku6.txt
+26
+11196
+Run Time: 4533.00023079 milliseconds
+sudoku6.txt
+0
+3920
+Run Time: 1582.99994469 milliseconds
+sudoku6.txt
+0
+1196
+Run Time: 482.000112534 milliseconds
+sudoku6.txt
+25
+11151
+Run Time: 4539.00003433 milliseconds
+sudoku6.txt
+21
+11134
+Run Time: 4486.99998856 milliseconds
+sudoku6.txt
+0
+10205
+Run Time: 4044.99983788 milliseconds
+sudoku6.txt
+0
+1805
+Run Time: 738.000154495 milliseconds
+sudoku6.txt
+24
+11168
+Run Time: 4446.00009918 milliseconds
+sudoku6.txt
+0
+10692
+Run Time: 4300.99987984 milliseconds
+sudoku6.txt
+0
+7611
+Run Time: 3104.00009155 milliseconds
+sudoku6.txt
+17
+11175
+Run Time: 4516.99995995 milliseconds
+sudoku6.txt
+0
+4591
+Run Time: 1861.99998856 milliseconds
+sudoku6.txt
+29
+11205
+Run Time: 4552.9999733 milliseconds
+average time: 3366.45001173
+average iterations: 8336
+Times not solved: 9
+sudoku6.txt
+24
+11235
+Run Time: 4562.99996376 milliseconds
+sudoku6.txt
+0
+6860
+Run Time: 2767.99988747 milliseconds
+sudoku6.txt
+25
+11211
+Run Time: 4542.00005531 milliseconds
+sudoku6.txt
+22
+11224
+Run Time: 4555.99999428 milliseconds
+sudoku6.txt
+29
+11202
+Run Time: 4489.00008202 milliseconds
+sudoku6.txt
+0
+10208
+Run Time: 4144.99998093 milliseconds
+sudoku6.txt
+0
+4542
+Run Time: 1846.00019455 milliseconds
+sudoku6.txt
+0
+10522
+Run Time: 4279.99997139 milliseconds
+sudoku6.txt
+0
+4340
+Run Time: 1762.00008392 milliseconds
+sudoku6.txt
+0
+11087
+Run Time: 4498.99983406 milliseconds
+sudoku6.txt
+0
+2462
+Run Time: 988.000154495 milliseconds
+sudoku6.txt
+27
+11254
+Run Time: 4552.9999733 milliseconds
+sudoku6.txt
+0
+9689
+Run Time: 3938.00020218 milliseconds
+sudoku6.txt
+0
+9395
+Run Time: 3721.99988365 milliseconds
+sudoku6.txt
+20
+11260
+Run Time: 4462.00013161 milliseconds
+sudoku6.txt
+25
+11198
+Run Time: 4464.99991417 milliseconds
+sudoku6.txt
+20
+11201
+Run Time: 4565.99998474 milliseconds
+sudoku6.txt
+21
+11213
+Run Time: 4516.00003242 milliseconds
+sudoku6.txt
+24
+11229
+Run Time: 4496.99997902 milliseconds
+sudoku6.txt
+25
+11209
+Run Time: 4456.99977875 milliseconds
+average time: 3880.7000041
+average iterations: 9627
+Times not solved: 11
+sudoku7.txt
+6
+10126
+Run Time: 3823.99988174 milliseconds
+sudoku7.txt
+0
+2868
+Run Time: 1082.99994469 milliseconds
+sudoku7.txt
+4
+10127
+Run Time: 3832.00001717 milliseconds
+sudoku7.txt
+6
+10132
+Run Time: 3815.00005722 milliseconds
+sudoku7.txt
+0
+1434
+Run Time: 542.999982834 milliseconds
+sudoku7.txt
+4
+10124
+Run Time: 3796.99993134 milliseconds
+sudoku7.txt
+6
+10130
+Run Time: 3819.00000572 milliseconds
+sudoku7.txt
+5
+10133
+Run Time: 3807.00016022 milliseconds
+sudoku7.txt
+6
+10125
+Run Time: 3817.99983978 milliseconds
+sudoku7.txt
+4
+10126
+Run Time: 3812.99996376 milliseconds
+sudoku7.txt
+4
+10125
+Run Time: 3884.00006294 milliseconds
+sudoku7.txt
+2
+10129
+Run Time: 3903.99980545 milliseconds
+sudoku7.txt
+4
+10132
+Run Time: 3882.999897 milliseconds
+sudoku7.txt
+4
+10121
+Run Time: 3857.00011253 milliseconds
+sudoku7.txt
+6
+10120
+Run Time: 3874.00007248 milliseconds
+sudoku7.txt
+6
+10118
+Run Time: 3894.00005341 milliseconds
+sudoku7.txt
+6
+10113
+Run Time: 3881.00004196 milliseconds
+sudoku7.txt
+6
+10123
+Run Time: 3765.0001049 milliseconds
+sudoku7.txt
+4
+10126
+Run Time: 3820.99986076 milliseconds
+sudoku7.txt
+4
+10138
+Run Time: 3828.00006866 milliseconds
+average time: 3537.09999323
+average iterations: 9328
+Times not solved: 18
+sudoku7.txt
+6
+10214
+Run Time: 3869.00019646 milliseconds
+sudoku7.txt
+0
+7450
+Run Time: 2846.99988365 milliseconds
+sudoku7.txt
+8
+10232
+Run Time: 3947.0000267 milliseconds
+sudoku7.txt
+0
+8882
+Run Time: 3391.99995995 milliseconds
+sudoku7.txt
+0
+9822
+Run Time: 3746.0000515 milliseconds
+sudoku7.txt
+0
+4580
+Run Time: 1761.0001564 milliseconds
+sudoku7.txt
+0
+1380
+Run Time: 517.999887466 milliseconds
+sudoku7.txt
+0
+2270
+Run Time: 857.000112534 milliseconds
+sudoku7.txt
+0
+7956
+Run Time: 3000.99992752 milliseconds
+sudoku7.txt
+5
+10246
+Run Time: 3827.99983025 milliseconds
+sudoku7.txt
+4
+10215
+Run Time: 3860.00013351 milliseconds
+sudoku7.txt
+6
+10220
+Run Time: 3828.99999619 milliseconds
+sudoku7.txt
+5
+10234
+Run Time: 3888.99993896 milliseconds
+sudoku7.txt
+10
+10219
+Run Time: 3820.99986076 milliseconds
+sudoku7.txt
+2
+10222
+Run Time: 3927.00004578 milliseconds
+sudoku7.txt
+8
+10231
+Run Time: 3860.00013351 milliseconds
+sudoku7.txt
+7
+10233
+Run Time: 3838.00005913 milliseconds
+sudoku7.txt
+5
+10238
+Run Time: 3851.00007057 milliseconds
+sudoku7.txt
+0
+9533
+Run Time: 3648.00000191 milliseconds
+sudoku7.txt
+4
+10230
+Run Time: 3921.00000381 milliseconds
+average time: 3310.50001383
+average iterations: 8730
+Times not solved: 12
+sudoku7.txt
+7
+10311
+Run Time: 3962.99982071 milliseconds
+sudoku7.txt
+12
+10310
+Run Time: 3978.99985313 milliseconds
+sudoku7.txt
+11
+10324
+Run Time: 3969.00010109 milliseconds
+sudoku7.txt
+14
+10327
+Run Time: 3921.99993134 milliseconds
+sudoku7.txt
+10
+10319
+Run Time: 3861.00006104 milliseconds
+sudoku7.txt
+0
+1342
+Run Time: 503.999948502 milliseconds
+sudoku7.txt
+0
+7079
+Run Time: 2699.00012016 milliseconds
+sudoku7.txt
+12
+10307
+Run Time: 3999.00007248 milliseconds
+sudoku7.txt
+0
+6483
+Run Time: 2471.99988365 milliseconds
+sudoku7.txt
+12
+10321
+Run Time: 3956.00008965 milliseconds
+sudoku7.txt
+0
+8951
+Run Time: 3437.00003624 milliseconds
+sudoku7.txt
+12
+10309
+Run Time: 3963.00005913 milliseconds
+sudoku7.txt
+13
+10311
+Run Time: 3861.99998856 milliseconds
+sudoku7.txt
+8
+10330
+Run Time: 3933.00008774 milliseconds
+sudoku7.txt
+8
+10314
+Run Time: 3961.99989319 milliseconds
+sudoku7.txt
+4
+10327
+Run Time: 3973.99997711 milliseconds
+sudoku7.txt
+10
+10310
+Run Time: 4004.00018692 milliseconds
+sudoku7.txt
+8
+10308
+Run Time: 3942.99983978 milliseconds
+sudoku7.txt
+12
+10324
+Run Time: 3963.99998665 milliseconds
+sudoku7.txt
+6
+10319
+Run Time: 3975.99983215 milliseconds
+average time: 3617.09998846
+average iterations: 9446
+Times not solved: 16
+sudoku7.txt
+6
+10419
+Run Time: 4017.00019836 milliseconds
+sudoku7.txt
+0
+6399
+Run Time: 2448.99988174 milliseconds
+sudoku7.txt
+12
+10400
+Run Time: 4005.99980354 milliseconds
+sudoku7.txt
+8
+10410
+Run Time: 4008.99982452 milliseconds
+sudoku7.txt
+0
+8249
+Run Time: 3158.00023079 milliseconds
+sudoku7.txt
+10
+10413
+Run Time: 3990.99993706 milliseconds
+sudoku7.txt
+9
+10413
+Run Time: 3971.99988365 milliseconds
+sudoku7.txt
+9
+10416
+Run Time: 4036.00001335 milliseconds
+sudoku7.txt
+12
+10415
+Run Time: 3947.99995422 milliseconds
+sudoku7.txt
+0
+4909
+Run Time: 1905.99989891 milliseconds
+sudoku7.txt
+8
+10412
+Run Time: 3963.00005913 milliseconds
+sudoku7.txt
+14
+10404
+Run Time: 3899.99985695 milliseconds
+sudoku7.txt
+0
+2810
+Run Time: 1058.00008774 milliseconds
+sudoku7.txt
+10
+10418
+Run Time: 3947.99995422 milliseconds
+sudoku7.txt
+12
+10422
+Run Time: 3946.99978828 milliseconds
+sudoku7.txt
+8
+10400
+Run Time: 3899.99985695 milliseconds
+sudoku7.txt
+0
+1585
+Run Time: 611.000061035 milliseconds
+sudoku7.txt
+9
+10374
+Run Time: 3924.99995232 milliseconds
+sudoku7.txt
+0
+4434
+Run Time: 1700.00004768 milliseconds
+sudoku7.txt
+12
+10425
+Run Time: 4034.00015831 milliseconds
+average time: 3323.89997244
+average iterations: 8706
+Times not solved: 14
+sudoku7.txt
+0
+7825
+Run Time: 3019.99998093 milliseconds
+sudoku7.txt
+0
+6996
+Run Time: 2689.0001297 milliseconds
+sudoku7.txt
+11
+10490
+Run Time: 4033.99991989 milliseconds
+sudoku7.txt
+14
+10488
+Run Time: 4022.00007439 milliseconds
+sudoku7.txt
+0
+1875
+Run Time: 744.000196457 milliseconds
+sudoku7.txt
+0
+6172
+Run Time: 2359.9998951 milliseconds
+sudoku7.txt
+20
+10505
+Run Time: 4019.99998093 milliseconds
+sudoku7.txt
+0
+6436
+Run Time: 2459.00011063 milliseconds
+sudoku7.txt
+0
+1012
+Run Time: 378.000020981 milliseconds
+sudoku7.txt
+12
+10507
+Run Time: 4000.0 milliseconds
+sudoku7.txt
+14
+10502
+Run Time: 4019.99998093 milliseconds
+sudoku7.txt
+0
+5432
+Run Time: 2088.00005913 milliseconds
+sudoku7.txt
+10
+10490
+Run Time: 4060.0001812 milliseconds
+sudoku7.txt
+12
+10503
+Run Time: 4009.99999046 milliseconds
+sudoku7.txt
+15
+10517
+Run Time: 4052.9999733 milliseconds
+sudoku7.txt
+0
+1945
+Run Time: 739.000082016 milliseconds
+sudoku7.txt
+0
+3640
+Run Time: 1394.99998093 milliseconds
+sudoku7.txt
+0
+7626
+Run Time: 2877.00009346 milliseconds
+sudoku7.txt
+0
+2484
+Run Time: 936.000108719 milliseconds
+sudoku7.txt
+0
+6651
+Run Time: 2504.99987602 milliseconds
+average time: 2720.45003176
+average iterations: 7104
+Times not solved: 8
+sudoku7.txt
+0
+9576
+Run Time: 3695.00017166 milliseconds
+sudoku7.txt
+10
+10594
+Run Time: 4069.00000572 milliseconds
+sudoku7.txt
+22
+10545
+Run Time: 3984.9998951 milliseconds
+sudoku7.txt
+0
+10236
+Run Time: 3838.00005913 milliseconds
+sudoku7.txt
+14
+10577
+Run Time: 3983.99996758 milliseconds
+sudoku7.txt
+0
+7732
+Run Time: 2944.99993324 milliseconds
+sudoku7.txt
+8
+10578
+Run Time: 4005.00011444 milliseconds
+sudoku7.txt
+13
+10593
+Run Time: 3972.99981117 milliseconds
+sudoku7.txt
+14
+10601
+Run Time: 4003.00002098 milliseconds
+sudoku7.txt
+10
+10593
+Run Time: 3990.00000954 milliseconds
+sudoku7.txt
+9
+10601
+Run Time: 3983.99996758 milliseconds
+sudoku7.txt
+16
+10613
+Run Time: 3983.00004005 milliseconds
+sudoku7.txt
+14
+10569
+Run Time: 3983.00004005 milliseconds
+sudoku7.txt
+0
+7661
+Run Time: 2911.00001335 milliseconds
+sudoku7.txt
+18
+10567
+Run Time: 3996.99997902 milliseconds
+sudoku7.txt
+0
+4817
+Run Time: 1843.99986267 milliseconds
+sudoku7.txt
+0
+725
+Run Time: 273.000001907 milliseconds
+sudoku7.txt
+16
+10542
+Run Time: 3982.00011253 milliseconds
+sudoku7.txt
+12
+10576
+Run Time: 3961.99989319 milliseconds
+sudoku7.txt
+0
+2257
+Run Time: 881.999969482 milliseconds
+average time: 3414.39999342
+average iterations: 9027
+Times not solved: 13
+sudoku7.txt
+18
+10650
+Run Time: 4071.00009918 milliseconds
+sudoku7.txt
+18
+10686
+Run Time: 4100.00014305 milliseconds
+sudoku7.txt
+12
+10661
+Run Time: 4115.00000954 milliseconds
+sudoku7.txt
+18
+10658
+Run Time: 4135.99991798 milliseconds
+sudoku7.txt
+16
+10663
+Run Time: 3998.99983406 milliseconds
+sudoku7.txt
+14
+10635
+Run Time: 4000.99992752 milliseconds
+sudoku7.txt
+14
+10652
+Run Time: 4032.99999237 milliseconds
+sudoku7.txt
+21
+10636
+Run Time: 4016.00003242 milliseconds
+sudoku7.txt
+0
+3287
+Run Time: 1236.00006104 milliseconds
+sudoku7.txt
+20
+10640
+Run Time: 4039.00003433 milliseconds
+sudoku7.txt
+14
+10675
+Run Time: 4072.99995422 milliseconds
+sudoku7.txt
+13
+10633
+Run Time: 4048.00009727 milliseconds
+sudoku7.txt
+18
+10694
+Run Time: 4098.00004959 milliseconds
+sudoku7.txt
+19
+10643
+Run Time: 4046.99993134 milliseconds
+sudoku7.txt
+13
+10618
+Run Time: 4032.00006485 milliseconds
+sudoku7.txt
+14
+10658
+Run Time: 4061.00010872 milliseconds
+sudoku7.txt
+0
+4861
+Run Time: 1853.00016403 milliseconds
+sudoku7.txt
+12
+10672
+Run Time: 4089.99991417 milliseconds
+sudoku7.txt
+13
+10670
+Run Time: 4096.99988365 milliseconds
+sudoku7.txt
+21
+10708
+Run Time: 4110.00013351 milliseconds
+average time: 3812.75001764
+average iterations: 10000
+Times not solved: 18
+sudoku7.txt
+0
+3187
+Run Time: 1250.99992752 milliseconds
+sudoku7.txt
+20
+10736
+Run Time: 4137.00008392 milliseconds
+sudoku7.txt
+0
+10446
+Run Time: 4043.99991035 milliseconds
+sudoku7.txt
+0
+3609
+Run Time: 1409.00015831 milliseconds
+sudoku7.txt
+18
+10717
+Run Time: 4128.00002098 milliseconds
+sudoku7.txt
+12
+10676
+Run Time: 4039.00003433 milliseconds
+sudoku7.txt
+18
+10712
+Run Time: 4111.99998856 milliseconds
+sudoku7.txt
+19
+10759
+Run Time: 4149.99985695 milliseconds
+sudoku7.txt
+19
+10703
+Run Time: 4140.0001049 milliseconds
+sudoku7.txt
+0
+10382
+Run Time: 3997.99990654 milliseconds
+sudoku7.txt
+20
+10764
+Run Time: 4139.00017738 milliseconds
+sudoku7.txt
+18
+10722
+Run Time: 4088.99998665 milliseconds
+sudoku7.txt
+16
+10731
+Run Time: 4115.00000954 milliseconds
+sudoku7.txt
+17
+10688
+Run Time: 4099.99990463 milliseconds
+sudoku7.txt
+0
+2615
+Run Time: 1013.00001144 milliseconds
+sudoku7.txt
+21
+10724
+Run Time: 4109.9998951 milliseconds
+sudoku7.txt
+17
+10733
+Run Time: 4129.00018692 milliseconds
+sudoku7.txt
+14
+10694
+Run Time: 4115.00000954 milliseconds
+sudoku7.txt
+17
+10744
+Run Time: 4079.99992371 milliseconds
+sudoku7.txt
+20
+10741
+Run Time: 4054.00013924 milliseconds
+average time: 3667.60001183
+average iterations: 9554
+Times not solved: 15
+sudoku7.txt
+22
+10814
+Run Time: 4074.00012016 milliseconds
+sudoku7.txt
+0
+1358
+Run Time: 529.000043869 milliseconds
+sudoku7.txt
+0
+2893
+Run Time: 1095.00002861 milliseconds
+sudoku7.txt
+18
+10814
+Run Time: 4059.00001526 milliseconds
+sudoku7.txt
+20
+10783
+Run Time: 4065.99998474 milliseconds
+sudoku7.txt
+20
+10788
+Run Time: 4144.99998093 milliseconds
+sudoku7.txt
+23
+10805
+Run Time: 4179.99982834 milliseconds
+sudoku7.txt
+17
+10828
+Run Time: 4230.99994659 milliseconds
+sudoku7.txt
+17
+10797
+Run Time: 4086.99989319 milliseconds
+sudoku7.txt
+11
+10782
+Run Time: 4101.99999809 milliseconds
+sudoku7.txt
+0
+8380
+Run Time: 3176.00011826 milliseconds
+sudoku7.txt
+0
+8977
+Run Time: 3436.00010872 milliseconds
+sudoku7.txt
+19
+10847
+Run Time: 4111.99998856 milliseconds
+sudoku7.txt
+0
+5579
+Run Time: 2124.00007248 milliseconds
+sudoku7.txt
+0
+2243
+Run Time: 851.999998093 milliseconds
+sudoku7.txt
+18
+10798
+Run Time: 4108.99996758 milliseconds
+sudoku7.txt
+25
+10821
+Run Time: 4091.00008011 milliseconds
+sudoku7.txt
+19
+10801
+Run Time: 4086.99989319 milliseconds
+sudoku7.txt
+19
+10773
+Run Time: 4102.99992561 milliseconds
+sudoku7.txt
+0
+1860
+Run Time: 709.000110626 milliseconds
+average time: 3268.35000515
+average iterations: 8587
+Times not solved: 13
+sudoku7.txt
+13
+10890
+Run Time: 4184.99994278 milliseconds
+sudoku7.txt
+19
+10867
+Run Time: 4194.00000572 milliseconds
+sudoku7.txt
+20
+10894
+Run Time: 4167.99998283 milliseconds
+sudoku7.txt
+0
+4225
+Run Time: 1607.00011253 milliseconds
+sudoku7.txt
+20
+10826
+Run Time: 4105.99994659 milliseconds
+sudoku7.txt
+0
+1510
+Run Time: 574.000120163 milliseconds
+sudoku7.txt
+16
+10826
+Run Time: 4115.99993706 milliseconds
+sudoku7.txt
+25
+10883
+Run Time: 4114.00008202 milliseconds
+sudoku7.txt
+0
+4014
+Run Time: 1517.00019836 milliseconds
+sudoku7.txt
+17
+10851
+Run Time: 4112.99991608 milliseconds
+sudoku7.txt
+19
+10836
+Run Time: 4113.0001545 milliseconds
+sudoku7.txt
+23
+10850
+Run Time: 4102.99992561 milliseconds
+sudoku7.txt
+26
+10881
+Run Time: 4134.00006294 milliseconds
+sudoku7.txt
+16
+10888
+Run Time: 4182.99984932 milliseconds
+sudoku7.txt
+26
+10883
+Run Time: 4199.00012016 milliseconds
+sudoku7.txt
+23
+10854
+Run Time: 4148.99992943 milliseconds
+sudoku7.txt
+14
+10832
+Run Time: 4120.99981308 milliseconds
+sudoku7.txt
+18
+10898
+Run Time: 4213.00005913 milliseconds
+sudoku7.txt
+0
+2368
+Run Time: 911.999940872 milliseconds
+sudoku7.txt
+17
+10888
+Run Time: 4182.00016022 milliseconds
+average time: 3550.15001297
+average iterations: 9298
+Times not solved: 16
+sudoku7.txt
+19
+10947
+Run Time: 4198.99988174 milliseconds
+sudoku7.txt
+23
+10928
+Run Time: 4208.00018311 milliseconds
+sudoku7.txt
+19
+10937
+Run Time: 4184.00001526 milliseconds
+sudoku7.txt
+17
+10939
+Run Time: 4220.00002861 milliseconds
+sudoku7.txt
+0
+8322
+Run Time: 3230.00001907 milliseconds
+sudoku7.txt
+0
+1913
+Run Time: 734.999895096 milliseconds
+sudoku7.txt
+23
+10934
+Run Time: 4217.99993515 milliseconds
+sudoku7.txt
+0
+4677
+Run Time: 1802.9999733 milliseconds
+sudoku7.txt
+16
+10907
+Run Time: 4174.0000248 milliseconds
+sudoku7.txt
+0
+5769
+Run Time: 2215.99984169 milliseconds
+sudoku7.txt
+26
+10929
+Run Time: 4123.99983406 milliseconds
+sudoku7.txt
+14
+10888
+Run Time: 4176.00011826 milliseconds
+sudoku7.txt
+17
+10925
+Run Time: 4199.00012016 milliseconds
+sudoku7.txt
+0
+497
+Run Time: 190.999984741 milliseconds
+sudoku7.txt
+0
+1231
+Run Time: 476.999998093 milliseconds
+sudoku7.txt
+0
+2280
+Run Time: 875.999927521 milliseconds
+sudoku7.txt
+19
+10915
+Run Time: 4193.0000782 milliseconds
+sudoku7.txt
+21
+10931
+Run Time: 4200.00004768 milliseconds
+sudoku7.txt
+15
+10946
+Run Time: 4224.99990463 milliseconds
+sudoku7.txt
+20
+10928
+Run Time: 4240.00000954 milliseconds
+average time: 3204.39999104
+average iterations: 8337
+Times not solved: 13
+sudoku7.txt
+12
+10988
+Run Time: 4133.00013542 milliseconds
+sudoku7.txt
+22
+10987
+Run Time: 4151.99995041 milliseconds
+sudoku7.txt
+19
+10937
+Run Time: 4138.00001144 milliseconds
+sudoku7.txt
+0
+3047
+Run Time: 1157.00006485 milliseconds
+sudoku7.txt
+19
+10997
+Run Time: 4181.9999218 milliseconds
+sudoku7.txt
+0
+7506
+Run Time: 2844.00010109 milliseconds
+sudoku7.txt
+0
+3928
+Run Time: 1469.00010109 milliseconds
+sudoku7.txt
+20
+11010
+Run Time: 4169.99983788 milliseconds
+sudoku7.txt
+17
+10976
+Run Time: 4144.00005341 milliseconds
+sudoku7.txt
+18
+10976
+Run Time: 4135.99991798 milliseconds
+sudoku7.txt
+19
+10946
+Run Time: 4130.00011444 milliseconds
+sudoku7.txt
+21
+10974
+Run Time: 4222.00012207 milliseconds
+sudoku7.txt
+22
+11002
+Run Time: 4238.9998436 milliseconds
+sudoku7.txt
+25
+10992
+Run Time: 4209.00011063 milliseconds
+sudoku7.txt
+18
+10996
+Run Time: 4289.99996185 milliseconds
+sudoku7.txt
+17
+10979
+Run Time: 4395.00021935 milliseconds
+sudoku7.txt
+25
+10939
+Run Time: 4246.0000515 milliseconds
+sudoku7.txt
+22
+10960
+Run Time: 4172.99985886 milliseconds
+sudoku7.txt
+0
+3027
+Run Time: 1157.99999237 milliseconds
+sudoku7.txt
+17
+10982
+Run Time: 4163.99979591 milliseconds
+average time: 3687.5500083
+average iterations: 9657
+Times not solved: 16
+sudoku7.txt
+30
+11048
+Run Time: 4200.00004768 milliseconds
+sudoku7.txt
+26
+10994
+Run Time: 4161.00001335 milliseconds
+sudoku7.txt
+0
+9932
+Run Time: 3788.00010681 milliseconds
+sudoku7.txt
+15
+11024
+Run Time: 4178.99990082 milliseconds
+sudoku7.txt
+23
+11038
+Run Time: 4237.99991608 milliseconds
+sudoku7.txt
+0
+3772
+Run Time: 1457.00001717 milliseconds
+sudoku7.txt
+22
+11075
+Run Time: 4269.00005341 milliseconds
+sudoku7.txt
+18
+11061
+Run Time: 4255.00011444 milliseconds
+sudoku7.txt
+24
+11044
+Run Time: 4177.00004578 milliseconds
+sudoku7.txt
+23
+11015
+Run Time: 4177.00004578 milliseconds
+sudoku7.txt
+0
+2936
+Run Time: 1128.00002098 milliseconds
+sudoku7.txt
+23
+11043
+Run Time: 4196.00009918 milliseconds
+sudoku7.txt
+26
+11039
+Run Time: 4194.00000572 milliseconds
+sudoku7.txt
+21
+11036
+Run Time: 4255.99980354 milliseconds
+sudoku7.txt
+29
+11056
+Run Time: 4271.99983597 milliseconds
+sudoku7.txt
+22
+11068
+Run Time: 4251.00016594 milliseconds
+sudoku7.txt
+25
+11039
+Run Time: 4210.99996567 milliseconds
+sudoku7.txt
+19
+11061
+Run Time: 4224.99990463 milliseconds
+sudoku7.txt
+0
+621
+Run Time: 265.000104904 milliseconds
+sudoku7.txt
+14
+10989
+Run Time: 4230.00001907 milliseconds
+average time: 3706.45000935
+average iterations: 9694
+Times not solved: 16
+sudoku7.txt
+30
+11066
+Run Time: 4298.99978638 milliseconds
+sudoku7.txt
+0
+10320
+Run Time: 3983.99996758 milliseconds
+sudoku7.txt
+26
+11123
+Run Time: 4291.00012779 milliseconds
+sudoku7.txt
+22
+11074
+Run Time: 4311.00010872 milliseconds
+sudoku7.txt
+30
+11110
+Run Time: 4280.99989891 milliseconds
+sudoku7.txt
+31
+11129
+Run Time: 4270.99990845 milliseconds
+sudoku7.txt
+0
+2763
+Run Time: 1049.99995232 milliseconds
+sudoku7.txt
+26
+11129
+Run Time: 4258.99982452 milliseconds
+sudoku7.txt
+23
+11079
+Run Time: 4271.00014687 milliseconds
+sudoku7.txt
+26
+11142
+Run Time: 4292.99998283 milliseconds
+sudoku7.txt
+25
+11074
+Run Time: 4281.00013733 milliseconds
+sudoku7.txt
+33
+11066
+Run Time: 4276.00002289 milliseconds
+sudoku7.txt
+29
+11083
+Run Time: 4286.99994087 milliseconds
+sudoku7.txt
+20
+11070
+Run Time: 4201.99990273 milliseconds
+sudoku7.txt
+14
+11134
+Run Time: 4243.99995804 milliseconds
+sudoku7.txt
+26
+11057
+Run Time: 4191.99991226 milliseconds
+sudoku7.txt
+26
+11095
+Run Time: 4229.00009155 milliseconds
+sudoku7.txt
+18
+11092
+Run Time: 4207.99994469 milliseconds
+sudoku7.txt
+0
+9079
+Run Time: 3428.99990082 milliseconds
+sudoku7.txt
+20
+11097
+Run Time: 4269.99998093 milliseconds
+average time: 4046.39997482
+average iterations: 10539
+Times not solved: 17
+sudoku7.txt
+0
+2746
+Run Time: 1052.9999733 milliseconds
+sudoku7.txt
+0
+880
+Run Time: 329.999923706 milliseconds
+sudoku7.txt
+26
+11134
+Run Time: 4259.99999046 milliseconds
+sudoku7.txt
+0
+10329
+Run Time: 3974.99990463 milliseconds
+sudoku7.txt
+22
+11144
+Run Time: 4227.99992561 milliseconds
+sudoku7.txt
+27
+11149
+Run Time: 4244.00019646 milliseconds
+sudoku7.txt
+26
+11178
+Run Time: 4237.99991608 milliseconds
+sudoku7.txt
+20
+11118
+Run Time: 4229.00009155 milliseconds
+sudoku7.txt
+27
+11206
+Run Time: 4261.9998455 milliseconds
+sudoku7.txt
+20
+11118
+Run Time: 4318.0000782 milliseconds
+sudoku7.txt
+17
+11153
+Run Time: 4296.00000381 milliseconds
+sudoku7.txt
+24
+11159
+Run Time: 4223.00004959 milliseconds
+sudoku7.txt
+0
+9077
+Run Time: 3410.00008583 milliseconds
+sudoku7.txt
+0
+5398
+Run Time: 2052.9999733 milliseconds
+sudoku7.txt
+0
+6903
+Run Time: 2592.00000763 milliseconds
+sudoku7.txt
+24
+11130
+Run Time: 4235.00013351 milliseconds
+sudoku7.txt
+22
+11154
+Run Time: 4312.00003624 milliseconds
+sudoku7.txt
+24
+11165
+Run Time: 4302.00004578 milliseconds
+sudoku7.txt
+17
+11150
+Run Time: 4274.00016785 milliseconds
+sudoku7.txt
+22
+11133
+Run Time: 4303.99990082 milliseconds
+average time: 3656.90001249
+average iterations: 9571
+Times not solved: 14
+sudoku8.txt
+0
+5687
+Run Time: 2421.99993134 milliseconds
+sudoku8.txt
+4
+10156
+Run Time: 4233.99996758 milliseconds
+sudoku8.txt
+3
+10147
+Run Time: 4213.00005913 milliseconds
+sudoku8.txt
+0
+2528
+Run Time: 1069.00000572 milliseconds
+sudoku8.txt
+8
+10129
+Run Time: 4187.99996376 milliseconds
+sudoku8.txt
+6
+10134
+Run Time: 4207.99994469 milliseconds
+sudoku8.txt
+8
+10144
+Run Time: 4237.99991608 milliseconds
+sudoku8.txt
+2
+10130
+Run Time: 4182.00016022 milliseconds
+sudoku8.txt
+0
+9774
+Run Time: 4074.99980927 milliseconds
+sudoku8.txt
+6
+10137
+Run Time: 4210.99996567 milliseconds
+sudoku8.txt
+2
+10128
+Run Time: 4208.99987221 milliseconds
+sudoku8.txt
+0
+4805
+Run Time: 2014.00017738 milliseconds
+sudoku8.txt
+4
+10149
+Run Time: 4267.99988747 milliseconds
+sudoku8.txt
+6
+10127
+Run Time: 4261.0001564 milliseconds
+sudoku8.txt
+4
+10128
+Run Time: 4289.00003433 milliseconds
+sudoku8.txt
+6
+10135
+Run Time: 4279.99997139 milliseconds
+sudoku8.txt
+5
+10138
+Run Time: 4289.00003433 milliseconds
+sudoku8.txt
+4
+10129
+Run Time: 4295.00007629 milliseconds
+sudoku8.txt
+4
+10147
+Run Time: 4276.99995041 milliseconds
+sudoku8.txt
+0
+1876
+Run Time: 793.999910355 milliseconds
+average time: 3700.7999897
+average iterations: 8836
+Times not solved: 15
+sudoku8.txt
+0
+3796
+Run Time: 1609.9998951 milliseconds
+sudoku8.txt
+7
+10227
+Run Time: 4312.00003624 milliseconds
+sudoku8.txt
+0
+2476
+Run Time: 1049.99995232 milliseconds
+sudoku8.txt
+6
+10250
+Run Time: 4329.99992371 milliseconds
+sudoku8.txt
+10
+10224
+Run Time: 4302.9999733 milliseconds
+sudoku8.txt
+10
+10237
+Run Time: 4323.00019264 milliseconds
+sudoku8.txt
+3
+10215
+Run Time: 4283.99991989 milliseconds
+sudoku8.txt
+10
+10226
+Run Time: 4294.00014877 milliseconds
+sudoku8.txt
+0
+535
+Run Time: 230.999946594 milliseconds
+sudoku8.txt
+10
+10225
+Run Time: 4226.99999809 milliseconds
+sudoku8.txt
+8
+10234
+Run Time: 4236.00006104 milliseconds
+sudoku8.txt
+8
+10239
+Run Time: 4246.0000515 milliseconds
+sudoku8.txt
+0
+3706
+Run Time: 1517.99988747 milliseconds
+sudoku8.txt
+8
+10243
+Run Time: 4306.9999218 milliseconds
+sudoku8.txt
+6
+10264
+Run Time: 4267.00019836 milliseconds
+sudoku8.txt
+6
+10242
+Run Time: 4238.9998436 milliseconds
+sudoku8.txt
+8
+10255
+Run Time: 4242.000103 milliseconds
+sudoku8.txt
+6
+10224
+Run Time: 4240.00000954 milliseconds
+sudoku8.txt
+8
+10244
+Run Time: 4277.00018883 milliseconds
+sudoku8.txt
+0
+8534
+Run Time: 3537.99986839 milliseconds
+average time: 3603.70000601
+average iterations: 8629
+Times not solved: 15
+sudoku8.txt
+0
+3405
+Run Time: 1419.99983788 milliseconds
+sudoku8.txt
+12
+10326
+Run Time: 4305.99999428 milliseconds
+sudoku8.txt
+10
+10328
+Run Time: 4312.00003624 milliseconds
+sudoku8.txt
+10
+10317
+Run Time: 4269.00005341 milliseconds
+sudoku8.txt
+10
+10345
+Run Time: 4299.0000248 milliseconds
+sudoku8.txt
+12
+10327
+Run Time: 4295.00007629 milliseconds
+sudoku8.txt
+12
+10330
+Run Time: 4286.99994087 milliseconds
+sudoku8.txt
+0
+4861
+Run Time: 2002.00009346 milliseconds
+sudoku8.txt
+8
+10318
+Run Time: 4311.00010872 milliseconds
+sudoku8.txt
+0
+6817
+Run Time: 2868.00003052 milliseconds
+sudoku8.txt
+10
+10331
+Run Time: 4429.99982834 milliseconds
+sudoku8.txt
+10
+10370
+Run Time: 4257.999897 milliseconds
+sudoku8.txt
+0
+5771
+Run Time: 2460.00003815 milliseconds
+sudoku8.txt
+9
+10346
+Run Time: 4362.99991608 milliseconds
+sudoku8.txt
+10
+10331
+Run Time: 4398.00000191 milliseconds
+sudoku8.txt
+0
+6474
+Run Time: 2723.00004959 milliseconds
+sudoku8.txt
+0
+7801
+Run Time: 3286.99994087 milliseconds
+sudoku8.txt
+0
+3390
+Run Time: 1415.99988937 milliseconds
+sudoku8.txt
+8
+10342
+Run Time: 4289.00003433 milliseconds
+sudoku8.txt
+0
+4726
+Run Time: 1970.00002861 milliseconds
+average time: 3498.14999104
+average iterations: 8362
+Times not solved: 12
+sudoku8.txt
+15
+10440
+Run Time: 4338.00005913 milliseconds
+sudoku8.txt
+13
+10433
+Run Time: 4345.99995613 milliseconds
+sudoku8.txt
+12
+10436
+Run Time: 4319.00000572 milliseconds
+sudoku8.txt
+11
+10420
+Run Time: 4328.99999619 milliseconds
+sudoku8.txt
+16
+10443
+Run Time: 4306.9999218 milliseconds
+sudoku8.txt
+18
+10454
+Run Time: 4433.00008774 milliseconds
+sudoku8.txt
+16
+10415
+Run Time: 4404.99997139 milliseconds
+sudoku8.txt
+9
+10436
+Run Time: 4409.00015831 milliseconds
+sudoku8.txt
+0
+3592
+Run Time: 1489.00008202 milliseconds
+sudoku8.txt
+14
+10428
+Run Time: 4328.99999619 milliseconds
+sudoku8.txt
+0
+9551
+Run Time: 3996.99997902 milliseconds
+sudoku8.txt
+14
+10449
+Run Time: 4340.99984169 milliseconds
+sudoku8.txt
+14
+10430
+Run Time: 4334.00011063 milliseconds
+sudoku8.txt
+15
+10417
+Run Time: 4373.00014496 milliseconds
+sudoku8.txt
+13
+10415
+Run Time: 4381.00004196 milliseconds
+sudoku8.txt
+0
+919
+Run Time: 375.0 milliseconds
+sudoku8.txt
+11
+10442
+Run Time: 4331.00008965 milliseconds
+sudoku8.txt
+10
+10423
+Run Time: 4309.00001526 milliseconds
+sudoku8.txt
+0
+5720
+Run Time: 2386.9998455 milliseconds
+sudoku8.txt
+8
+10429
+Run Time: 4287.99986839 milliseconds
+average time: 3891.00000858
+average iterations: 9334
+Times not solved: 16
+sudoku8.txt
+0
+7160
+Run Time: 2963.99998665 milliseconds
+sudoku8.txt
+0
+10116
+Run Time: 4217.00000763 milliseconds
+sudoku8.txt
+13
+10546
+Run Time: 4381.00004196 milliseconds
+sudoku8.txt
+14
+10539
+Run Time: 4447.0000267 milliseconds
+sudoku8.txt
+0
+2314
+Run Time: 973.999977112 milliseconds
+sudoku8.txt
+0
+10522
+Run Time: 4391.99995995 milliseconds
+sudoku8.txt
+14
+10529
+Run Time: 4377.00009346 milliseconds
+sudoku8.txt
+11
+10535
+Run Time: 4401.00002289 milliseconds
+sudoku8.txt
+12
+10515
+Run Time: 4463.99998665 milliseconds
+sudoku8.txt
+14
+10543
+Run Time: 4459.00011063 milliseconds
+sudoku8.txt
+17
+10532
+Run Time: 4458.99987221 milliseconds
+sudoku8.txt
+0
+6371
+Run Time: 2688.99989128 milliseconds
+sudoku8.txt
+18
+10515
+Run Time: 4450.9999752 milliseconds
+sudoku8.txt
+18
+10489
+Run Time: 4417.00005531 milliseconds
+sudoku8.txt
+11
+10523
+Run Time: 4457.00001717 milliseconds
+sudoku8.txt
+7
+10513
+Run Time: 4425.99987984 milliseconds
+sudoku8.txt
+0
+3067
+Run Time: 1295.00007629 milliseconds
+sudoku8.txt
+19
+10524
+Run Time: 4480.00001907 milliseconds
+sudoku8.txt
+12
+10536
+Run Time: 4471.99988365 milliseconds
+sudoku8.txt
+0
+2627
+Run Time: 1098.00004959 milliseconds
+average time: 3765.99999666
+average iterations: 8950
+Times not solved: 13
+sudoku8.txt
+11
+10632
+Run Time: 4473.99997711 milliseconds
+sudoku8.txt
+0
+6145
+Run Time: 2582.00001717 milliseconds
+sudoku8.txt
+13
+10628
+Run Time: 4480.00001907 milliseconds
+sudoku8.txt
+0
+7853
+Run Time: 3309.99994278 milliseconds
+sudoku8.txt
+17
+10672
+Run Time: 4476.00007057 milliseconds
+sudoku8.txt
+0
+3779
+Run Time: 1563.00020218 milliseconds
+sudoku8.txt
+20
+10647
+Run Time: 4411.99994087 milliseconds
+sudoku8.txt
+20
+10639
+Run Time: 4450.9999752 milliseconds
+sudoku8.txt
+16
+10594
+Run Time: 4388.99993896 milliseconds
+sudoku8.txt
+20
+10628
+Run Time: 4453.99999619 milliseconds
+sudoku8.txt
+13
+10621
+Run Time: 4526.99995041 milliseconds
+sudoku8.txt
+11
+10632
+Run Time: 4503.00002098 milliseconds
+sudoku8.txt
+16
+10607
+Run Time: 4505.00011444 milliseconds
+sudoku8.txt
+18
+10626
+Run Time: 4550.99987984 milliseconds
+sudoku8.txt
+18
+10601
+Run Time: 4527.00018883 milliseconds
+sudoku8.txt
+20
+10612
+Run Time: 4499.00007248 milliseconds
+sudoku8.txt
+0
+7911
+Run Time: 3395.99990845 milliseconds
+sudoku8.txt
+0
+7016
+Run Time: 2958.00018311 milliseconds
+sudoku8.txt
+0
+6737
+Run Time: 2868.00003052 milliseconds
+sudoku8.txt
+21
+10612
+Run Time: 4467.00000763 milliseconds
+average time: 3969.60002184
+average iterations: 9409
+Times not solved: 14
+sudoku8.txt
+0
+6518
+Run Time: 2759.99999046 milliseconds
+sudoku8.txt
+0
+7734
+Run Time: 3280.00020981 milliseconds
+sudoku8.txt
+19
+10698
+Run Time: 4559.00001526 milliseconds
+sudoku8.txt
+18
+10684
+Run Time: 4519.00005341 milliseconds
+sudoku8.txt
+11
+10688
+Run Time: 4519.99998093 milliseconds
+sudoku8.txt
+0
+5207
+Run Time: 2215.99984169 milliseconds
+sudoku8.txt
+0
+1767
+Run Time: 736.999988556 milliseconds
+sudoku8.txt
+0
+4344
+Run Time: 1832.00001717 milliseconds
+sudoku8.txt
+25
+10698
+Run Time: 4519.99998093 milliseconds
+sudoku8.txt
+22
+10706
+Run Time: 4542.99998283 milliseconds
+sudoku8.txt
+19
+10693
+Run Time: 4516.00003242 milliseconds
+sudoku8.txt
+14
+10712
+Run Time: 4536.99994087 milliseconds
+sudoku8.txt
+18
+10700
+Run Time: 4520.99990845 milliseconds
+sudoku8.txt
+18
+10700
+Run Time: 4442.00015068 milliseconds
+sudoku8.txt
+18
+10713
+Run Time: 4476.00007057 milliseconds
+sudoku8.txt
+13
+10654
+Run Time: 4449.99980927 milliseconds
+sudoku8.txt
+0
+9164
+Run Time: 3906.99982643 milliseconds
+sudoku8.txt
+21
+10725
+Run Time: 4519.00005341 milliseconds
+sudoku8.txt
+0
+9742
+Run Time: 4157.00006485 milliseconds
+sudoku8.txt
+20
+10694
+Run Time: 4526.99995041 milliseconds
+average time: 3876.89999342
+average iterations: 9177
+Times not solved: 13
+sudoku8.txt
+17
+10779
+Run Time: 4625.99992752 milliseconds
+sudoku8.txt
+22
+10777
+Run Time: 4523.00000191 milliseconds
+sudoku8.txt
+14
+10807
+Run Time: 4579.99992371 milliseconds
+sudoku8.txt
+22
+10791
+Run Time: 4711.99989319 milliseconds
+sudoku8.txt
+18
+10810
+Run Time: 4620.00012398 milliseconds
+sudoku8.txt
+0
+7642
+Run Time: 3311.00010872 milliseconds
+sudoku8.txt
+24
+10780
+Run Time: 4585.00003815 milliseconds
+sudoku8.txt
+0
+7766
+Run Time: 3279.00004387 milliseconds
+sudoku8.txt
+14
+10761
+Run Time: 4520.99990845 milliseconds
+sudoku8.txt
+16
+10760
+Run Time: 4538.00010681 milliseconds
+sudoku8.txt
+16
+10789
+Run Time: 4547.00016975 milliseconds
+sudoku8.txt
+0
+826
+Run Time: 348.999977112 milliseconds
+sudoku8.txt
+22
+10782
+Run Time: 4569.00000572 milliseconds
+sudoku8.txt
+0
+10521
+Run Time: 4453.99999619 milliseconds
+sudoku8.txt
+0
+4121
+Run Time: 1743.00003052 milliseconds
+sudoku8.txt
+0
+2204
+Run Time: 931.999921799 milliseconds
+sudoku8.txt
+0
+10016
+Run Time: 4240.00000954 milliseconds
+sudoku8.txt
+18
+10770
+Run Time: 4556.9999218 milliseconds
+sudoku8.txt
+16
+10815
+Run Time: 4555.99999428 milliseconds
+sudoku8.txt
+0
+6372
+Run Time: 2677.9999733 milliseconds
+average time: 3796.00000381
+average iterations: 8944
+Times not solved: 12
+sudoku8.txt
+21
+10842
+Run Time: 4619.99988556 milliseconds
+sudoku8.txt
+0
+7612
+Run Time: 3268.00012589 milliseconds
+sudoku8.txt
+0
+3663
+Run Time: 1552.00004578 milliseconds
+sudoku8.txt
+0
+8863
+Run Time: 3760.99991798 milliseconds
+sudoku8.txt
+0
+3872
+Run Time: 1637.00008392 milliseconds
+sudoku8.txt
+0
+5011
+Run Time: 2142.99988747 milliseconds
+sudoku8.txt
+18
+10887
+Run Time: 4558.99977684 milliseconds
+sudoku8.txt
+0
+6853
+Run Time: 2911.00001335 milliseconds
+sudoku8.txt
+0
+9856
+Run Time: 4187.00003624 milliseconds
+sudoku8.txt
+19
+10872
+Run Time: 4601.99999809 milliseconds
+sudoku8.txt
+26
+10905
+Run Time: 4606.99987411 milliseconds
+sudoku8.txt
+21
+10930
+Run Time: 4617.000103 milliseconds
+sudoku8.txt
+0
+4938
+Run Time: 2062.99996376 milliseconds
+sudoku8.txt
+21
+10890
+Run Time: 4592.00000763 milliseconds
+sudoku8.txt
+19
+10868
+Run Time: 4605.99994659 milliseconds
+sudoku8.txt
+22
+10872
+Run Time: 4583.99987221 milliseconds
+sudoku8.txt
+0
+1913
+Run Time: 821.000099182 milliseconds
+sudoku8.txt
+26
+10871
+Run Time: 4598.00004959 milliseconds
+sudoku8.txt
+0
+3021
+Run Time: 1273.00000191 milliseconds
+sudoku8.txt
+0
+8782
+Run Time: 3755.00011444 milliseconds
+average time: 3437.79999018
+average iterations: 8116
+Times not solved: 9
+sudoku8.txt
+23
+10914
+Run Time: 4640.0001049 milliseconds
+sudoku8.txt
+27
+10957
+Run Time: 4654.99997139 milliseconds
+sudoku8.txt
+0
+10028
+Run Time: 4278.99980545 milliseconds
+sudoku8.txt
+25
+10920
+Run Time: 4593.99986267 milliseconds
+sudoku8.txt
+21
+10913
+Run Time: 4634.00006294 milliseconds
+sudoku8.txt
+18
+10910
+Run Time: 4586.99989319 milliseconds
+sudoku8.txt
+0
+5089
+Run Time: 2138.00001144 milliseconds
+sudoku8.txt
+0
+7080
+Run Time: 3003.9999485 milliseconds
+sudoku8.txt
+23
+10917
+Run Time: 4641.99995995 milliseconds
+sudoku8.txt
+21
+10909
+Run Time: 4625.0 milliseconds
+sudoku8.txt
+26
+10944
+Run Time: 4658.99991989 milliseconds
+sudoku8.txt
+0
+5687
+Run Time: 2415.99988937 milliseconds
+sudoku8.txt
+15
+10955
+Run Time: 4609.00020599 milliseconds
+sudoku8.txt
+16
+10936
+Run Time: 4615.99993706 milliseconds
+sudoku8.txt
+16
+10962
+Run Time: 4634.99999046 milliseconds
+sudoku8.txt
+20
+10957
+Run Time: 4648.99992943 milliseconds
+sudoku8.txt
+16
+10917
+Run Time: 4598.99997711 milliseconds
+sudoku8.txt
+0
+4764
+Run Time: 2006.00004196 milliseconds
+sudoku8.txt
+21
+10929
+Run Time: 4621.0000515 milliseconds
+sudoku8.txt
+0
+4656
+Run Time: 1970.99995613 milliseconds
+average time: 4028.94997597
+average iterations: 9517
+Times not solved: 14
+sudoku8.txt
+19
+11017
+Run Time: 4675.99987984 milliseconds
+sudoku8.txt
+25
+11031
+Run Time: 4682.00016022 milliseconds
+sudoku8.txt
+16
+11074
+Run Time: 4691.99991226 milliseconds
+sudoku8.txt
+29
+10996
+Run Time: 4652.00018883 milliseconds
+sudoku8.txt
+25
+11025
+Run Time: 4648.99992943 milliseconds
+sudoku8.txt
+0
+5123
+Run Time: 2166.00012779 milliseconds
+sudoku8.txt
+25
+11016
+Run Time: 4612.99991608 milliseconds
+sudoku8.txt
+26
+11038
+Run Time: 4673.00009727 milliseconds
+sudoku8.txt
+27
+10987
+Run Time: 4648.00000191 milliseconds
+sudoku8.txt
+26
+10974
+Run Time: 4621.0000515 milliseconds
+sudoku8.txt
+24
+11067
+Run Time: 4689.0001297 milliseconds
+sudoku8.txt
+23
+11008
+Run Time: 4657.00006485 milliseconds
+sudoku8.txt
+24
+11049
+Run Time: 4619.99988556 milliseconds
+sudoku8.txt
+29
+11042
+Run Time: 4648.99992943 milliseconds
+sudoku8.txt
+0
+2144
+Run Time: 904.99997139 milliseconds
+sudoku8.txt
+23
+11001
+Run Time: 4614.00008202 milliseconds
+sudoku8.txt
+23
+11031
+Run Time: 4695.00017166 milliseconds
+sudoku8.txt
+23
+11016
+Run Time: 4668.99991035 milliseconds
+sudoku8.txt
+22
+10984
+Run Time: 4646.00014687 milliseconds
+sudoku8.txt
+25
+11034
+Run Time: 4676.00011826 milliseconds
+average time: 4344.60003376
+average iterations: 10282
+Times not solved: 18
+sudoku8.txt
+19
+11082
+Run Time: 4671.99993134 milliseconds
+sudoku8.txt
+26
+11075
+Run Time: 4664.99996185 milliseconds
+sudoku8.txt
+24
+11081
+Run Time: 4679.00013924 milliseconds
+sudoku8.txt
+21
+11086
+Run Time: 4768.99981499 milliseconds
+sudoku8.txt
+0
+7086
+Run Time: 2985.00013351 milliseconds
+sudoku8.txt
+28
+11057
+Run Time: 4690.00005722 milliseconds
+sudoku8.txt
+33
+11038
+Run Time: 4681.9999218 milliseconds
+sudoku8.txt
+24
+11103
+Run Time: 4702.00014114 milliseconds
+sudoku8.txt
+25
+11041
+Run Time: 4638.00001144 milliseconds
+sudoku8.txt
+23
+11075
+Run Time: 4675.99987984 milliseconds
+sudoku8.txt
+25
+11122
+Run Time: 4713.00005913 milliseconds
+sudoku8.txt
+21
+11066
+Run Time: 4689.0001297 milliseconds
+sudoku8.txt
+0
+7380
+Run Time: 3111.99998856 milliseconds
+sudoku8.txt
+0
+6083
+Run Time: 2584.00011063 milliseconds
+sudoku8.txt
+0
+5188
+Run Time: 2180.99999428 milliseconds
+sudoku8.txt
+24
+11082
+Run Time: 4700.9999752 milliseconds
+sudoku8.txt
+0
+10919
+Run Time: 4603.99985313 milliseconds
+sudoku8.txt
+32
+11088
+Run Time: 4687.99996376 milliseconds
+sudoku8.txt
+23
+11131
+Run Time: 4701.99990273 milliseconds
+sudoku8.txt
+25
+11067
+Run Time: 4671.00000381 milliseconds
+average time: 4290.14999866
+average iterations: 10142
+Times not solved: 15
+sudoku8.txt
+21
+11155
+Run Time: 4721.99988365 milliseconds
+sudoku8.txt
+25
+11161
+Run Time: 4741.99986458 milliseconds
+sudoku8.txt
+32
+11116
+Run Time: 4713.00005913 milliseconds
+sudoku8.txt
+25
+11179
+Run Time: 4725.00014305 milliseconds
+sudoku8.txt
+0
+3529
+Run Time: 1476.99999809 milliseconds
+sudoku8.txt
+28
+11165
+Run Time: 4703.99999619 milliseconds
+sudoku8.txt
+28
+11149
+Run Time: 4699.00012016 milliseconds
+sudoku8.txt
+0
+9068
+Run Time: 3825.9999752 milliseconds
+sudoku8.txt
+0
+6044
+Run Time: 2562.00003624 milliseconds
+sudoku8.txt
+27
+11161
+Run Time: 4718.99986267 milliseconds
+sudoku8.txt
+33
+11145
+Run Time: 4716.00008011 milliseconds
+sudoku8.txt
+33
+11156
+Run Time: 4708.99987221 milliseconds
+sudoku8.txt
+20
+11142
+Run Time: 4710.99996567 milliseconds
+sudoku8.txt
+27
+11142
+Run Time: 4701.99990273 milliseconds
+sudoku8.txt
+0
+2257
+Run Time: 948.000192642 milliseconds
+sudoku8.txt
+30
+11171
+Run Time: 4726.99999809 milliseconds
+sudoku8.txt
+0
+6795
+Run Time: 2853.99985313 milliseconds
+sudoku8.txt
+0
+7110
+Run Time: 3028.99980545 milliseconds
+sudoku8.txt
+25
+11152
+Run Time: 4717.99993515 milliseconds
+sudoku8.txt
+0
+7482
+Run Time: 3177.00004578 milliseconds
+average time: 3958.9999795
+average iterations: 9363
+Times not solved: 13
+sudoku8.txt
+0
+2977
+Run Time: 1266.00003242 milliseconds
+sudoku8.txt
+24
+11157
+Run Time: 4745.99981308 milliseconds
+sudoku8.txt
+18
+11189
+Run Time: 4692.99983978 milliseconds
+sudoku8.txt
+24
+11204
+Run Time: 4730.99994659 milliseconds
+sudoku8.txt
+19
+11211
+Run Time: 4740.99993706 milliseconds
+sudoku8.txt
+0
+1292
+Run Time: 552.999973297 milliseconds
+sudoku8.txt
+22
+11245
+Run Time: 4784.99984741 milliseconds
+sudoku8.txt
+0
+8026
+Run Time: 3411.00001335 milliseconds
+sudoku8.txt
+29
+11189
+Run Time: 4686.00010872 milliseconds
+sudoku8.txt
+32
+11208
+Run Time: 4746.0000515 milliseconds
+sudoku8.txt
+29
+11184
+Run Time: 4737.99991608 milliseconds
+sudoku8.txt
+27
+11185
+Run Time: 4667.00005531 milliseconds
+sudoku8.txt
+23
+11180
+Run Time: 4707.99994469 milliseconds
+sudoku8.txt
+32
+11278
+Run Time: 4766.99995995 milliseconds
+sudoku8.txt
+0
+7081
+Run Time: 3006.99996948 milliseconds
+sudoku8.txt
+25
+11209
+Run Time: 4761.0001564 milliseconds
+sudoku8.txt
+17
+11237
+Run Time: 4751.99985504 milliseconds
+sudoku8.txt
+19
+11218
+Run Time: 4743.00003052 milliseconds
+sudoku8.txt
+28
+11245
+Run Time: 4759.99999046 milliseconds
+sudoku8.txt
+0
+3252
+Run Time: 1361.99998856 milliseconds
+average time: 4031.14997149
+average iterations: 9538
+Times not solved: 15
+sudoku8.txt
+0
+2620
+Run Time: 1111.00006104 milliseconds
+sudoku8.txt
+30
+11254
+Run Time: 4752.00009346 milliseconds
+sudoku8.txt
+0
+4141
+Run Time: 1786.00001335 milliseconds
+sudoku8.txt
+38
+11212
+Run Time: 4746.99997902 milliseconds
+sudoku8.txt
+20
+11238
+Run Time: 4769.00005341 milliseconds
+sudoku8.txt
+31
+11282
+Run Time: 4776.00002289 milliseconds
+sudoku8.txt
+0
+5204
+Run Time: 2217.00000763 milliseconds
+sudoku8.txt
+0
+5967
+Run Time: 2518.00012589 milliseconds
+sudoku8.txt
+32
+11268
+Run Time: 4799.99995232 milliseconds
+sudoku8.txt
+29
+11281
+Run Time: 4781.00013733 milliseconds
+sudoku8.txt
+0
+4268
+Run Time: 1785.00008583 milliseconds
+sudoku8.txt
+32
+11246
+Run Time: 4773.00000191 milliseconds
+sudoku8.txt
+30
+11300
+Run Time: 4779.00004387 milliseconds
+sudoku8.txt
+33
+11261
+Run Time: 4773.99992943 milliseconds
+sudoku8.txt
+30
+11243
+Run Time: 4751.00016594 milliseconds
+sudoku8.txt
+26
+11267
+Run Time: 4750.0 milliseconds
+sudoku8.txt
+30
+11247
+Run Time: 4808.00008774 milliseconds
+sudoku8.txt
+0
+6298
+Run Time: 2689.9998188 milliseconds
+sudoku8.txt
+0
+4430
+Run Time: 1884.00006294 milliseconds
+sudoku8.txt
+37
+11261
+Run Time: 4789.00003433 milliseconds
+average time: 3802.00003386
+average iterations: 8964
+Times not solved: 13
+sudoku9.txt
+0
+1382
+Run Time: 508.999824524 milliseconds
+sudoku9.txt
+0
+292
+Run Time: 106.999874115 milliseconds
+sudoku9.txt
+10
+10130
+Run Time: 3759.99999046 milliseconds
+sudoku9.txt
+2
+10130
+Run Time: 3744.99988556 milliseconds
+sudoku9.txt
+0
+7065
+Run Time: 2641.99995995 milliseconds
+sudoku9.txt
+0
+4638
+Run Time: 1700.00004768 milliseconds
+sudoku9.txt
+7
+10134
+Run Time: 3763.99993896 milliseconds
+sudoku9.txt
+0
+5139
+Run Time: 1907.00006485 milliseconds
+sudoku9.txt
+0
+1330
+Run Time: 508.000135422 milliseconds
+sudoku9.txt
+0
+3285
+Run Time: 1240.99993706 milliseconds
+sudoku9.txt
+0
+4392
+Run Time: 1628.00002098 milliseconds
+sudoku9.txt
+0
+7373
+Run Time: 2732.00011253 milliseconds
+sudoku9.txt
+0
+3683
+Run Time: 1362.99991608 milliseconds
+sudoku9.txt
+0
+1768
+Run Time: 648.000001907 milliseconds
+sudoku9.txt
+0
+1451
+Run Time: 562.00003624 milliseconds
+sudoku9.txt
+6
+10138
+Run Time: 3773.99992943 milliseconds
+sudoku9.txt
+2
+10139
+Run Time: 3794.99983788 milliseconds
+sudoku9.txt
+8
+10122
+Run Time: 3743.99995804 milliseconds
+sudoku9.txt
+0
+3209
+Run Time: 1203.99999619 milliseconds
+sudoku9.txt
+0
+4847
+Run Time: 1809.99994278 milliseconds
+average time: 2057.14997053
+average iterations: 5532
+Times not solved: 6
+sudoku9.txt
+0
+2160
+Run Time: 803.999900818 milliseconds
+sudoku9.txt
+0
+6072
+Run Time: 2266.99995995 milliseconds
+sudoku9.txt
+0
+1413
+Run Time: 538.000106812 milliseconds
+sudoku9.txt
+0
+2297
+Run Time: 864.000082016 milliseconds
+sudoku9.txt
+0
+3060
+Run Time: 1145.99990845 milliseconds
+sudoku9.txt
+0
+5616
+Run Time: 2095.00002861 milliseconds
+sudoku9.txt
+0
+7081
+Run Time: 2662.00017929 milliseconds
+sudoku9.txt
+7
+10237
+Run Time: 3792.99998283 milliseconds
+sudoku9.txt
+0
+1141
+Run Time: 421.999931335 milliseconds
+sudoku9.txt
+0
+2311
+Run Time: 848.000049591 milliseconds
+sudoku9.txt
+0
+859
+Run Time: 316.999912262 milliseconds
+sudoku9.txt
+0
+3226
+Run Time: 1180.99999428 milliseconds
+sudoku9.txt
+0
+7467
+Run Time: 2793.99991035 milliseconds
+sudoku9.txt
+0
+1452
+Run Time: 545.000076294 milliseconds
+sudoku9.txt
+9
+10245
+Run Time: 3833.00018311 milliseconds
+sudoku9.txt
+0
+3651
+Run Time: 1359.9998951 milliseconds
+sudoku9.txt
+0
+7720
+Run Time: 2855.99994659 milliseconds
+sudoku9.txt
+0
+5947
+Run Time: 2250.0 milliseconds
+sudoku9.txt
+0
+5416
+Run Time: 2009.99999046 milliseconds
+sudoku9.txt
+0
+9690
+Run Time: 3601.99999809 milliseconds
+average time: 1809.35000181
+average iterations: 4853
+Times not solved: 2
+sudoku9.txt
+0
+715
+Run Time: 261.999845505 milliseconds
+sudoku9.txt
+0
+1870
+Run Time: 677.999973297 milliseconds
+sudoku9.txt
+0
+581
+Run Time: 217.000007629 milliseconds
+sudoku9.txt
+10
+10314
+Run Time: 3862.99991608 milliseconds
+sudoku9.txt
+0
+1155
+Run Time: 411.999940872 milliseconds
+sudoku9.txt
+0
+3036
+Run Time: 1117.000103 milliseconds
+sudoku9.txt
+0
+2135
+Run Time: 791.000127792 milliseconds
+sudoku9.txt
+0
+1823
+Run Time: 657.999992371 milliseconds
+sudoku9.txt
+0
+1799
+Run Time: 668.999910355 milliseconds
+sudoku9.txt
+0
+1509
+Run Time: 572.000026703 milliseconds
+sudoku9.txt
+0
+1223
+Run Time: 452.999830246 milliseconds
+sudoku9.txt
+0
+9141
+Run Time: 3424.0000248 milliseconds
+sudoku9.txt
+0
+10190
+Run Time: 3786.00001335 milliseconds
+sudoku9.txt
+0
+9962
+Run Time: 3722.00012207 milliseconds
+sudoku9.txt
+0
+798
+Run Time: 300.999879837 milliseconds
+sudoku9.txt
+0
+1188
+Run Time: 446.000099182 milliseconds
+sudoku9.txt
+0
+4375
+Run Time: 1656.00013733 milliseconds
+sudoku9.txt
+8
+10312
+Run Time: 3878.9999485 milliseconds
+sudoku9.txt
+0
+5937
+Run Time: 2224.99990463 milliseconds
+sudoku9.txt
+0
+10082
+Run Time: 3736.99998856 milliseconds
+average time: 1643.3999896
+average iterations: 4407
+Times not solved: 2
+sudoku9.txt
+0
+5034
+Run Time: 1891.99995995 milliseconds
+sudoku9.txt
+10
+10423
+Run Time: 3835.99996567 milliseconds
+sudoku9.txt
+0
+3470
+Run Time: 1293.99991035 milliseconds
+sudoku9.txt
+0
+4968
+Run Time: 1858.99996758 milliseconds
+sudoku9.txt
+0
+371
+Run Time: 135.999917984 milliseconds
+sudoku9.txt
+0
+4603
+Run Time: 1719.00010109 milliseconds
+sudoku9.txt
+0
+8898
+Run Time: 3339.99991417 milliseconds
+sudoku9.txt
+0
+416
+Run Time: 161.000013351 milliseconds
+sudoku9.txt
+0
+2942
+Run Time: 1101.99999809 milliseconds
+sudoku9.txt
+0
+10187
+Run Time: 3787.99986839 milliseconds
+sudoku9.txt
+0
+2991
+Run Time: 1121.0000515 milliseconds
+sudoku9.txt
+0
+950
+Run Time: 356.000185013 milliseconds
+sudoku9.txt
+0
+1248
+Run Time: 467.000007629 milliseconds
+sudoku9.txt
+0
+225
+Run Time: 84.0001106262 milliseconds
+sudoku9.txt
+0
+8020
+Run Time: 3001.99985504 milliseconds
+sudoku9.txt
+0
+833
+Run Time: 312.99996376 milliseconds
+sudoku9.txt
+0
+1493
+Run Time: 555.000066757 milliseconds
+sudoku9.txt
+0
+2865
+Run Time: 1056.9999218 milliseconds
+sudoku9.txt
+0
+1443
+Run Time: 527.000188828 milliseconds
+sudoku9.txt
+0
+3111
+Run Time: 1180.99999428 milliseconds
+average time: 1389.49999809
+average iterations: 3724
+Times not solved: 1
+sudoku9.txt
+0
+5200
+Run Time: 1921.00000381 milliseconds
+sudoku9.txt
+11
+10471
+Run Time: 3907.00006485 milliseconds
+sudoku9.txt
+0
+3302
+Run Time: 1223.99997711 milliseconds
+sudoku9.txt
+0
+1257
+Run Time: 470.00002861 milliseconds
+sudoku9.txt
+0
+5277
+Run Time: 1983.99996758 milliseconds
+sudoku9.txt
+0
+2054
+Run Time: 760.999917984 milliseconds
+sudoku9.txt
+0
+1768
+Run Time: 652.99987793 milliseconds
+sudoku9.txt
+0
+1059
+Run Time: 391.000032425 milliseconds
+sudoku9.txt
+0
+2873
+Run Time: 1052.9999733 milliseconds
+sudoku9.txt
+0
+4470
+Run Time: 1678.00021172 milliseconds
+sudoku9.txt
+0
+3201
+Run Time: 1226.99999809 milliseconds
+sudoku9.txt
+0
+4284
+Run Time: 1592.00000763 milliseconds
+sudoku9.txt
+0
+1955
+Run Time: 736.999988556 milliseconds
+sudoku9.txt
+0
+7224
+Run Time: 2723.00004959 milliseconds
+sudoku9.txt
+0
+5633
+Run Time: 2098.99997711 milliseconds
+sudoku9.txt
+0
+5759
+Run Time: 2165.99988937 milliseconds
+sudoku9.txt
+0
+2796
+Run Time: 1105.99994659 milliseconds
+sudoku9.txt
+0
+5191
+Run Time: 1916.00012779 milliseconds
+sudoku9.txt
+0
+1141
+Run Time: 417.000055313 milliseconds
+sudoku9.txt
+0
+1018
+Run Time: 378.999948502 milliseconds
+average time: 1420.20000219
+average iterations: 3796
+Times not solved: 1
+sudoku9.txt
+0
+2491
+Run Time: 911.999940872 milliseconds
+sudoku9.txt
+0
+3695
+Run Time: 1383.99982452 milliseconds
+sudoku9.txt
+0
+1704
+Run Time: 637.000083923 milliseconds
+sudoku9.txt
+0
+8740
+Run Time: 3239.00008202 milliseconds
+sudoku9.txt
+0
+2868
+Run Time: 1074.00012016 milliseconds
+sudoku9.txt
+0
+8871
+Run Time: 3273.99992943 milliseconds
+sudoku9.txt
+0
+8326
+Run Time: 3134.99999046 milliseconds
+sudoku9.txt
+0
+6936
+Run Time: 2577.00014114 milliseconds
+sudoku9.txt
+0
+3352
+Run Time: 1238.9998436 milliseconds
+sudoku9.txt
+0
+1644
+Run Time: 604.000091553 milliseconds
+sudoku9.txt
+0
+7469
+Run Time: 2795.00007629 milliseconds
+sudoku9.txt
+0
+2166
+Run Time: 799.000024796 milliseconds
+sudoku9.txt
+0
+1461
+Run Time: 562.99996376 milliseconds
+sudoku9.txt
+0
+6281
+Run Time: 2341.00008011 milliseconds
+sudoku9.txt
+0
+2340
+Run Time: 871.000051498 milliseconds
+sudoku9.txt
+0
+2953
+Run Time: 1101.99999809 milliseconds
+sudoku9.txt
+0
+9431
+Run Time: 3513.00001144 milliseconds
+sudoku9.txt
+0
+8466
+Run Time: 3148.00000191 milliseconds
+sudoku9.txt
+0
+5330
+Run Time: 1977.99992561 milliseconds
+sudoku9.txt
+0
+8980
+Run Time: 3389.00017738 milliseconds
+average time: 1928.70001793
+average iterations: 5175
+Times not solved: 0
+sudoku9.txt
+0
+2673
+Run Time: 988.999843597 milliseconds
+sudoku9.txt
+0
+1879
+Run Time: 708.000183105 milliseconds
+sudoku9.txt
+0
+2617
+Run Time: 983.000040054 milliseconds
+sudoku9.txt
+0
+733
+Run Time: 268.999814987 milliseconds
+sudoku9.txt
+0
+7236
+Run Time: 2700.9999752 milliseconds
+sudoku9.txt
+0
+201
+Run Time: 79.9999237061 milliseconds
+sudoku9.txt
+0
+6858
+Run Time: 2573.00019264 milliseconds
+sudoku9.txt
+0
+902
+Run Time: 338.999986649 milliseconds
+sudoku9.txt
+0
+2564
+Run Time: 961.999893188 milliseconds
+sudoku9.txt
+0
+3835
+Run Time: 1435.9998703 milliseconds
+sudoku9.txt
+0
+4118
+Run Time: 1486.99998856 milliseconds
+sudoku9.txt
+16
+10679
+Run Time: 3993.00003052 milliseconds
+sudoku9.txt
+0
+287
+Run Time: 101.999998093 milliseconds
+sudoku9.txt
+0
+3681
+Run Time: 1380.00011444 milliseconds
+sudoku9.txt
+0
+4782
+Run Time: 1786.99994087 milliseconds
+sudoku9.txt
+0
+2371
+Run Time: 884.999990463 milliseconds
+sudoku9.txt
+14
+10674
+Run Time: 3973.99997711 milliseconds
+sudoku9.txt
+0
+1913
+Run Time: 721.999883652 milliseconds
+sudoku9.txt
+0
+2518
+Run Time: 941.00022316 milliseconds
+sudoku9.txt
+24
+10657
+Run Time: 4017.99988747 milliseconds
+average time: 1516.44998789
+average iterations: 4058
+Times not solved: 3
+sudoku9.txt
+0
+3304
+Run Time: 1233.00004005 milliseconds
+sudoku9.txt
+0
+2201
+Run Time: 829.999923706 milliseconds
+sudoku9.txt
+0
+5152
+Run Time: 1920.00007629 milliseconds
+sudoku9.txt
+0
+633
+Run Time: 235.000133514 milliseconds
+sudoku9.txt
+0
+732
+Run Time: 272.000074387 milliseconds
+sudoku9.txt
+0
+3653
+Run Time: 1388.99993896 milliseconds
+sudoku9.txt
+0
+2327
+Run Time: 865.999937057 milliseconds
+sudoku9.txt
+0
+5630
+Run Time: 2075.9999752 milliseconds
+sudoku9.txt
+0
+1561
+Run Time: 572.000026703 milliseconds
+sudoku9.txt
+0
+1339
+Run Time: 516.000032425 milliseconds
+sudoku9.txt
+0
+1276
+Run Time: 469.000101089 milliseconds
+sudoku9.txt
+0
+438
+Run Time: 161.000013351 milliseconds
+sudoku9.txt
+0
+1067
+Run Time: 388.999938965 milliseconds
+sudoku9.txt
+0
+2428
+Run Time: 901.999950409 milliseconds
+sudoku9.txt
+0
+6492
+Run Time: 2429.99982834 milliseconds
+sudoku9.txt
+24
+10729
+Run Time: 3951.99990273 milliseconds
+sudoku9.txt
+0
+3093
+Run Time: 1141.99995995 milliseconds
+sudoku9.txt
+0
+6212
+Run Time: 2336.99989319 milliseconds
+sudoku9.txt
+0
+2382
+Run Time: 898.999929428 milliseconds
+sudoku9.txt
+0
+1462
+Run Time: 539.000034332 milliseconds
+average time: 1156.4499855
+average iterations: 3105
+Times not solved: 1
+sudoku9.txt
+0
+2768
+Run Time: 1039.99996185 milliseconds
+sudoku9.txt
+0
+742
+Run Time: 269.999980927 milliseconds
+sudoku9.txt
+0
+2563
+Run Time: 978.000164032 milliseconds
+sudoku9.txt
+0
+616
+Run Time: 226.000070572 milliseconds
+sudoku9.txt
+0
+613
+Run Time: 227.999925613 milliseconds
+sudoku9.txt
+16
+10781
+Run Time: 3953.99999619 milliseconds
+sudoku9.txt
+0
+936
+Run Time: 344.000101089 milliseconds
+sudoku9.txt
+0
+8858
+Run Time: 3343.00017357 milliseconds
+sudoku9.txt
+0
+4852
+Run Time: 1789.99996185 milliseconds
+sudoku9.txt
+0
+1836
+Run Time: 694.000005722 milliseconds
+sudoku9.txt
+0
+1501
+Run Time: 549.999952316 milliseconds
+sudoku9.txt
+0
+991
+Run Time: 366.000175476 milliseconds
+sudoku9.txt
+0
+858
+Run Time: 317.999839783 milliseconds
+sudoku9.txt
+0
+2886
+Run Time: 1085.00003815 milliseconds
+sudoku9.txt
+0
+649
+Run Time: 241.999864578 milliseconds
+sudoku9.txt
+0
+6747
+Run Time: 2523.00000191 milliseconds
+sudoku9.txt
+0
+3861
+Run Time: 1459.00011063 milliseconds
+sudoku9.txt
+0
+9580
+Run Time: 3591.00008011 milliseconds
+sudoku9.txt
+0
+2362
+Run Time: 881.999969482 milliseconds
+sudoku9.txt
+0
+1714
+Run Time: 632.999897003 milliseconds
+average time: 1225.80001354
+average iterations: 3285
+Times not solved: 1
+sudoku9.txt
+0
+816
+Run Time: 299.999952316 milliseconds
+sudoku9.txt
+0
+10831
+Run Time: 4049.0000248 milliseconds
+sudoku9.txt
+0
+8446
+Run Time: 3140.0001049 milliseconds
+sudoku9.txt
+0
+3222
+Run Time: 1230.99994659 milliseconds
+sudoku9.txt
+0
+456
+Run Time: 163.000106812 milliseconds
+sudoku9.txt
+0
+7795
+Run Time: 2913.00010681 milliseconds
+sudoku9.txt
+0
+6128
+Run Time: 2290.99988937 milliseconds
+sudoku9.txt
+0
+1196
+Run Time: 437.00003624 milliseconds
+sudoku9.txt
+0
+2952
+Run Time: 1082.00001717 milliseconds
+sudoku9.txt
+0
+863
+Run Time: 329.999923706 milliseconds
+sudoku9.txt
+0
+3458
+Run Time: 1288.00010681 milliseconds
+sudoku9.txt
+0
+3585
+Run Time: 1351.00007057 milliseconds
+sudoku9.txt
+0
+819
+Run Time: 319.999933243 milliseconds
+sudoku9.txt
+0
+589
+Run Time: 217.000007629 milliseconds
+sudoku9.txt
+0
+2109
+Run Time: 795.000076294 milliseconds
+sudoku9.txt
+0
+501
+Run Time: 185.9998703 milliseconds
+sudoku9.txt
+0
+3406
+Run Time: 1266.99995995 milliseconds
+sudoku9.txt
+0
+4134
+Run Time: 1531.00013733 milliseconds
+sudoku9.txt
+0
+3629
+Run Time: 1381.00004196 milliseconds
+sudoku9.txt
+0
+3228
+Run Time: 1210.00003815 milliseconds
+average time: 1274.10001755
+average iterations: 3408
+Times not solved: 0
+sudoku9.txt
+0
+4695
+Run Time: 1743.99995804 milliseconds
+sudoku9.txt
+0
+2304
+Run Time: 861.000061035 milliseconds
+sudoku9.txt
+0
+8242
+Run Time: 3085.99996567 milliseconds
+sudoku9.txt
+0
+7811
+Run Time: 2902.00018883 milliseconds
+sudoku9.txt
+0
+678
+Run Time: 266.999959946 milliseconds
+sudoku9.txt
+24
+10924
+Run Time: 4065.99998474 milliseconds
+sudoku9.txt
+0
+850
+Run Time: 318.000078201 milliseconds
+sudoku9.txt
+0
+6664
+Run Time: 2539.00003433 milliseconds
+sudoku9.txt
+0
+1819
+Run Time: 688.999891281 milliseconds
+sudoku9.txt
+0
+1617
+Run Time: 606.000185013 milliseconds
+sudoku9.txt
+0
+4724
+Run Time: 1736.99998856 milliseconds
+sudoku9.txt
+0
+8320
+Run Time: 3131.99996948 milliseconds
+sudoku9.txt
+0
+7386
+Run Time: 2761.9998455 milliseconds
+sudoku9.txt
+0
+563
+Run Time: 210.000038147 milliseconds
+sudoku9.txt
+0
+948
+Run Time: 351.999998093 milliseconds
+sudoku9.txt
+0
+2962
+Run Time: 1115.00000954 milliseconds
+sudoku9.txt
+0
+3162
+Run Time: 1175.99987984 milliseconds
+sudoku9.txt
+0
+6729
+Run Time: 2511.0001564 milliseconds
+sudoku9.txt
+0
+2517
+Run Time: 949.999809265 milliseconds
+sudoku9.txt
+0
+2174
+Run Time: 805.999994278 milliseconds
+average time: 1591.44999981
+average iterations: 4254
+Times not solved: 1
+sudoku9.txt
+0
+3937
+Run Time: 1465.99984169 milliseconds
+sudoku9.txt
+0
+926
+Run Time: 342.99993515 milliseconds
+sudoku9.txt
+0
+10904
+Run Time: 4095.00002861 milliseconds
+sudoku9.txt
+0
+4674
+Run Time: 1745.00012398 milliseconds
+sudoku9.txt
+0
+947
+Run Time: 365.000009537 milliseconds
+sudoku9.txt
+0
+5544
+Run Time: 2053.00021172 milliseconds
+sudoku9.txt
+0
+638
+Run Time: 230.999946594 milliseconds
+sudoku9.txt
+0
+1688
+Run Time: 620.000123978 milliseconds
+sudoku9.txt
+0
+1419
+Run Time: 537.999868393 milliseconds
+sudoku9.txt
+0
+2576
+Run Time: 964.000225067 milliseconds
+sudoku9.txt
+0
+828
+Run Time: 304.999828339 milliseconds
+sudoku9.txt
+0
+1589
+Run Time: 620.000123978 milliseconds
+sudoku9.txt
+0
+997
+Run Time: 379.999876022 milliseconds
+sudoku9.txt
+0
+501
+Run Time: 190.00005722 milliseconds
+sudoku9.txt
+0
+815
+Run Time: 314.0001297 milliseconds
+sudoku9.txt
+0
+452
+Run Time: 164.999961853 milliseconds
+sudoku9.txt
+0
+10245
+Run Time: 3782.00006485 milliseconds
+sudoku9.txt
+0
+4341
+Run Time: 1600.99983215 milliseconds
+sudoku9.txt
+0
+1429
+Run Time: 514.999866486 milliseconds
+sudoku9.txt
+0
+8489
+Run Time: 3111.00006104 milliseconds
+average time: 1170.15000582
+average iterations: 3146
+Times not solved: 0
+sudoku9.txt
+0
+2564
+Run Time: 933.000087738 milliseconds
+sudoku9.txt
+0
+6284
+Run Time: 2302.00004578 milliseconds
+sudoku9.txt
+0
+4345
+Run Time: 1624.00007248 milliseconds
+sudoku9.txt
+25
+11096
+Run Time: 4138.99993896 milliseconds
+sudoku9.txt
+0
+2931
+Run Time: 1112.99991608 milliseconds
+sudoku9.txt
+0
+1624
+Run Time: 611.000061035 milliseconds
+sudoku9.txt
+0
+2598
+Run Time: 960.000038147 milliseconds
+sudoku9.txt
+0
+9755
+Run Time: 3632.999897 milliseconds
+sudoku9.txt
+0
+2393
+Run Time: 894.999980927 milliseconds
+sudoku9.txt
+0
+1945
+Run Time: 726.999998093 milliseconds
+sudoku9.txt
+0
+10480
+Run Time: 3947.99995422 milliseconds
+sudoku9.txt
+0
+3545
+Run Time: 1319.00000572 milliseconds
+sudoku9.txt
+0
+5749
+Run Time: 2161.00001335 milliseconds
+sudoku9.txt
+0
+780
+Run Time: 299.000024796 milliseconds
+sudoku9.txt
+0
+653
+Run Time: 246.999979019 milliseconds
+sudoku9.txt
+0
+10050
+Run Time: 3727.99992561 milliseconds
+sudoku9.txt
+23
+11080
+Run Time: 4151.99995041 milliseconds
+sudoku9.txt
+0
+5205
+Run Time: 1955.00016212 milliseconds
+sudoku9.txt
+0
+2309
+Run Time: 882.999897003 milliseconds
+sudoku9.txt
+0
+7397
+Run Time: 2766.00003242 milliseconds
+average time: 1919.74999905
+average iterations: 5139
+Times not solved: 2
+sudoku9.txt
+0
+1009
+Run Time: 383.000135422 milliseconds
+sudoku9.txt
+0
+3956
+Run Time: 1476.00007057 milliseconds
+sudoku9.txt
+0
+1236
+Run Time: 461.999893188 milliseconds
+sudoku9.txt
+0
+1890
+Run Time: 723.000049591 milliseconds
+sudoku9.txt
+0
+7246
+Run Time: 2720.00002861 milliseconds
+sudoku9.txt
+0
+1800
+Run Time: 679.000139236 milliseconds
+sudoku9.txt
+0
+881
+Run Time: 325.999975204 milliseconds
+sudoku9.txt
+0
+3349
+Run Time: 1263.00001144 milliseconds
+sudoku9.txt
+0
+6122
+Run Time: 2253.00002098 milliseconds
+sudoku9.txt
+27
+11131
+Run Time: 4150.00009537 milliseconds
+sudoku9.txt
+0
+1232
+Run Time: 448.999881744 milliseconds
+sudoku9.txt
+0
+3247
+Run Time: 1215.99984169 milliseconds
+sudoku9.txt
+0
+3438
+Run Time: 1277.99987793 milliseconds
+sudoku9.txt
+20
+11106
+Run Time: 4179.00013924 milliseconds
+sudoku9.txt
+0
+1569
+Run Time: 588.999986649 milliseconds
+sudoku9.txt
+0
+8210
+Run Time: 3097.00012207 milliseconds
+sudoku9.txt
+0
+2555
+Run Time: 959.000110626 milliseconds
+sudoku9.txt
+0
+592
+Run Time: 226.999998093 milliseconds
+sudoku9.txt
+29
+11148
+Run Time: 4174.0000248 milliseconds
+sudoku9.txt
+0
+9469
+Run Time: 3544.99983788 milliseconds
+average time: 1707.40001202
+average iterations: 4559
+Times not solved: 3
+sudoku9.txt
+0
+1428
+Run Time: 523.999929428 milliseconds
+sudoku9.txt
+0
+2020
+Run Time: 758.000135422 milliseconds
+sudoku9.txt
+0
+2840
+Run Time: 1062.99996376 milliseconds
+sudoku9.txt
+0
+1569
+Run Time: 586.999893188 milliseconds
+sudoku9.txt
+0
+771
+Run Time: 296.000003815 milliseconds
+sudoku9.txt
+0
+5598
+Run Time: 2084.00011063 milliseconds
+sudoku9.txt
+0
+5983
+Run Time: 2232.99980164 milliseconds
+sudoku9.txt
+0
+7991
+Run Time: 3006.00004196 milliseconds
+sudoku9.txt
+0
+1474
+Run Time: 560.9998703 milliseconds
+sudoku9.txt
+0
+9364
+Run Time: 3528.00011635 milliseconds
+sudoku9.txt
+0
+3004
+Run Time: 1127.00009346 milliseconds
+sudoku9.txt
+0
+1093
+Run Time: 411.999940872 milliseconds
+sudoku9.txt
+29
+11144
+Run Time: 4113.0001545 milliseconds
+sudoku9.txt
+0
+5306
+Run Time: 1977.99992561 milliseconds
+sudoku9.txt
+0
+1422
+Run Time: 526.000022888 milliseconds
+sudoku9.txt
+0
+6591
+Run Time: 2456.00008965 milliseconds
+sudoku9.txt
+0
+895
+Run Time: 333.999872208 milliseconds
+sudoku9.txt
+0
+4453
+Run Time: 1663.00010681 milliseconds
+sudoku9.txt
+0
+332
+Run Time: 125.0 milliseconds
+sudoku9.txt
+0
+5396
+Run Time: 2023.00000191 milliseconds
+average time: 1469.85000372
+average iterations: 3933
+Times not solved: 1
+sudoku10.txt
+5
+10105
+Run Time: 3408.99991989 milliseconds
+sudoku10.txt
+0
+7361
+Run Time: 2482.00011253 milliseconds
+sudoku10.txt
+2
+10103
+Run Time: 3406.00013733 milliseconds
+sudoku10.txt
+0
+633
+Run Time: 213.999986649 milliseconds
+sudoku10.txt
+4
+10112
+Run Time: 3412.99986839 milliseconds
+sudoku10.txt
+0
+3277
+Run Time: 1101.00007057 milliseconds
+sudoku10.txt
+4
+10114
+Run Time: 3417.99998283 milliseconds
+sudoku10.txt
+0
+612
+Run Time: 203.999996185 milliseconds
+sudoku10.txt
+0
+3613
+Run Time: 1213.99998665 milliseconds
+sudoku10.txt
+0
+5551
+Run Time: 1868.00003052 milliseconds
+sudoku10.txt
+6
+10101
+Run Time: 3356.99987411 milliseconds
+sudoku10.txt
+0
+8977
+Run Time: 3004.99987602 milliseconds
+sudoku10.txt
+0
+179
+Run Time: 59.0000152588 milliseconds
+sudoku10.txt
+0
+4938
+Run Time: 1659.00015831 milliseconds
+sudoku10.txt
+0
+7078
+Run Time: 2388.99993896 milliseconds
+sudoku10.txt
+0
+3978
+Run Time: 1354.99978065 milliseconds
+sudoku10.txt
+7
+10107
+Run Time: 3412.99986839 milliseconds
+sudoku10.txt
+8
+10115
+Run Time: 3365.99993706 milliseconds
+sudoku10.txt
+6
+10111
+Run Time: 3398.00000191 milliseconds
+sudoku10.txt
+0
+5198
+Run Time: 1749.00007248 milliseconds
+average time: 2223.94998074
+average iterations: 6613
+Times not solved: 8
+sudoku10.txt
+0
+6385
+Run Time: 2143.00012589 milliseconds
+sudoku10.txt
+4
+10204
+Run Time: 3427.00004578 milliseconds
+sudoku10.txt
+7
+10199
+Run Time: 3444.00000572 milliseconds
+sudoku10.txt
+0
+4260
+Run Time: 1436.00010872 milliseconds
+sudoku10.txt
+0
+2352
+Run Time: 795.000076294 milliseconds
+sudoku10.txt
+7
+10198
+Run Time: 3431.9999218 milliseconds
+sudoku10.txt
+0
+5790
+Run Time: 1955.00016212 milliseconds
+sudoku10.txt
+2
+10195
+Run Time: 3440.00005722 milliseconds
+sudoku10.txt
+0
+2294
+Run Time: 778.99980545 milliseconds
+sudoku10.txt
+0
+1232
+Run Time: 414.000034332 milliseconds
+sudoku10.txt
+6
+10206
+Run Time: 3469.00010109 milliseconds
+sudoku10.txt
+0
+4584
+Run Time: 1539.00003433 milliseconds
+sudoku10.txt
+0
+1295
+Run Time: 430.999994278 milliseconds
+sudoku10.txt
+0
+5360
+Run Time: 1815.00005722 milliseconds
+sudoku10.txt
+0
+5895
+Run Time: 1997.99990654 milliseconds
+sudoku10.txt
+0
+1111
+Run Time: 377.00009346 milliseconds
+sudoku10.txt
+4
+10214
+Run Time: 3447.0000267 milliseconds
+sudoku10.txt
+0
+3058
+Run Time: 1026.00002289 milliseconds
+sudoku10.txt
+0
+5912
+Run Time: 1976.99999809 milliseconds
+sudoku10.txt
+0
+4840
+Run Time: 1632.0002079 milliseconds
+average time: 1948.80003929
+average iterations: 5779
+Times not solved: 6
+sudoku10.txt
+0
+2951
+Run Time: 990.000009537 milliseconds
+sudoku10.txt
+0
+2366
+Run Time: 799.000024796 milliseconds
+sudoku10.txt
+0
+2351
+Run Time: 801.000118256 milliseconds
+sudoku10.txt
+0
+4928
+Run Time: 1673.99978638 milliseconds
+sudoku10.txt
+5
+10278
+Run Time: 3445.99986076 milliseconds
+sudoku10.txt
+0
+6185
+Run Time: 2088.99998665 milliseconds
+sudoku10.txt
+0
+6432
+Run Time: 2169.99983788 milliseconds
+sudoku10.txt
+0
+2723
+Run Time: 924.000024796 milliseconds
+sudoku10.txt
+0
+5391
+Run Time: 1834.99979973 milliseconds
+sudoku10.txt
+0
+372
+Run Time: 132.000207901 milliseconds
+sudoku10.txt
+9
+10259
+Run Time: 3453.99999619 milliseconds
+sudoku10.txt
+0
+899
+Run Time: 298.999786377 milliseconds
+sudoku10.txt
+0
+525
+Run Time: 178.999900818 milliseconds
+sudoku10.txt
+0
+1876
+Run Time: 640.000104904 milliseconds
+sudoku10.txt
+0
+2027
+Run Time: 694.000005722 milliseconds
+sudoku10.txt
+0
+593
+Run Time: 197.000026703 milliseconds
+sudoku10.txt
+0
+1062
+Run Time: 357.000112534 milliseconds
+sudoku10.txt
+0
+1557
+Run Time: 533.999919891 milliseconds
+sudoku10.txt
+7
+10276
+Run Time: 3447.0000267 milliseconds
+sudoku10.txt
+12
+10291
+Run Time: 3440.00005722 milliseconds
+average time: 1405.04997969
+average iterations: 4167
+Times not solved: 4
+sudoku10.txt
+0
+1538
+Run Time: 509.000062943 milliseconds
+sudoku10.txt
+0
+3137
+Run Time: 1049.0000248 milliseconds
+sudoku10.txt
+0
+1820
+Run Time: 615.000009537 milliseconds
+sudoku10.txt
+0
+2238
+Run Time: 770.000219345 milliseconds
+sudoku10.txt
+0
+172
+Run Time: 57.9998493195 milliseconds
+sudoku10.txt
+0
+1621
+Run Time: 550.999879837 milliseconds
+sudoku10.txt
+0
+5020
+Run Time: 1677.9999733 milliseconds
+sudoku10.txt
+0
+4976
+Run Time: 1668.99991035 milliseconds
+sudoku10.txt
+0
+4986
+Run Time: 1690.99998474 milliseconds
+sudoku10.txt
+0
+2700
+Run Time: 908.999919891 milliseconds
+sudoku10.txt
+0
+4455
+Run Time: 1499.00007248 milliseconds
+sudoku10.txt
+0
+972
+Run Time: 331.000089645 milliseconds
+sudoku10.txt
+0
+10222
+Run Time: 3460.00003815 milliseconds
+sudoku10.txt
+0
+6582
+Run Time: 2211.99989319 milliseconds
+sudoku10.txt
+0
+309
+Run Time: 99.9999046326 milliseconds
+sudoku10.txt
+0
+779
+Run Time: 265.000104904 milliseconds
+sudoku10.txt
+0
+514
+Run Time: 174.999952316 milliseconds
+sudoku10.txt
+0
+991
+Run Time: 346.00019455 milliseconds
+sudoku10.txt
+0
+3766
+Run Time: 1263.99993896 milliseconds
+sudoku10.txt
+0
+9688
+Run Time: 3250.0 milliseconds
+average time: 1120.05000114
+average iterations: 3324
+Times not solved: 0
+sudoku10.txt
+0
+2606
+Run Time: 889.999866486 milliseconds
+sudoku10.txt
+0
+2091
+Run Time: 696.000099182 milliseconds
+sudoku10.txt
+0
+1086
+Run Time: 364.000082016 milliseconds
+sudoku10.txt
+0
+675
+Run Time: 226.999998093 milliseconds
+sudoku10.txt
+0
+2491
+Run Time: 834.999799728 milliseconds
+sudoku10.txt
+0
+273
+Run Time: 88.9999866486 milliseconds
+sudoku10.txt
+0
+1927
+Run Time: 644.999980927 milliseconds
+sudoku10.txt
+0
+3396
+Run Time: 1147.00007439 milliseconds
+sudoku10.txt
+0
+7517
+Run Time: 2542.99998283 milliseconds
+sudoku10.txt
+0
+925
+Run Time: 309.000015259 milliseconds
+sudoku10.txt
+0
+3081
+Run Time: 1049.99995232 milliseconds
+sudoku10.txt
+0
+4969
+Run Time: 1674.99995232 milliseconds
+sudoku10.txt
+0
+1205
+Run Time: 425.999879837 milliseconds
+sudoku10.txt
+0
+7254
+Run Time: 2457.99994469 milliseconds
+sudoku10.txt
+0
+1814
+Run Time: 611.000061035 milliseconds
+sudoku10.txt
+0
+2306
+Run Time: 778.000116348 milliseconds
+sudoku10.txt
+0
+2350
+Run Time: 796.000003815 milliseconds
+sudoku10.txt
+0
+1580
+Run Time: 541.999816895 milliseconds
+sudoku10.txt
+0
+3416
+Run Time: 1147.00007439 milliseconds
+sudoku10.txt
+0
+3225
+Run Time: 1082.00001717 milliseconds
+average time: 915.499985218
+average iterations: 2709
+Times not solved: 0
+sudoku10.txt
+0
+623
+Run Time: 210.999965668 milliseconds
+sudoku10.txt
+0
+4134
+Run Time: 1399.99985695 milliseconds
+sudoku10.txt
+0
+3596
+Run Time: 1222.99981117 milliseconds
+sudoku10.txt
+0
+1062
+Run Time: 352.999925613 milliseconds
+sudoku10.txt
+0
+1100
+Run Time: 368.999958038 milliseconds
+sudoku10.txt
+0
+1908
+Run Time: 646.999835968 milliseconds
+sudoku10.txt
+0
+2421
+Run Time: 814.0001297 milliseconds
+sudoku10.txt
+0
+997
+Run Time: 347.00012207 milliseconds
+sudoku10.txt
+0
+1330
+Run Time: 444.999933243 milliseconds
+sudoku10.txt
+0
+3159
+Run Time: 1069.00000572 milliseconds
+sudoku10.txt
+0
+2755
+Run Time: 931.999921799 milliseconds
+sudoku10.txt
+0
+10478
+Run Time: 3548.00009727 milliseconds
+sudoku10.txt
+0
+890
+Run Time: 298.000097275 milliseconds
+sudoku10.txt
+0
+1569
+Run Time: 536.000013351 milliseconds
+sudoku10.txt
+0
+6822
+Run Time: 2312.99996376 milliseconds
+sudoku10.txt
+0
+908
+Run Time: 303.999900818 milliseconds
+sudoku10.txt
+0
+1583
+Run Time: 528.000116348 milliseconds
+sudoku10.txt
+0
+1459
+Run Time: 490.000009537 milliseconds
+sudoku10.txt
+0
+2108
+Run Time: 707.000017166 milliseconds
+sudoku10.txt
+0
+157
+Run Time: 54.0001392365 milliseconds
+average time: 829.399991035
+average iterations: 2452
+Times not solved: 0
+sudoku10.txt
+0
+373
+Run Time: 126.999855042 milliseconds
+sudoku10.txt
+0
+1379
+Run Time: 469.000101089 milliseconds
+sudoku10.txt
+0
+1347
+Run Time: 450.999975204 milliseconds
+sudoku10.txt
+0
+8628
+Run Time: 2934.99994278 milliseconds
+sudoku10.txt
+0
+523
+Run Time: 170.000076294 milliseconds
+sudoku10.txt
+0
+1346
+Run Time: 450.999975204 milliseconds
+sudoku10.txt
+0
+1812
+Run Time: 610.999822617 milliseconds
+sudoku10.txt
+0
+9605
+Run Time: 3260.99991798 milliseconds
+sudoku10.txt
+0
+2090
+Run Time: 713.999986649 milliseconds
+sudoku10.txt
+0
+1696
+Run Time: 573.000192642 milliseconds
+sudoku10.txt
+0
+6255
+Run Time: 2133.99982452 milliseconds
+sudoku10.txt
+0
+3955
+Run Time: 1325.00004768 milliseconds
+sudoku10.txt
+0
+894
+Run Time: 302.999973297 milliseconds
+sudoku10.txt
+0
+2763
+Run Time: 936.999797821 milliseconds
+sudoku10.txt
+0
+2515
+Run Time: 839.000225067 milliseconds
+sudoku10.txt
+0
+2373
+Run Time: 809.99994278 milliseconds
+sudoku10.txt
+0
+4294
+Run Time: 1466.00008011 milliseconds
+sudoku10.txt
+0
+162
+Run Time: 55.0000667572 milliseconds
+sudoku10.txt
+0
+3342
+Run Time: 1138.00001144 milliseconds
+sudoku10.txt
+0
+396
+Run Time: 134.000062943 milliseconds
+average time: 945.149993896
+average iterations: 2787
+Times not solved: 0
+sudoku10.txt
+0
+7396
+Run Time: 2492.000103 milliseconds
+sudoku10.txt
+0
+1396
+Run Time: 472.999811172 milliseconds
+sudoku10.txt
+0
+961
+Run Time: 335.999965668 milliseconds
+sudoku10.txt
+0
+1914
+Run Time: 650.000095367 milliseconds
+sudoku10.txt
+0
+10209
+Run Time: 3424.0000248 milliseconds
+sudoku10.txt
+0
+2511
+Run Time: 856.999874115 milliseconds
+sudoku10.txt
+0
+2086
+Run Time: 713.999986649 milliseconds
+sudoku10.txt
+0
+703
+Run Time: 232.999801636 milliseconds
+sudoku10.txt
+0
+3923
+Run Time: 1319.00000572 milliseconds
+sudoku10.txt
+0
+1672
+Run Time: 565.00005722 milliseconds
+sudoku10.txt
+0
+639
+Run Time: 213.000059128 milliseconds
+sudoku10.txt
+0
+5334
+Run Time: 1792.00005531 milliseconds
+sudoku10.txt
+0
+2451
+Run Time: 830.000162125 milliseconds
+sudoku10.txt
+0
+4237
+Run Time: 1388.00001144 milliseconds
+sudoku10.txt
+0
+2194
+Run Time: 740.000009537 milliseconds
+sudoku10.txt
+0
+2293
+Run Time: 772.000074387 milliseconds
+sudoku10.txt
+0
+733
+Run Time: 248.999834061 milliseconds
+sudoku10.txt
+0
+7285
+Run Time: 2493.00003052 milliseconds
+sudoku10.txt
+0
+3261
+Run Time: 1101.99999809 milliseconds
+sudoku10.txt
+0
+1057
+Run Time: 355.000019073 milliseconds
+average time: 1049.84999895
+average iterations: 3112
+Times not solved: 0
+sudoku10.txt
+0
+1476
+Run Time: 492.000102997 milliseconds
+sudoku10.txt
+0
+2340
+Run Time: 788.000106812 milliseconds
+sudoku10.txt
+0
+1327
+Run Time: 452.999830246 milliseconds
+sudoku10.txt
+0
+1168
+Run Time: 390.000104904 milliseconds
+sudoku10.txt
+0
+4906
+Run Time: 1667.00005531 milliseconds
+sudoku10.txt
+0
+1022
+Run Time: 348.000049591 milliseconds
+sudoku10.txt
+0
+537
+Run Time: 179.000139236 milliseconds
+sudoku10.txt
+0
+1227
+Run Time: 413.000106812 milliseconds
+sudoku10.txt
+0
+1238
+Run Time: 416.999816895 milliseconds
+sudoku10.txt
+0
+534
+Run Time: 181.999921799 milliseconds
+sudoku10.txt
+0
+143
+Run Time: 49.0000247955 milliseconds
+sudoku10.txt
+0
+4162
+Run Time: 1389.99986649 milliseconds
+sudoku10.txt
+0
+4338
+Run Time: 1470.99995613 milliseconds
+sudoku10.txt
+0
+959
+Run Time: 330.000162125 milliseconds
+sudoku10.txt
+0
+3787
+Run Time: 1264.99986649 milliseconds
+sudoku10.txt
+0
+5151
+Run Time: 1694.00000572 milliseconds
+sudoku10.txt
+0
+4135
+Run Time: 1353.99985313 milliseconds
+sudoku10.txt
+0
+406
+Run Time: 144.000053406 milliseconds
+sudoku10.txt
+0
+2560
+Run Time: 864.999771118 milliseconds
+sudoku10.txt
+0
+2122
+Run Time: 701.999902725 milliseconds
+average time: 729.649984837
+average iterations: 2176
+Times not solved: 0
+sudoku10.txt
+0
+2461
+Run Time: 818.000078201 milliseconds
+sudoku10.txt
+0
+2098
+Run Time: 707.999944687 milliseconds
+sudoku10.txt
+0
+280
+Run Time: 92.0000076294 milliseconds
+sudoku10.txt
+0
+2226
+Run Time: 737.999916077 milliseconds
+sudoku10.txt
+0
+400
+Run Time: 137.000083923 milliseconds
+sudoku10.txt
+0
+519
+Run Time: 170.000076294 milliseconds
+sudoku10.txt
+0
+1128
+Run Time: 373.999834061 milliseconds
+sudoku10.txt
+0
+1125
+Run Time: 373.000144958 milliseconds
+sudoku10.txt
+0
+2478
+Run Time: 847.00012207 milliseconds
+sudoku10.txt
+0
+1875
+Run Time: 615.000009537 milliseconds
+sudoku10.txt
+0
+787
+Run Time: 260.999917984 milliseconds
+sudoku10.txt
+0
+1508
+Run Time: 507.999897003 milliseconds
+sudoku10.txt
+0
+606
+Run Time: 203.000068665 milliseconds
+sudoku10.txt
+0
+3645
+Run Time: 1234.9998951 milliseconds
+sudoku10.txt
+0
+1609
+Run Time: 533.999919891 milliseconds
+sudoku10.txt
+0
+1594
+Run Time: 534.00015831 milliseconds
+sudoku10.txt
+0
+2493
+Run Time: 874.000072479 milliseconds
+sudoku10.txt
+0
+958
+Run Time: 322.999954224 milliseconds
+sudoku10.txt
+0
+572
+Run Time: 194.999933243 milliseconds
+sudoku10.txt
+0
+654
+Run Time: 217.000007629 milliseconds
+average time: 487.800002098
+average iterations: 1450
+Times not solved: 0
+sudoku10.txt
+0
+1288
+Run Time: 425.999879837 milliseconds
+sudoku10.txt
+0
+1173
+Run Time: 399.999856949 milliseconds
+sudoku10.txt
+0
+376
+Run Time: 127.00009346 milliseconds
+sudoku10.txt
+0
+357
+Run Time: 120.000123978 milliseconds
+sudoku10.txt
+0
+3532
+Run Time: 1194.00000572 milliseconds
+sudoku10.txt
+0
+1376
+Run Time: 470.00002861 milliseconds
+sudoku10.txt
+0
+650
+Run Time: 218.000173569 milliseconds
+sudoku10.txt
+0
+1062
+Run Time: 358.999967575 milliseconds
+sudoku10.txt
+0
+904
+Run Time: 305.000066757 milliseconds
+sudoku10.txt
+0
+1493
+Run Time: 525.000095367 milliseconds
+sudoku10.txt
+0
+2887
+Run Time: 976.999998093 milliseconds
+sudoku10.txt
+0
+1935
+Run Time: 656.000137329 milliseconds
+sudoku10.txt
+0
+2643
+Run Time: 894.999980927 milliseconds
+sudoku10.txt
+0
+876
+Run Time: 295.000076294 milliseconds
+sudoku10.txt
+0
+1611
+Run Time: 539.999961853 milliseconds
+sudoku10.txt
+0
+490
+Run Time: 168.999910355 milliseconds
+sudoku10.txt
+0
+2450
+Run Time: 817.999839783 milliseconds
+sudoku10.txt
+0
+847
+Run Time: 288.999795914 milliseconds
+sudoku10.txt
+0
+499
+Run Time: 172.999858856 milliseconds
+sudoku10.txt
+0
+1129
+Run Time: 391.000032425 milliseconds
+average time: 467.349994183
+average iterations: 1378
+Times not solved: 0
+sudoku10.txt
+0
+858
+Run Time: 285.000085831 milliseconds
+sudoku10.txt
+0
+2981
+Run Time: 1010.99991798 milliseconds
+sudoku10.txt
+0
+370
+Run Time: 126.999855042 milliseconds
+sudoku10.txt
+0
+4388
+Run Time: 1493.00003052 milliseconds
+sudoku10.txt
+0
+1702
+Run Time: 578.999996185 milliseconds
+sudoku10.txt
+0
+6410
+Run Time: 2161.99994087 milliseconds
+sudoku10.txt
+0
+3031
+Run Time: 1025.00009537 milliseconds
+sudoku10.txt
+0
+923
+Run Time: 310.000181198 milliseconds
+sudoku10.txt
+0
+149
+Run Time: 49.9999523163 milliseconds
+sudoku10.txt
+0
+2906
+Run Time: 986.999988556 milliseconds
+sudoku10.txt
+0
+1844
+Run Time: 621.999979019 milliseconds
+sudoku10.txt
+0
+1159
+Run Time: 397.000074387 milliseconds
+sudoku10.txt
+0
+4195
+Run Time: 1437.99996376 milliseconds
+sudoku10.txt
+0
+408
+Run Time: 138.999938965 milliseconds
+sudoku10.txt
+0
+842
+Run Time: 282.00006485 milliseconds
+sudoku10.txt
+0
+2062
+Run Time: 694.000005722 milliseconds
+sudoku10.txt
+0
+2591
+Run Time: 871.999979019 milliseconds
+sudoku10.txt
+0
+5106
+Run Time: 1700.9999752 milliseconds
+sudoku10.txt
+0
+1538
+Run Time: 518.000125885 milliseconds
+sudoku10.txt
+0
+1090
+Run Time: 365.999937057 milliseconds
+average time: 752.900004387
+average iterations: 2227
+Times not solved: 0
+sudoku10.txt
+0
+1171
+Run Time: 413.000106812 milliseconds
+sudoku10.txt
+0
+3709
+Run Time: 1259.00006294 milliseconds
+sudoku10.txt
+0
+1258
+Run Time: 430.000066757 milliseconds
+sudoku10.txt
+0
+623
+Run Time: 210.000038147 milliseconds
+sudoku10.txt
+0
+7044
+Run Time: 2368.00003052 milliseconds
+sudoku10.txt
+0
+2406
+Run Time: 824.000120163 milliseconds
+sudoku10.txt
+0
+979
+Run Time: 333.999872208 milliseconds
+sudoku10.txt
+0
+2832
+Run Time: 963.000059128 milliseconds
+sudoku10.txt
+0
+3469
+Run Time: 1168.99991035 milliseconds
+sudoku10.txt
+0
+5028
+Run Time: 1674.99995232 milliseconds
+sudoku10.txt
+0
+1429
+Run Time: 478.999853134 milliseconds
+sudoku10.txt
+0
+2906
+Run Time: 982.999801636 milliseconds
+sudoku10.txt
+0
+3528
+Run Time: 1197.0000267 milliseconds
+sudoku10.txt
+0
+1424
+Run Time: 485.000133514 milliseconds
+sudoku10.txt
+0
+3739
+Run Time: 1263.00001144 milliseconds
+sudoku10.txt
+0
+2803
+Run Time: 945.999860764 milliseconds
+sudoku10.txt
+0
+649
+Run Time: 222.999811172 milliseconds
+sudoku10.txt
+0
+6845
+Run Time: 2315.00005722 milliseconds
+sudoku10.txt
+0
+1829
+Run Time: 614.000082016 milliseconds
+sudoku10.txt
+0
+841
+Run Time: 282.00006485 milliseconds
+average time: 921.59999609
+average iterations: 2725
+Times not solved: 0
+sudoku10.txt
+0
+1312
+Run Time: 449.000120163 milliseconds
+sudoku10.txt
+0
+3396
+Run Time: 1136.9998455 milliseconds
+sudoku10.txt
+0
+653
+Run Time: 217.99993515 milliseconds
+sudoku10.txt
+0
+2600
+Run Time: 894.999980927 milliseconds
+sudoku10.txt
+0
+528
+Run Time: 179.000139236 milliseconds
+sudoku10.txt
+0
+5081
+Run Time: 1722.99981117 milliseconds
+sudoku10.txt
+0
+386
+Run Time: 129.999876022 milliseconds
+sudoku10.txt
+0
+9119
+Run Time: 3084.99979973 milliseconds
+sudoku10.txt
+0
+1742
+Run Time: 585.000038147 milliseconds
+sudoku10.txt
+0
+265
+Run Time: 89.9999141693 milliseconds
+sudoku10.txt
+0
+1682
+Run Time: 572.999954224 milliseconds
+sudoku10.txt
+0
+4544
+Run Time: 1526.00002289 milliseconds
+sudoku10.txt
+0
+6792
+Run Time: 2305.00006676 milliseconds
+sudoku10.txt
+0
+1108
+Run Time: 378.000020981 milliseconds
+sudoku10.txt
+0
+1523
+Run Time: 513.000011444 milliseconds
+sudoku10.txt
+0
+5842
+Run Time: 1963.99998665 milliseconds
+sudoku10.txt
+0
+638
+Run Time: 217.99993515 milliseconds
+sudoku10.txt
+0
+1590
+Run Time: 536.000013351 milliseconds
+sudoku10.txt
+0
+2281
+Run Time: 778.000116348 milliseconds
+sudoku10.txt
+0
+739
+Run Time: 246.999979019 milliseconds
+average time: 876.449978352
+average iterations: 2591
+Times not solved: 0
+sudoku10.txt
+0
+5038
+Run Time: 1718.99986267 milliseconds
+sudoku10.txt
+0
+4600
+Run Time: 1557.00016022 milliseconds
+sudoku10.txt
+0
+5503
+Run Time: 1865.00000954 milliseconds
+sudoku10.txt
+0
+1610
+Run Time: 569.999933243 milliseconds
+sudoku10.txt
+0
+443
+Run Time: 151.000022888 milliseconds
+sudoku10.txt
+0
+1103
+Run Time: 371.999979019 milliseconds
+sudoku10.txt
+0
+1156
+Run Time: 393.000125885 milliseconds
+sudoku10.txt
+0
+2647
+Run Time: 901.999950409 milliseconds
+sudoku10.txt
+0
+2210
+Run Time: 744.999885559 milliseconds
+sudoku10.txt
+0
+1444
+Run Time: 498.999834061 milliseconds
+sudoku10.txt
+0
+2646
+Run Time: 898.999929428 milliseconds
+sudoku10.txt
+0
+1059
+Run Time: 355.999946594 milliseconds
+sudoku10.txt
+0
+1641
+Run Time: 562.99996376 milliseconds
+sudoku10.txt
+0
+1202
+Run Time: 411.999940872 milliseconds
+sudoku10.txt
+0
+206
+Run Time: 69.000005722 milliseconds
+sudoku10.txt
+0
+2069
+Run Time: 709.999799728 milliseconds
+sudoku10.txt
+0
+1257
+Run Time: 429.999828339 milliseconds
+sudoku10.txt
+0
+716
+Run Time: 245.000123978 milliseconds
+sudoku10.txt
+0
+1454
+Run Time: 486.000061035 milliseconds
+sudoku10.txt
+0
+614
+Run Time: 207.000017166 milliseconds
+average time: 657.499969006
+average iterations: 1930
+Times not solved: 0
+sudoku11.txt
+4
+10131
+Run Time: 4240.00000954 milliseconds
+sudoku11.txt
+4
+10139
+Run Time: 4226.99999809 milliseconds
+sudoku11.txt
+6
+10124
+Run Time: 4210.99996567 milliseconds
+sudoku11.txt
+6
+10130
+Run Time: 4145.99990845 milliseconds
+sudoku11.txt
+8
+10127
+Run Time: 4222.00012207 milliseconds
+sudoku11.txt
+2
+10126
+Run Time: 4220.00002861 milliseconds
+sudoku11.txt
+6
+10132
+Run Time: 4232.00011253 milliseconds
+sudoku11.txt
+9
+10131
+Run Time: 4228.99985313 milliseconds
+sudoku11.txt
+7
+10133
+Run Time: 4119.00019646 milliseconds
+sudoku11.txt
+4
+10140
+Run Time: 4266.00003242 milliseconds
+sudoku11.txt
+4
+10140
+Run Time: 4240.00000954 milliseconds
+sudoku11.txt
+6
+10139
+Run Time: 4206.00008965 milliseconds
+sudoku11.txt
+6
+10133
+Run Time: 4204.99992371 milliseconds
+sudoku11.txt
+6
+10143
+Run Time: 4190.99998474 milliseconds
+sudoku11.txt
+4
+10134
+Run Time: 4218.00017357 milliseconds
+sudoku11.txt
+5
+10130
+Run Time: 4210.00003815 milliseconds
+sudoku11.txt
+4
+10148
+Run Time: 4241.99986458 milliseconds
+sudoku11.txt
+4
+10132
+Run Time: 4218.00017357 milliseconds
+sudoku11.txt
+4
+10116
+Run Time: 4214.99991417 milliseconds
+sudoku11.txt
+8
+10137
+Run Time: 4209.00011063 milliseconds
+average time: 4213.30002546
+average iterations: 10133
+Times not solved: 20
+sudoku11.txt
+10
+10236
+Run Time: 4250.99992752 milliseconds
+sudoku11.txt
+4
+10244
+Run Time: 4273.99992943 milliseconds
+sudoku11.txt
+6
+10236
+Run Time: 4259.99999046 milliseconds
+sudoku11.txt
+8
+10236
+Run Time: 4257.999897 milliseconds
+sudoku11.txt
+6
+10228
+Run Time: 4280.00020981 milliseconds
+sudoku11.txt
+0
+9337
+Run Time: 3862.99991608 milliseconds
+sudoku11.txt
+6
+10235
+Run Time: 4227.99992561 milliseconds
+sudoku11.txt
+8
+10243
+Run Time: 4181.9999218 milliseconds
+sudoku11.txt
+10
+10236
+Run Time: 4270.00021935 milliseconds
+sudoku11.txt
+2
+10212
+Run Time: 4234.9998951 milliseconds
+sudoku11.txt
+10
+10249
+Run Time: 4257.999897 milliseconds
+sudoku11.txt
+9
+10245
+Run Time: 4279.99997139 milliseconds
+sudoku11.txt
+7
+10227
+Run Time: 4258.00013542 milliseconds
+sudoku11.txt
+4
+10239
+Run Time: 4266.99995995 milliseconds
+sudoku11.txt
+10
+10236
+Run Time: 4274.00016785 milliseconds
+sudoku11.txt
+8
+10245
+Run Time: 4294.99983788 milliseconds
+sudoku11.txt
+0
+2241
+Run Time: 937.99996376 milliseconds
+sudoku11.txt
+0
+7410
+Run Time: 3067.99983978 milliseconds
+sudoku11.txt
+8
+10242
+Run Time: 4253.9999485 milliseconds
+sudoku11.txt
+4
+10218
+Run Time: 4248.00014496 milliseconds
+average time: 4012.04998493
+average iterations: 9649
+Times not solved: 17
+sudoku11.txt
+9
+10326
+Run Time: 4250.99992752 milliseconds
+sudoku11.txt
+14
+10351
+Run Time: 4310.0001812 milliseconds
+sudoku11.txt
+10
+10367
+Run Time: 4283.99991989 milliseconds
+sudoku11.txt
+16
+10317
+Run Time: 4280.99989891 milliseconds
+sudoku11.txt
+12
+10351
+Run Time: 4326.99990273 milliseconds
+sudoku11.txt
+10
+10313
+Run Time: 4296.00000381 milliseconds
+sudoku11.txt
+0
+8174
+Run Time: 3418.99991035 milliseconds
+sudoku11.txt
+9
+10323
+Run Time: 4325.9999752 milliseconds
+sudoku11.txt
+0
+5557
+Run Time: 2320.00017166 milliseconds
+sudoku11.txt
+9
+10324
+Run Time: 4288.00010681 milliseconds
+sudoku11.txt
+0
+4605
+Run Time: 1914.99996185 milliseconds
+sudoku11.txt
+10
+10312
+Run Time: 4276.00002289 milliseconds
+sudoku11.txt
+13
+10325
+Run Time: 4295.00007629 milliseconds
+sudoku11.txt
+0
+4636
+Run Time: 1920.00007629 milliseconds
+sudoku11.txt
+8
+10331
+Run Time: 4311.00010872 milliseconds
+sudoku11.txt
+8
+10333
+Run Time: 4299.0000248 milliseconds
+sudoku11.txt
+6
+10324
+Run Time: 4292.99998283 milliseconds
+sudoku11.txt
+5
+10333
+Run Time: 4312.00003624 milliseconds
+sudoku11.txt
+11
+10311
+Run Time: 4292.00005531 milliseconds
+sudoku11.txt
+8
+10327
+Run Time: 4336.99989319 milliseconds
+average time: 3917.60001183
+average iterations: 9412
+Times not solved: 16
+sudoku11.txt
+12
+10436
+Run Time: 4361.99998856 milliseconds
+sudoku11.txt
+16
+10421
+Run Time: 4343.99986267 milliseconds
+sudoku11.txt
+0
+9232
+Run Time: 3877.00009346 milliseconds
+sudoku11.txt
+12
+10433
+Run Time: 4358.00004005 milliseconds
+sudoku11.txt
+10
+10422
+Run Time: 4345.99995613 milliseconds
+sudoku11.txt
+15
+10427
+Run Time: 4348.00004959 milliseconds
+sudoku11.txt
+12
+10432
+Run Time: 4322.99995422 milliseconds
+sudoku11.txt
+0
+2520
+Run Time: 1044.00014877 milliseconds
+sudoku11.txt
+14
+10454
+Run Time: 4342.99993515 milliseconds
+sudoku11.txt
+12
+10438
+Run Time: 4362.99991608 milliseconds
+sudoku11.txt
+12
+10415
+Run Time: 4305.00006676 milliseconds
+sudoku11.txt
+16
+10417
+Run Time: 4421.99993134 milliseconds
+sudoku11.txt
+17
+10430
+Run Time: 4365.00000954 milliseconds
+sudoku11.txt
+0
+4634
+Run Time: 1915.99988937 milliseconds
+sudoku11.txt
+13
+10421
+Run Time: 4345.00002861 milliseconds
+sudoku11.txt
+10
+10423
+Run Time: 4341.00008011 milliseconds
+sudoku11.txt
+10
+10426
+Run Time: 4288.00010681 milliseconds
+sudoku11.txt
+12
+10413
+Run Time: 4340.99984169 milliseconds
+sudoku11.txt
+14
+10424
+Run Time: 4309.99994278 milliseconds
+sudoku11.txt
+6
+10413
+Run Time: 4366.00017548 milliseconds
+average time: 4035.35000086
+average iterations: 9681
+Times not solved: 17
+sudoku11.txt
+14
+10509
+Run Time: 4375.99992752 milliseconds
+sudoku11.txt
+15
+10535
+Run Time: 4393.00012589 milliseconds
+sudoku11.txt
+0
+4262
+Run Time: 1766.00003242 milliseconds
+sudoku11.txt
+15
+10518
+Run Time: 4358.00004005 milliseconds
+sudoku11.txt
+0
+8952
+Run Time: 3684.00001526 milliseconds
+sudoku11.txt
+12
+10542
+Run Time: 4398.00000191 milliseconds
+sudoku11.txt
+0
+5992
+Run Time: 2493.99995804 milliseconds
+sudoku11.txt
+0
+4571
+Run Time: 1889.00017738 milliseconds
+sudoku11.txt
+10
+10498
+Run Time: 4374.00007248 milliseconds
+sudoku11.txt
+0
+7719
+Run Time: 3200.9999752 milliseconds
+sudoku11.txt
+17
+10530
+Run Time: 4404.00004387 milliseconds
+sudoku11.txt
+0
+6607
+Run Time: 2776.00002289 milliseconds
+sudoku11.txt
+0
+8823
+Run Time: 3677.9999733 milliseconds
+sudoku11.txt
+14
+10527
+Run Time: 4392.99988747 milliseconds
+sudoku11.txt
+22
+10520
+Run Time: 4399.00016785 milliseconds
+sudoku11.txt
+19
+10483
+Run Time: 4361.99998856 milliseconds
+sudoku11.txt
+13
+10534
+Run Time: 4404.00004387 milliseconds
+sudoku11.txt
+0
+5246
+Run Time: 2186.00010872 milliseconds
+sudoku11.txt
+15
+10521
+Run Time: 4392.99988747 milliseconds
+sudoku11.txt
+0
+5079
+Run Time: 2111.99998856 milliseconds
+average time: 3602.00002193
+average iterations: 8648
+Times not solved: 11
+sudoku11.txt
+0
+9986
+Run Time: 4155.99989891 milliseconds
+sudoku11.txt
+8
+10612
+Run Time: 4431.9999218 milliseconds
+sudoku11.txt
+20
+10598
+Run Time: 4444.00000572 milliseconds
+sudoku11.txt
+0
+8329
+Run Time: 3453.00006866 milliseconds
+sudoku11.txt
+0
+253
+Run Time: 105.000019073 milliseconds
+sudoku11.txt
+14
+10608
+Run Time: 4417.99998283 milliseconds
+sudoku11.txt
+16
+10641
+Run Time: 4430.99999428 milliseconds
+sudoku11.txt
+17
+10613
+Run Time: 4417.99998283 milliseconds
+sudoku11.txt
+0
+7753
+Run Time: 3216.00008011 milliseconds
+sudoku11.txt
+0
+9520
+Run Time: 3985.00013351 milliseconds
+sudoku11.txt
+12
+10627
+Run Time: 4461.99989319 milliseconds
+sudoku11.txt
+18
+10648
+Run Time: 4444.99993324 milliseconds
+sudoku11.txt
+17
+10591
+Run Time: 4398.00000191 milliseconds
+sudoku11.txt
+0
+4007
+Run Time: 1660.00008583 milliseconds
+sudoku11.txt
+20
+10635
+Run Time: 4415.99988937 milliseconds
+sudoku11.txt
+8
+10600
+Run Time: 4445.99986076 milliseconds
+sudoku11.txt
+0
+3876
+Run Time: 1615.00000954 milliseconds
+sudoku11.txt
+19
+10610
+Run Time: 4424.99995232 milliseconds
+sudoku11.txt
+0
+8760
+Run Time: 3632.999897 milliseconds
+sudoku11.txt
+20
+10631
+Run Time: 4432.99984932 milliseconds
+average time: 3749.54997301
+average iterations: 8994
+Times not solved: 12
+sudoku11.txt
+0
+6914
+Run Time: 2870.00012398 milliseconds
+sudoku11.txt
+0
+3646
+Run Time: 1507.999897 milliseconds
+sudoku11.txt
+0
+5024
+Run Time: 2114.00008202 milliseconds
+sudoku11.txt
+19
+10685
+Run Time: 4460.99996567 milliseconds
+sudoku11.txt
+0
+5682
+Run Time: 2359.9998951 milliseconds
+sudoku11.txt
+0
+8152
+Run Time: 3381.00004196 milliseconds
+sudoku11.txt
+0
+7482
+Run Time: 3105.00001907 milliseconds
+sudoku11.txt
+19
+10659
+Run Time: 4429.00013924 milliseconds
+sudoku11.txt
+12
+10692
+Run Time: 4452.99983025 milliseconds
+sudoku11.txt
+0
+9193
+Run Time: 3848.99997711 milliseconds
+sudoku11.txt
+15
+10665
+Run Time: 4458.99987221 milliseconds
+sudoku11.txt
+12
+10655
+Run Time: 4418.00022125 milliseconds
+sudoku11.txt
+16
+10665
+Run Time: 4464.99991417 milliseconds
+sudoku11.txt
+17
+10688
+Run Time: 4463.99998665 milliseconds
+sudoku11.txt
+0
+9370
+Run Time: 3916.99981689 milliseconds
+sudoku11.txt
+0
+994
+Run Time: 421.999931335 milliseconds
+sudoku11.txt
+0
+1555
+Run Time: 644.000053406 milliseconds
+sudoku11.txt
+19
+10720
+Run Time: 4457.00001717 milliseconds
+sudoku11.txt
+21
+10678
+Run Time: 4463.99998665 milliseconds
+sudoku11.txt
+0
+10503
+Run Time: 4423.99978638 milliseconds
+average time: 3433.19997787
+average iterations: 8231
+Times not solved: 9
+sudoku11.txt
+14
+10780
+Run Time: 4516.00003242 milliseconds
+sudoku11.txt
+21
+10778
+Run Time: 4513.00001144 milliseconds
+sudoku11.txt
+0
+6747
+Run Time: 2832.99994469 milliseconds
+sudoku11.txt
+0
+7449
+Run Time: 3098.99997711 milliseconds
+sudoku11.txt
+20
+10799
+Run Time: 4551.00011826 milliseconds
+sudoku11.txt
+0
+2602
+Run Time: 1069.00000572 milliseconds
+sudoku11.txt
+21
+10748
+Run Time: 4514.00017738 milliseconds
+sudoku11.txt
+0
+2215
+Run Time: 922.999858856 milliseconds
+sudoku11.txt
+18
+10754
+Run Time: 4464.99991417 milliseconds
+sudoku11.txt
+24
+10761
+Run Time: 4493.00003052 milliseconds
+sudoku11.txt
+0
+1813
+Run Time: 755.000114441 milliseconds
+sudoku11.txt
+0
+10263
+Run Time: 4286.00001335 milliseconds
+sudoku11.txt
+22
+10764
+Run Time: 4494.99988556 milliseconds
+sudoku11.txt
+19
+10780
+Run Time: 4485.00013351 milliseconds
+sudoku11.txt
+17
+10725
+Run Time: 4445.99986076 milliseconds
+sudoku11.txt
+17
+10737
+Run Time: 4495.99981308 milliseconds
+sudoku11.txt
+11
+10801
+Run Time: 4516.99995995 milliseconds
+sudoku11.txt
+15
+10791
+Run Time: 4498.00014496 milliseconds
+sudoku11.txt
+17
+10786
+Run Time: 4514.99986649 milliseconds
+sudoku11.txt
+19
+10746
+Run Time: 4459.00011063 milliseconds
+average time: 3796.39999866
+average iterations: 9091
+Times not solved: 14
+sudoku11.txt
+13
+10844
+Run Time: 4546.00000381 milliseconds
+sudoku11.txt
+24
+10838
+Run Time: 4514.99986649 milliseconds
+sudoku11.txt
+22
+10826
+Run Time: 4504.00018692 milliseconds
+sudoku11.txt
+24
+10866
+Run Time: 4553.99990082 milliseconds
+sudoku11.txt
+22
+10899
+Run Time: 4555.00006676 milliseconds
+sudoku11.txt
+20
+10856
+Run Time: 4539.00003433 milliseconds
+sudoku11.txt
+22
+10856
+Run Time: 4523.00000191 milliseconds
+sudoku11.txt
+21
+10850
+Run Time: 4516.00003242 milliseconds
+sudoku11.txt
+27
+10873
+Run Time: 4532.00006485 milliseconds
+sudoku11.txt
+17
+10892
+Run Time: 4575.00004768 milliseconds
+sudoku11.txt
+18
+10861
+Run Time: 4532.99999237 milliseconds
+sudoku11.txt
+23
+10852
+Run Time: 4535.99977493 milliseconds
+sudoku11.txt
+0
+2473
+Run Time: 1041.00012779 milliseconds
+sudoku11.txt
+0
+541
+Run Time: 222.00012207 milliseconds
+sudoku11.txt
+0
+2573
+Run Time: 1065.00005722 milliseconds
+sudoku11.txt
+17
+10815
+Run Time: 4533.99991989 milliseconds
+sudoku11.txt
+25
+10852
+Run Time: 4503.00002098 milliseconds
+sudoku11.txt
+0
+3623
+Run Time: 1512.00008392 milliseconds
+sudoku11.txt
+24
+10808
+Run Time: 4539.00003433 milliseconds
+sudoku11.txt
+17
+10850
+Run Time: 4532.00006485 milliseconds
+average time: 3818.80002022
+average iterations: 9142
+Times not solved: 16
+sudoku11.txt
+21
+10914
+Run Time: 4571.99978828 milliseconds
+sudoku11.txt
+0
+5566
+Run Time: 2314.0001297 milliseconds
+sudoku11.txt
+27
+10884
+Run Time: 4523.99992943 milliseconds
+sudoku11.txt
+20
+10910
+Run Time: 4531.99982643 milliseconds
+sudoku11.txt
+0
+8811
+Run Time: 3598.00004959 milliseconds
+sudoku11.txt
+0
+9089
+Run Time: 3699.00012016 milliseconds
+sudoku11.txt
+24
+10939
+Run Time: 4478.99985313 milliseconds
+sudoku11.txt
+0
+7594
+Run Time: 3116.99986458 milliseconds
+sudoku11.txt
+0
+706
+Run Time: 290.000200272 milliseconds
+sudoku11.txt
+21
+10892
+Run Time: 4473.00004959 milliseconds
+sudoku11.txt
+19
+10901
+Run Time: 4511.9998455 milliseconds
+sudoku11.txt
+24
+10912
+Run Time: 4524.00016785 milliseconds
+sudoku11.txt
+23
+10932
+Run Time: 4562.99996376 milliseconds
+sudoku11.txt
+24
+10951
+Run Time: 4608.99996758 milliseconds
+sudoku11.txt
+18
+10920
+Run Time: 4541.00012779 milliseconds
+sudoku11.txt
+30
+10917
+Run Time: 4562.99996376 milliseconds
+sudoku11.txt
+23
+10920
+Run Time: 4554.99982834 milliseconds
+sudoku11.txt
+14
+10944
+Run Time: 4590.99984169 milliseconds
+sudoku11.txt
+0
+8104
+Run Time: 3376.00016594 milliseconds
+sudoku11.txt
+0
+3822
+Run Time: 1610.99982262 milliseconds
+average time: 3852.1499753
+average iterations: 9281
+Times not solved: 13
+sudoku11.txt
+0
+2537
+Run Time: 1058.00008774 milliseconds
+sudoku11.txt
+21
+10969
+Run Time: 4601.00007057 milliseconds
+sudoku11.txt
+20
+10991
+Run Time: 4625.0 milliseconds
+sudoku11.txt
+0
+5776
+Run Time: 2402.00018883 milliseconds
+sudoku11.txt
+0
+1846
+Run Time: 755.999803543 milliseconds
+sudoku11.txt
+17
+10963
+Run Time: 4595.99995613 milliseconds
+sudoku11.txt
+21
+10959
+Run Time: 4559.00001526 milliseconds
+sudoku11.txt
+24
+10989
+Run Time: 4582.00001717 milliseconds
+sudoku11.txt
+21
+10980
+Run Time: 4585.00003815 milliseconds
+sudoku11.txt
+25
+11023
+Run Time: 4615.00000954 milliseconds
+sudoku11.txt
+18
+10998
+Run Time: 4567.99983978 milliseconds
+sudoku11.txt
+17
+11009
+Run Time: 4595.00002861 milliseconds
+sudoku11.txt
+26
+10972
+Run Time: 4563.00020218 milliseconds
+sudoku11.txt
+0
+7562
+Run Time: 3191.99991226 milliseconds
+sudoku11.txt
+0
+5367
+Run Time: 2241.99986458 milliseconds
+sudoku11.txt
+29
+11027
+Run Time: 4569.00000572 milliseconds
+sudoku11.txt
+0
+8781
+Run Time: 3694.99993324 milliseconds
+sudoku11.txt
+29
+10997
+Run Time: 4592.99993515 milliseconds
+sudoku11.txt
+0
+8881
+Run Time: 3733.99996758 milliseconds
+sudoku11.txt
+0
+7333
+Run Time: 3072.99995422 milliseconds
+average time: 3760.14999151
+average iterations: 8998
+Times not solved: 12
+sudoku11.txt
+23
+11081
+Run Time: 4650.99978447 milliseconds
+sudoku11.txt
+22
+11091
+Run Time: 4628.00002098 milliseconds
+sudoku11.txt
+0
+6865
+Run Time: 2840.00015259 milliseconds
+sudoku11.txt
+0
+859
+Run Time: 348.999977112 milliseconds
+sudoku11.txt
+21
+11065
+Run Time: 4651.99995041 milliseconds
+sudoku11.txt
+27
+11070
+Run Time: 4584.00011063 milliseconds
+sudoku11.txt
+20
+11042
+Run Time: 4597.00012207 milliseconds
+sudoku11.txt
+31
+11066
+Run Time: 4634.99999046 milliseconds
+sudoku11.txt
+26
+11033
+Run Time: 4559.99994278 milliseconds
+sudoku11.txt
+27
+11050
+Run Time: 4619.99988556 milliseconds
+sudoku11.txt
+0
+9177
+Run Time: 3862.99991608 milliseconds
+sudoku11.txt
+27
+11072
+Run Time: 4613.9998436 milliseconds
+sudoku11.txt
+24
+11058
+Run Time: 4620.00012398 milliseconds
+sudoku11.txt
+25
+11066
+Run Time: 4601.00007057 milliseconds
+sudoku11.txt
+0
+8059
+Run Time: 3347.00012207 milliseconds
+sudoku11.txt
+15
+11018
+Run Time: 4651.99995041 milliseconds
+sudoku11.txt
+16
+11062
+Run Time: 4640.0001049 milliseconds
+sudoku11.txt
+31
+11076
+Run Time: 4605.00001907 milliseconds
+sudoku11.txt
+29
+11035
+Run Time: 4621.99997902 milliseconds
+sudoku11.txt
+27
+11024
+Run Time: 4626.99985504 milliseconds
+average time: 4215.34999609
+average iterations: 10093
+Times not solved: 16
+sudoku11.txt
+0
+9296
+Run Time: 3884.99999046 milliseconds
+sudoku11.txt
+0
+2950
+Run Time: 1260.99991798 milliseconds
+sudoku11.txt
+21
+11132
+Run Time: 4669.99983788 milliseconds
+sudoku11.txt
+38
+11156
+Run Time: 4647.00007439 milliseconds
+sudoku11.txt
+0
+3659
+Run Time: 1539.99996185 milliseconds
+sudoku11.txt
+0
+4949
+Run Time: 2066.99991226 milliseconds
+sudoku11.txt
+24
+11110
+Run Time: 4639.00017738 milliseconds
+sudoku11.txt
+28
+11139
+Run Time: 4651.99995041 milliseconds
+sudoku11.txt
+27
+11098
+Run Time: 4656.00013733 milliseconds
+sudoku11.txt
+0
+11103
+Run Time: 4665.99988937 milliseconds
+sudoku11.txt
+29
+11058
+Run Time: 4620.99981308 milliseconds
+sudoku11.txt
+26
+11100
+Run Time: 4648.00000191 milliseconds
+sudoku11.txt
+0
+2547
+Run Time: 1060.0001812 milliseconds
+sudoku11.txt
+33
+11117
+Run Time: 4635.99991798 milliseconds
+sudoku11.txt
+0
+1683
+Run Time: 692.000150681 milliseconds
+sudoku11.txt
+26
+11105
+Run Time: 4585.00003815 milliseconds
+sudoku11.txt
+26
+11120
+Run Time: 4642.99988747 milliseconds
+sudoku11.txt
+31
+11126
+Run Time: 4639.00017738 milliseconds
+sudoku11.txt
+24
+11087
+Run Time: 4610.99982262 milliseconds
+sudoku11.txt
+22
+11091
+Run Time: 4620.99981308 milliseconds
+average time: 3771.94998264
+average iterations: 9031
+Times not solved: 13
+sudoku11.txt
+26
+11165
+Run Time: 4697.99995422 milliseconds
+sudoku11.txt
+28
+11159
+Run Time: 4664.99996185 milliseconds
+sudoku11.txt
+15
+11195
+Run Time: 4676.00011826 milliseconds
+sudoku11.txt
+18
+11204
+Run Time: 4700.00004768 milliseconds
+sudoku11.txt
+27
+11142
+Run Time: 4651.00002289 milliseconds
+sudoku11.txt
+0
+1124
+Run Time: 469.999790192 milliseconds
+sudoku11.txt
+0
+2768
+Run Time: 1150.00009537 milliseconds
+sudoku11.txt
+20
+11161
+Run Time: 4664.00003433 milliseconds
+sudoku11.txt
+28
+11120
+Run Time: 4682.99984932 milliseconds
+sudoku11.txt
+0
+8247
+Run Time: 3463.00005913 milliseconds
+sudoku11.txt
+25
+11162
+Run Time: 4667.99998283 milliseconds
+sudoku11.txt
+31
+11142
+Run Time: 4615.99993706 milliseconds
+sudoku11.txt
+25
+11159
+Run Time: 4687.99996376 milliseconds
+sudoku11.txt
+24
+11152
+Run Time: 4653.00011635 milliseconds
+sudoku11.txt
+27
+11207
+Run Time: 4690.99998474 milliseconds
+sudoku11.txt
+24
+11154
+Run Time: 4667.99998283 milliseconds
+sudoku11.txt
+0
+8397
+Run Time: 3532.99999237 milliseconds
+sudoku11.txt
+33
+11121
+Run Time: 4680.99999428 milliseconds
+sudoku11.txt
+33
+11164
+Run Time: 4686.99979782 milliseconds
+sudoku11.txt
+22
+11155
+Run Time: 4669.99983788 milliseconds
+average time: 4168.74997616
+average iterations: 9954
+Times not solved: 16
+sudoku11.txt
+33
+11211
+Run Time: 4705.00016212 milliseconds
+sudoku11.txt
+31
+11209
+Run Time: 4674.0000248 milliseconds
+sudoku11.txt
+22
+11205
+Run Time: 4723.00004959 milliseconds
+sudoku11.txt
+26
+11220
+Run Time: 4713.99998665 milliseconds
+sudoku11.txt
+28
+11231
+Run Time: 4687.99996376 milliseconds
+sudoku11.txt
+0
+4894
+Run Time: 2072.99995422 milliseconds
+sudoku11.txt
+29
+11188
+Run Time: 4671.00000381 milliseconds
+sudoku11.txt
+28
+11230
+Run Time: 4697.99995422 milliseconds
+sudoku11.txt
+22
+11149
+Run Time: 4655.99989891 milliseconds
+sudoku11.txt
+32
+11219
+Run Time: 4688.99989128 milliseconds
+sudoku11.txt
+31
+11223
+Run Time: 4700.00004768 milliseconds
+sudoku11.txt
+27
+11233
+Run Time: 4712.00013161 milliseconds
+sudoku11.txt
+15
+11230
+Run Time: 4720.00002861 milliseconds
+sudoku11.txt
+28
+11223
+Run Time: 4712.99982071 milliseconds
+sudoku11.txt
+33
+11213
+Run Time: 4713.00005913 milliseconds
+sudoku11.txt
+33
+11309
+Run Time: 4723.00004959 milliseconds
+sudoku11.txt
+35
+11243
+Run Time: 4730.99994659 milliseconds
+sudoku11.txt
+26
+11246
+Run Time: 4763.99993896 milliseconds
+sudoku11.txt
+25
+11206
+Run Time: 4722.99981117 milliseconds
+sudoku11.txt
+0
+1646
+Run Time: 706.000089645 milliseconds
+average time: 4374.79999065
+average iterations: 10426
+Times not solved: 18
+sudoku12.txt
+0
+4834
+Run Time: 1777.00018883 milliseconds
+sudoku12.txt
+7
+10136
+Run Time: 3729.99978065 milliseconds
+sudoku12.txt
+4
+10126
+Run Time: 3718.99986267 milliseconds
+sudoku12.txt
+0
+7056
+Run Time: 2612.99991608 milliseconds
+sudoku12.txt
+0
+370
+Run Time: 135.999917984 milliseconds
+sudoku12.txt
+8
+10122
+Run Time: 3933.00008774 milliseconds
+sudoku12.txt
+0
+287
+Run Time: 113.000154495 milliseconds
+sudoku12.txt
+4
+10134
+Run Time: 3694.00000572 milliseconds
+sudoku12.txt
+0
+5647
+Run Time: 2082.99994469 milliseconds
+sudoku12.txt
+6
+10129
+Run Time: 3733.99996758 milliseconds
+sudoku12.txt
+0
+4726
+Run Time: 1730.99994659 milliseconds
+sudoku12.txt
+0
+160
+Run Time: 60.9998703003 milliseconds
+sudoku12.txt
+6
+10126
+Run Time: 3733.00004005 milliseconds
+sudoku12.txt
+4
+10133
+Run Time: 3705.99985123 milliseconds
+sudoku12.txt
+4
+10120
+Run Time: 3718.99986267 milliseconds
+sudoku12.txt
+2
+10124
+Run Time: 3721.99988365 milliseconds
+sudoku12.txt
+0
+1416
+Run Time: 520.999908447 milliseconds
+sudoku12.txt
+0
+4276
+Run Time: 1563.99989128 milliseconds
+sudoku12.txt
+6
+10136
+Run Time: 3769.99998093 milliseconds
+sudoku12.txt
+8
+10137
+Run Time: 3728.99985313 milliseconds
+average time: 2589.39994574
+average iterations: 7009
+Times not solved: 11
+sudoku12.txt
+0
+1504
+Run Time: 557.000160217 milliseconds
+sudoku12.txt
+0
+2833
+Run Time: 1038.99979591 milliseconds
+sudoku12.txt
+0
+1950
+Run Time: 717.000007629 milliseconds
+sudoku12.txt
+0
+1145
+Run Time: 417.999982834 milliseconds
+sudoku12.txt
+6
+10222
+Run Time: 3756.00004196 milliseconds
+sudoku12.txt
+9
+10235
+Run Time: 3758.99982452 milliseconds
+sudoku12.txt
+0
+1303
+Run Time: 478.999853134 milliseconds
+sudoku12.txt
+0
+5313
+Run Time: 1944.00000572 milliseconds
+sudoku12.txt
+6
+10233
+Run Time: 3774.00016785 milliseconds
+sudoku12.txt
+10
+10233
+Run Time: 3760.99991798 milliseconds
+sudoku12.txt
+0
+6460
+Run Time: 2374.00007248 milliseconds
+sudoku12.txt
+0
+1500
+Run Time: 546.999931335 milliseconds
+sudoku12.txt
+0
+497
+Run Time: 185.000181198 milliseconds
+sudoku12.txt
+8
+10215
+Run Time: 3760.99991798 milliseconds
+sudoku12.txt
+6
+10226
+Run Time: 3767.00019836 milliseconds
+sudoku12.txt
+0
+3703
+Run Time: 1358.99996758 milliseconds
+sudoku12.txt
+0
+1739
+Run Time: 642.999887466 milliseconds
+sudoku12.txt
+0
+4123
+Run Time: 1518.00012589 milliseconds
+sudoku12.txt
+0
+4134
+Run Time: 1529.00004387 milliseconds
+sudoku12.txt
+5
+10218
+Run Time: 3707.00001717 milliseconds
+average time: 1979.70000505
+average iterations: 5389
+Times not solved: 7
+sudoku12.txt
+0
+4176
+Run Time: 1538.00010681 milliseconds
+sudoku12.txt
+8
+10310
+Run Time: 3743.00003052 milliseconds
+sudoku12.txt
+0
+1867
+Run Time: 680.999994278 milliseconds
+sudoku12.txt
+0
+791
+Run Time: 307.000160217 milliseconds
+sudoku12.txt
+8
+10298
+Run Time: 3767.99988747 milliseconds
+sudoku12.txt
+12
+10324
+Run Time: 3804.00013924 milliseconds
+sudoku12.txt
+11
+10335
+Run Time: 3781.00013733 milliseconds
+sudoku12.txt
+0
+2970
+Run Time: 1092.99993515 milliseconds
+sudoku12.txt
+7
+10320
+Run Time: 3804.00013924 milliseconds
+sudoku12.txt
+10
+10334
+Run Time: 3789.99996185 milliseconds
+sudoku12.txt
+0
+144
+Run Time: 52.9999732971 milliseconds
+sudoku12.txt
+8
+10327
+Run Time: 3813.00020218 milliseconds
+sudoku12.txt
+6
+10303
+Run Time: 3790.99988937 milliseconds
+sudoku12.txt
+7
+10326
+Run Time: 3804.99982834 milliseconds
+sudoku12.txt
+0
+566
+Run Time: 204.999923706 milliseconds
+sudoku12.txt
+0
+675
+Run Time: 250.0 milliseconds
+sudoku12.txt
+0
+3777
+Run Time: 1389.00017738 milliseconds
+sudoku12.txt
+0
+4993
+Run Time: 1823.99988174 milliseconds
+sudoku12.txt
+12
+10313
+Run Time: 3807.00016022 milliseconds
+sudoku12.txt
+9
+10318
+Run Time: 3816.99991226 milliseconds
+average time: 2453.15002203
+average iterations: 6673
+Times not solved: 11
+sudoku12.txt
+0
+1845
+Run Time: 700.000047684 milliseconds
+sudoku12.txt
+0
+2657
+Run Time: 996.999979019 milliseconds
+sudoku12.txt
+0
+1909
+Run Time: 703.999996185 milliseconds
+sudoku12.txt
+13
+10386
+Run Time: 3904.99997139 milliseconds
+sudoku12.txt
+10
+10392
+Run Time: 3836.99989319 milliseconds
+sudoku12.txt
+0
+163
+Run Time: 62.0000362396 milliseconds
+sudoku12.txt
+0
+9032
+Run Time: 3334.00011063 milliseconds
+sudoku12.txt
+0
+3607
+Run Time: 1342.99993515 milliseconds
+sudoku12.txt
+12
+10418
+Run Time: 3891.00003242 milliseconds
+sudoku12.txt
+0
+5566
+Run Time: 2069.00000572 milliseconds
+sudoku12.txt
+0
+3950
+Run Time: 1464.99991417 milliseconds
+sudoku12.txt
+12
+10385
+Run Time: 3858.00004005 milliseconds
+sudoku12.txt
+12
+10442
+Run Time: 3848.99997711 milliseconds
+sudoku12.txt
+0
+381
+Run Time: 140.000104904 milliseconds
+sudoku12.txt
+0
+2911
+Run Time: 1071.00009918 milliseconds
+sudoku12.txt
+0
+1324
+Run Time: 493.999958038 milliseconds
+sudoku12.txt
+6
+10406
+Run Time: 3848.00004959 milliseconds
+sudoku12.txt
+0
+6028
+Run Time: 2211.99989319 milliseconds
+sudoku12.txt
+0
+1826
+Run Time: 668.999910355 milliseconds
+sudoku12.txt
+10
+10435
+Run Time: 3820.00017166 milliseconds
+average time: 2113.40000629
+average iterations: 5703
+Times not solved: 7
+sudoku12.txt
+0
+9752
+Run Time: 3592.99993515 milliseconds
+sudoku12.txt
+0
+8143
+Run Time: 2982.00011253 milliseconds
+sudoku12.txt
+0
+4089
+Run Time: 1516.99995995 milliseconds
+sudoku12.txt
+16
+10469
+Run Time: 3853.00016403 milliseconds
+sudoku12.txt
+0
+9855
+Run Time: 3634.99999046 milliseconds
+sudoku12.txt
+16
+10497
+Run Time: 3851.00007057 milliseconds
+sudoku12.txt
+0
+6176
+Run Time: 2276.99995041 milliseconds
+sudoku12.txt
+8
+10488
+Run Time: 3855.00001907 milliseconds
+sudoku12.txt
+0
+3828
+Run Time: 1407.99999237 milliseconds
+sudoku12.txt
+0
+8159
+Run Time: 3023.99992943 milliseconds
+sudoku12.txt
+0
+1068
+Run Time: 394.999980927 milliseconds
+sudoku12.txt
+0
+3046
+Run Time: 1121.99997902 milliseconds
+sudoku12.txt
+15
+10510
+Run Time: 3871.0000515 milliseconds
+sudoku12.txt
+0
+1966
+Run Time: 724.999904633 milliseconds
+sudoku12.txt
+0
+4753
+Run Time: 1733.99996758 milliseconds
+sudoku12.txt
+0
+7223
+Run Time: 2659.99984741 milliseconds
+sudoku12.txt
+0
+3650
+Run Time: 1341.00008011 milliseconds
+sudoku12.txt
+0
+3005
+Run Time: 1098.99997711 milliseconds
+sudoku12.txt
+0
+7522
+Run Time: 2776.99995041 milliseconds
+sudoku12.txt
+0
+3361
+Run Time: 1230.99994659 milliseconds
+average time: 2347.49999046
+average iterations: 6378
+Times not solved: 4
+sudoku12.txt
+0
+7100
+Run Time: 2631.00004196 milliseconds
+sudoku12.txt
+0
+4308
+Run Time: 1577.00014114 milliseconds
+sudoku12.txt
+0
+4196
+Run Time: 1536.99994087 milliseconds
+sudoku12.txt
+0
+3701
+Run Time: 1387.00008392 milliseconds
+sudoku12.txt
+21
+10601
+Run Time: 3894.99998093 milliseconds
+sudoku12.txt
+15
+10583
+Run Time: 3871.0000515 milliseconds
+sudoku12.txt
+0
+730
+Run Time: 266.999959946 milliseconds
+sudoku12.txt
+12
+10572
+Run Time: 3843.99986267 milliseconds
+sudoku12.txt
+0
+6005
+Run Time: 2230.99994659 milliseconds
+sudoku12.txt
+13
+10575
+Run Time: 3927.9999733 milliseconds
+sudoku12.txt
+17
+10587
+Run Time: 3921.99993134 milliseconds
+sudoku12.txt
+0
+1862
+Run Time: 675.999879837 milliseconds
+sudoku12.txt
+0
+5196
+Run Time: 1901.00002289 milliseconds
+sudoku12.txt
+0
+929
+Run Time: 343.999862671 milliseconds
+sudoku12.txt
+17
+10596
+Run Time: 3912.00017929 milliseconds
+sudoku12.txt
+0
+9099
+Run Time: 3332.99994469 milliseconds
+sudoku12.txt
+0
+9712
+Run Time: 3572.99995422 milliseconds
+sudoku12.txt
+13
+10585
+Run Time: 3887.00008392 milliseconds
+sudoku12.txt
+0
+10022
+Run Time: 3690.00005722 milliseconds
+sudoku12.txt
+0
+4633
+Run Time: 1694.99993324 milliseconds
+average time: 2605.04999161
+average iterations: 7079
+Times not solved: 7
+sudoku12.txt
+0
+917
+Run Time: 340.000152588 milliseconds
+sudoku12.txt
+11
+10647
+Run Time: 3945.99986076 milliseconds
+sudoku12.txt
+0
+5035
+Run Time: 1870.00012398 milliseconds
+sudoku12.txt
+0
+6335
+Run Time: 2332.99994469 milliseconds
+sudoku12.txt
+0
+9903
+Run Time: 3659.99984741 milliseconds
+sudoku12.txt
+19
+10637
+Run Time: 3910.00008583 milliseconds
+sudoku12.txt
+0
+1802
+Run Time: 674.000024796 milliseconds
+sudoku12.txt
+16
+10671
+Run Time: 3913.99979591 milliseconds
+sudoku12.txt
+0
+4339
+Run Time: 1618.99995804 milliseconds
+sudoku12.txt
+0
+2193
+Run Time: 809.99994278 milliseconds
+sudoku12.txt
+0
+2408
+Run Time: 890.000104904 milliseconds
+sudoku12.txt
+0
+7434
+Run Time: 2736.00006104 milliseconds
+sudoku12.txt
+0
+5066
+Run Time: 1867.000103 milliseconds
+sudoku12.txt
+0
+3705
+Run Time: 1372.99990654 milliseconds
+sudoku12.txt
+0
+794
+Run Time: 292.999982834 milliseconds
+sudoku12.txt
+18
+10657
+Run Time: 3931.9999218 milliseconds
+sudoku12.txt
+0
+1720
+Run Time: 631.999969482 milliseconds
+sudoku12.txt
+0
+4679
+Run Time: 1712.99982071 milliseconds
+sudoku12.txt
+0
+7097
+Run Time: 2620.00012398 milliseconds
+sudoku12.txt
+0
+1352
+Run Time: 503.999948502 milliseconds
+average time: 1981.79998398
+average iterations: 5369
+Times not solved: 4
+sudoku12.txt
+0
+10289
+Run Time: 3813.99989128 milliseconds
+sudoku12.txt
+0
+2197
+Run Time: 819.999933243 milliseconds
+sudoku12.txt
+26
+10733
+Run Time: 3951.99990273 milliseconds
+sudoku12.txt
+0
+7596
+Run Time: 2845.99995613 milliseconds
+sudoku12.txt
+0
+101
+Run Time: 39.999961853 milliseconds
+sudoku12.txt
+0
+724
+Run Time: 269.999980927 milliseconds
+sudoku12.txt
+0
+850
+Run Time: 319.000005722 milliseconds
+sudoku12.txt
+0
+10474
+Run Time: 3865.00000954 milliseconds
+sudoku12.txt
+0
+10114
+Run Time: 3714.00022507 milliseconds
+sudoku12.txt
+0
+4563
+Run Time: 1671.99993134 milliseconds
+sudoku12.txt
+0
+3688
+Run Time: 1368.00003052 milliseconds
+sudoku12.txt
+0
+1025
+Run Time: 396.999835968 milliseconds
+sudoku12.txt
+0
+4382
+Run Time: 1608.99996758 milliseconds
+sudoku12.txt
+0
+4041
+Run Time: 1478.99985313 milliseconds
+sudoku12.txt
+0
+1188
+Run Time: 435.9998703 milliseconds
+sudoku12.txt
+17
+10701
+Run Time: 3957.00001717 milliseconds
+sudoku12.txt
+16
+10758
+Run Time: 3963.99998665 milliseconds
+sudoku12.txt
+0
+2210
+Run Time: 822.999954224 milliseconds
+sudoku12.txt
+0
+4379
+Run Time: 1621.99997902 milliseconds
+sudoku12.txt
+0
+3831
+Run Time: 1425.00019073 milliseconds
+average time: 1919.59997416
+average iterations: 5192
+Times not solved: 3
+sudoku12.txt
+0
+3161
+Run Time: 1167.00005531 milliseconds
+sudoku12.txt
+0
+336
+Run Time: 125.999927521 milliseconds
+sudoku12.txt
+0
+9848
+Run Time: 3619.00019646 milliseconds
+sudoku12.txt
+24
+10845
+Run Time: 4006.00004196 milliseconds
+sudoku12.txt
+0
+809
+Run Time: 295.000076294 milliseconds
+sudoku12.txt
+21
+10808
+Run Time: 4004.99987602 milliseconds
+sudoku12.txt
+0
+5915
+Run Time: 2184.00001526 milliseconds
+sudoku12.txt
+21
+10823
+Run Time: 3976.00007057 milliseconds
+sudoku12.txt
+0
+386
+Run Time: 138.999938965 milliseconds
+sudoku12.txt
+0
+1156
+Run Time: 425.999879837 milliseconds
+sudoku12.txt
+23
+10804
+Run Time: 3990.99993706 milliseconds
+sudoku12.txt
+0
+5364
+Run Time: 1988.0001545 milliseconds
+sudoku12.txt
+0
+2654
+Run Time: 980.000019073 milliseconds
+sudoku12.txt
+0
+6799
+Run Time: 2487.99991608 milliseconds
+sudoku12.txt
+0
+10700
+Run Time: 3939.9998188 milliseconds
+sudoku12.txt
+0
+334
+Run Time: 123.000144958 milliseconds
+sudoku12.txt
+14
+10801
+Run Time: 3996.0000515 milliseconds
+sudoku12.txt
+0
+856
+Run Time: 310.9998703 milliseconds
+sudoku12.txt
+0
+5887
+Run Time: 2167.99998283 milliseconds
+sudoku12.txt
+20
+10822
+Run Time: 3999.00007248 milliseconds
+average time: 2196.35000229
+average iterations: 5955
+Times not solved: 6
+sudoku12.txt
+8
+10905
+Run Time: 4029.00004387 milliseconds
+sudoku12.txt
+0
+4532
+Run Time: 1660.00008583 milliseconds
+sudoku12.txt
+0
+1392
+Run Time: 513.999938965 milliseconds
+sudoku12.txt
+0
+1036
+Run Time: 379.999876022 milliseconds
+sudoku12.txt
+0
+4633
+Run Time: 1730.99994659 milliseconds
+sudoku12.txt
+0
+4113
+Run Time: 1514.99986649 milliseconds
+sudoku12.txt
+0
+5780
+Run Time: 2125.0 milliseconds
+sudoku12.txt
+20
+10893
+Run Time: 4018.99981499 milliseconds
+sudoku12.txt
+0
+955
+Run Time: 355.999946594 milliseconds
+sudoku12.txt
+0
+8566
+Run Time: 3173.00009727 milliseconds
+sudoku12.txt
+23
+10887
+Run Time: 4033.99991989 milliseconds
+sudoku12.txt
+0
+3241
+Run Time: 1193.0000782 milliseconds
+sudoku12.txt
+0
+8001
+Run Time: 2944.00000572 milliseconds
+sudoku12.txt
+0
+4949
+Run Time: 1834.00011063 milliseconds
+sudoku12.txt
+0
+4232
+Run Time: 1562.99996376 milliseconds
+sudoku12.txt
+0
+4486
+Run Time: 1667.99998283 milliseconds
+sudoku12.txt
+27
+10886
+Run Time: 4012.99977303 milliseconds
+sudoku12.txt
+0
+286
+Run Time: 103.999853134 milliseconds
+sudoku12.txt
+25
+10884
+Run Time: 4013.00001144 milliseconds
+sudoku12.txt
+0
+8135
+Run Time: 3001.99985504 milliseconds
+average time: 2193.49995852
+average iterations: 5939
+Times not solved: 5
+sudoku12.txt
+21
+10993
+Run Time: 4056.9999218 milliseconds
+sudoku12.txt
+0
+2284
+Run Time: 861.000061035 milliseconds
+sudoku12.txt
+0
+2061
+Run Time: 755.999803543 milliseconds
+sudoku12.txt
+0
+1578
+Run Time: 580.000162125 milliseconds
+sudoku12.txt
+30
+10966
+Run Time: 4042.00005531 milliseconds
+sudoku12.txt
+0
+3160
+Run Time: 1161.99994087 milliseconds
+sudoku12.txt
+0
+2178
+Run Time: 799.000024796 milliseconds
+sudoku12.txt
+0
+1193
+Run Time: 434.99994278 milliseconds
+sudoku12.txt
+0
+2339
+Run Time: 859.000205994 milliseconds
+sudoku12.txt
+0
+6095
+Run Time: 2264.99986649 milliseconds
+sudoku12.txt
+24
+10961
+Run Time: 4031.99982643 milliseconds
+sudoku12.txt
+0
+7965
+Run Time: 2952.00014114 milliseconds
+sudoku12.txt
+0
+7380
+Run Time: 2726.00007057 milliseconds
+sudoku12.txt
+24
+10939
+Run Time: 4034.00015831 milliseconds
+sudoku12.txt
+0
+1542
+Run Time: 572.999954224 milliseconds
+sudoku12.txt
+0
+2811
+Run Time: 1049.0000248 milliseconds
+sudoku12.txt
+0
+9743
+Run Time: 3581.00008965 milliseconds
+sudoku12.txt
+0
+558
+Run Time: 203.000068665 milliseconds
+sudoku12.txt
+0
+632
+Run Time: 229.999780655 milliseconds
+sudoku12.txt
+0
+6326
+Run Time: 2339.00022507 milliseconds
+average time: 1876.75001621
+average iterations: 5085
+Times not solved: 4
+sudoku12.txt
+0
+10350
+Run Time: 3827.99983025 milliseconds
+sudoku12.txt
+0
+1143
+Run Time: 424.000024796 milliseconds
+sudoku12.txt
+31
+10996
+Run Time: 4056.9999218 milliseconds
+sudoku12.txt
+0
+6789
+Run Time: 2496.0000515 milliseconds
+sudoku12.txt
+0
+4953
+Run Time: 1822.99995422 milliseconds
+sudoku12.txt
+0
+6393
+Run Time: 2368.99995804 milliseconds
+sudoku12.txt
+0
+1089
+Run Time: 403.000116348 milliseconds
+sudoku12.txt
+0
+2731
+Run Time: 996.999979019 milliseconds
+sudoku12.txt
+0
+1365
+Run Time: 500.999927521 milliseconds
+sudoku12.txt
+0
+3023
+Run Time: 1116.99986458 milliseconds
+sudoku12.txt
+0
+8617
+Run Time: 3192.99983978 milliseconds
+sudoku12.txt
+18
+11004
+Run Time: 4062.99996376 milliseconds
+sudoku12.txt
+0
+2459
+Run Time: 907.999992371 milliseconds
+sudoku12.txt
+19
+11020
+Run Time: 4059.00001526 milliseconds
+sudoku12.txt
+0
+5698
+Run Time: 2101.99999809 milliseconds
+sudoku12.txt
+0
+3093
+Run Time: 1138.00001144 milliseconds
+sudoku12.txt
+0
+1276
+Run Time: 470.999956131 milliseconds
+sudoku12.txt
+0
+1635
+Run Time: 615.999937057 milliseconds
+sudoku12.txt
+0
+3487
+Run Time: 1279.00004387 milliseconds
+sudoku12.txt
+19
+11038
+Run Time: 4070.99986076 milliseconds
+average time: 1995.74996233
+average iterations: 5407
+Times not solved: 4
+sudoku12.txt
+0
+1495
+Run Time: 555.999994278 milliseconds
+sudoku12.txt
+0
+540
+Run Time: 201.999902725 milliseconds
+sudoku12.txt
+24
+11094
+Run Time: 4101.99999809 milliseconds
+sudoku12.txt
+0
+2610
+Run Time: 961.000204086 milliseconds
+sudoku12.txt
+0
+8734
+Run Time: 3217.00000763 milliseconds
+sudoku12.txt
+0
+5145
+Run Time: 1915.99988937 milliseconds
+sudoku12.txt
+20
+11104
+Run Time: 4101.99999809 milliseconds
+sudoku12.txt
+0
+6743
+Run Time: 2496.0000515 milliseconds
+sudoku12.txt
+0
+5094
+Run Time: 1877.00009346 milliseconds
+sudoku12.txt
+0
+8959
+Run Time: 3322.99995422 milliseconds
+sudoku12.txt
+0
+5086
+Run Time: 1873.00014496 milliseconds
+sudoku12.txt
+0
+10006
+Run Time: 3717.00000763 milliseconds
+sudoku12.txt
+0
+792
+Run Time: 292.000055313 milliseconds
+sudoku12.txt
+20
+11123
+Run Time: 4108.00004005 milliseconds
+sudoku12.txt
+0
+403
+Run Time: 148.999929428 milliseconds
+sudoku12.txt
+0
+7695
+Run Time: 2839.99991417 milliseconds
+sudoku12.txt
+0
+8316
+Run Time: 3064.0001297 milliseconds
+sudoku12.txt
+0
+1991
+Run Time: 733.999967575 milliseconds
+sudoku12.txt
+0
+10086
+Run Time: 3738.9998436 milliseconds
+sudoku12.txt
+0
+8244
+Run Time: 3059.00001526 milliseconds
+average time: 2316.35000706
+average iterations: 6263
+Times not solved: 3
+sudoku12.txt
+0
+6848
+Run Time: 2533.99991989 milliseconds
+sudoku12.txt
+0
+10123
+Run Time: 3766.00003242 milliseconds
+sudoku12.txt
+0
+3315
+Run Time: 1220.99995613 milliseconds
+sudoku12.txt
+0
+1186
+Run Time: 444.000005722 milliseconds
+sudoku12.txt
+0
+2109
+Run Time: 781.000137329 milliseconds
+sudoku12.txt
+0
+3281
+Run Time: 1214.99991417 milliseconds
+sudoku12.txt
+0
+10242
+Run Time: 3711.99989319 milliseconds
+sudoku12.txt
+0
+5632
+Run Time: 2082.99994469 milliseconds
+sudoku12.txt
+0
+4086
+Run Time: 1501.99985504 milliseconds
+sudoku12.txt
+28
+11128
+Run Time: 4123.00014496 milliseconds
+sudoku12.txt
+0
+966
+Run Time: 358.000040054 milliseconds
+sudoku12.txt
+0
+4631
+Run Time: 1700.9999752 milliseconds
+sudoku12.txt
+25
+11112
+Run Time: 4106.00018501 milliseconds
+sudoku12.txt
+24
+11144
+Run Time: 4119.99988556 milliseconds
+sudoku12.txt
+0
+5064
+Run Time: 1862.99991608 milliseconds
+sudoku12.txt
+0
+1082
+Run Time: 401.000022888 milliseconds
+sudoku12.txt
+0
+2931
+Run Time: 1082.00001717 milliseconds
+sudoku12.txt
+0
+1295
+Run Time: 492.999792099 milliseconds
+sudoku12.txt
+0
+1102
+Run Time: 408.999919891 milliseconds
+sudoku12.txt
+18
+11169
+Run Time: 4121.0000515 milliseconds
+average time: 2001.74998045
+average iterations: 5422
+Times not solved: 4
+sudoku12.txt
+27
+11219
+Run Time: 4157.00006485 milliseconds
+sudoku12.txt
+0
+1735
+Run Time: 633.000135422 milliseconds
+sudoku12.txt
+0
+7909
+Run Time: 2932.99984932 milliseconds
+sudoku12.txt
+0
+2416
+Run Time: 893.999814987 milliseconds
+sudoku12.txt
+0
+2666
+Run Time: 980.000019073 milliseconds
+sudoku12.txt
+0
+498
+Run Time: 179.999828339 milliseconds
+sudoku12.txt
+0
+4796
+Run Time: 1781.99982643 milliseconds
+sudoku12.txt
+0
+3803
+Run Time: 1401.00002289 milliseconds
+sudoku12.txt
+0
+6201
+Run Time: 2284.00015831 milliseconds
+sudoku12.txt
+0
+7180
+Run Time: 2665.99988937 milliseconds
+sudoku12.txt
+0
+11063
+Run Time: 4096.99988365 milliseconds
+sudoku12.txt
+0
+4965
+Run Time: 1828.99999619 milliseconds
+sudoku12.txt
+0
+6430
+Run Time: 2378.00002098 milliseconds
+sudoku12.txt
+0
+10337
+Run Time: 3796.99993134 milliseconds
+sudoku12.txt
+0
+6267
+Run Time: 2321.00009918 milliseconds
+sudoku12.txt
+0
+2377
+Run Time: 876.999855042 milliseconds
+sudoku12.txt
+0
+1289
+Run Time: 473.999977112 milliseconds
+sudoku12.txt
+0
+412
+Run Time: 153.99980545 milliseconds
+sudoku12.txt
+0
+5029
+Run Time: 1820.00017166 milliseconds
+sudoku12.txt
+0
+315
+Run Time: 113.999843597 milliseconds
+average time: 1788.54995966
+average iterations: 4845
+Times not solved: 1
