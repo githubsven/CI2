@@ -4,3 +4,126 @@ difficulty 38
 average time: 40.0002002716
 average iterations: 188
 Times not solved: 0
+times ran 20
+s value 1
+average time: 587.849986553
+average iterations: 2653
+Times not solved: 2
+s value 2
+average time: 197.200000286
+average iterations: 905
+Times not solved: 0
+s value 3
+average time: 245.050013065
+average iterations: 1115
+Times not solved: 0
+s value 4
+average time: 231.850028038
+average iterations: 1045
+Times not solved: 0
+s value 5
+average time: 226.800012589
+average iterations: 1017
+Times not solved: 0
+s value 6
+average time: 90.1499986649
+average iterations: 406
+Times not solved: 0
+s value 7
+average time: 168.899977207
+average iterations: 761
+Times not solved: 0
+s value 8
+average time: 205.250000954
+average iterations: 919
+Times not solved: 0
+s value 9
+average time: 139.799976349
+average iterations: 629
+Times not solved: 0
+s value 10
+average time: 177.649974823
+average iterations: 803
+Times not solved: 0
+s value 11
+average time: 107.700002193
+average iterations: 492
+Times not solved: 0
+s value 12
+average time: 101.65002346
+average iterations: 455
+Times not solved: 0
+s value 13
+average time: 171.899986267
+average iterations: 779
+Times not solved: 0
+s value 14
+average time: 130.799996853
+average iterations: 582
+Times not solved: 0
+s value 15
+average time: 118.749988079
+average iterations: 533
+Times not solved: 0
+times ran 20
+s value 5
+average time: 266.399991512
+average iterations: 1202
+Times not solved: 0
+times ran 20
+s value 5
+average time: 126.10001564
+average iterations: 554
+Times not solved: 0
+times ran 30
+s value 1
+average time: 452.600002289
+average iterations: 1985
+Times not solved: 2
+s value 2
+average time: 178.066651026
+average iterations: 781
+Times not solved: 0
+s value 3
+average time: 249.60000515
+average iterations: 1097
+Times not solved: 0
+s value 4
+average time: 241.233332952
+average iterations: 1056
+Times not solved: 0
+s value 5
+average time: 135.666664441
+average iterations: 593
+Times not solved: 0
+s value 6
+average time: 153.266676267
+average iterations: 671
+Times not solved: 0
+s value 7
+average time: 95.566646258
+average iterations: 418
+Times not solved: 0
+s value 8
+average time: 122.766677539
+average iterations: 540
+Times not solved: 0
+s value 9
+average time: 138.700000445
+average iterations: 607
+Times not solved: 0
+times ran 20
+s value 5
+average time: 166.39996767
+average iterations: 746
+Times not solved: 0
+times ran 1
+s value 5
+average time: 265.000104904
+average iterations: 1151
+Times not solved: 0
+times ran 100
+s value 5
+average time: 196.960022449
+average iterations: 876
+Times not solved: 0

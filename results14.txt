@@ -1,0 +1,57 @@
+times ran 20
+s value 5
+average time: 5877.59999037
+average iterations: 10564
+Times not solved: 20
+times ran 20
+s value 5
+average time: 12857.7000022
+average iterations: 23328
+Times not solved: 20
+times ran 20
+s value 5
+average time: 2317.94999838
+average iterations: 4206
+Times not solved: 20
+times ran 20
+s value 5
+average time: 12610.3500009
+average iterations: 22847
+Times not solved: 19
+times ran 20
+s value 5
+average time: 27463.800025
+average iterations: 41091
+Times not solved: 20
+times ran 100
+s value 5
+average time: 3056.25000477
+average iterations: 4187
+Times not solved: 99
+times ran 30
+s value 5
+average time: 6034.56667264
+average iterations: 10565
+Times not solved: 30
+times ran 30
+s value 5
+average time: 14441.7999903
+average iterations: 23325
+Times not solved: 30
+times ran 50
+s value 5
+average time: 5940.49999237
+average iterations: 10559
+Times not solved: 50
+times ran 50
+s value 5
+times completed 40
+average time: 7509.39999819
+average iterations: 10716
+Times not solved: 40
+times ran 50
+s value 5
+times completed 48
+average time: 6256.479159
+average iterations: 10568
+Times not solved: 48

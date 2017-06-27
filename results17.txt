@@ -1,0 +1,5 @@
+times ran 4
+s value 5
+average time: -4.0
+average iterations: -4
+Times not solved: 4

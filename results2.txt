@@ -4,3 +4,42 @@ difficulty 148
 average time: 29988.0001545
 average iterations: 22151
 Times not solved: 1
+times ran 20
+s value 5
+average time: 102604.750061
+average iterations: 75905
+Times not solved: 10
+times ran 20
+s value 5
+average time: 73453.1499863
+average iterations: 32418
+Times not solved: 11
+times ran 1
+s value 5
+average time: 95879.999876
+average iterations: 72982
+Times not solved: 0
+times ran 10
+s value 5
+times completed 0
+average time: 16495.0000048
+average iterations: 12461
+Times not solved: 0
+times ran 10
+s value 5
+times completed 6
+average time: 33003.2000303
+average iterations: 24365
+Times not solved: 5
+times ran 50
+s value 5
+times completed 7
+average time: 44261.142867
+average iterations: 32774
+Times not solved: 1
+times ran 50
+s value 5
+times completed 6
+average time: 50795.8333492
+average iterations: 30556
+Times not solved: 3

@@ -4,3 +4,25 @@ difficulty 212
 average time: 36686.0001087
 average iterations: 16328
 Times not solved: 0
+times ran 20
+s value 5
+average time: 48650.2500176
+average iterations: 22116
+Times not solved: 0
+times ran 20
+s value 5
+average time: 85807.3499799
+average iterations: 21425
+Times not solved: 0
+times ran 7
+s value 5
+times completed 7
+average time: 49119.2857197
+average iterations: 22262
+Times not solved: 2
+times ran 50
+s value 5
+times completed 5
+average time: 67176.4001369
+average iterations: 23943
+Times not solved: 1

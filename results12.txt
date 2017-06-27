@@ -171,3 +171,28 @@ s value 15
 average time: 1788.54995966
 average iterations: 4845
 Times not solved: 1
+times ran 20
+s value 5
+average time: 2167.99994707
+average iterations: 5721
+Times not solved: 5
+times ran 30
+s value 5
+average time: 1502.20001539
+average iterations: 3891
+Times not solved: 0
+times ran 50
+s value 5
+average time: 2226.68000221
+average iterations: 5887
+Times not solved: 11
+times ran 1
+s value 5
+average time: 1304.00013924
+average iterations: 3488
+Times not solved: 0
+times ran 100
+s value 5
+average time: 1164.07999611
+average iterations: 3141
+Times not solved: 24

@@ -37,6 +37,10 @@ def fillBlock(sudoku,rowNumber, columnNumber):
     for x in range(blockLength):
         for y in range(blockLength):
             domain.discard(sudoku[blockRow + x][blockColumn + y].value)
+    domain = list(domain)
+    random.shuffle(domain)
+    #domain = domain[::-1]
+    #print domain
     for x in range(blockLength):
         for y in range(blockLength):
             if sudoku[blockRow + x][blockColumn + y].value == 0:
@@ -133,9 +137,11 @@ def iteratedLocalSearch(sudoku, score, counter, s, noImprovementCounter = 0, ran
     initialScore = score.count()
     if initialScore < 100:
         maxWalks = 100
+    elif initialScore < 200:
+        maxWalks = 200
     elif initialScore < 300:
         maxWalks = 300
-    else: maxWalks = 500
+    else: maxWalks = 400
     while score.count() != 0 and randomWalkCounter < maxWalks:
         counter.plus(1)
 
@@ -194,18 +200,19 @@ if __name__ == '__main__':
     #random.seed(100)
     avgIt = 0
     avgTime = 0
-    goes = 20
+    goes = 4
     sMax = 30
+    tried = goes
 
     file.write("times ran" + str(goes) + "\n")
     file2.write("times ran " + str(goes) + "\n")
-    for sudokuNr in range (5,13,1):
+    for sudokuNr in [16,17]:
         fileSudoku = open("results"+str(sudokuNr)+".txt", "a+")
         fileSudoku.write("times ran " + str(goes) + "\n")
         print sudokuNr
         sudokuFile = "sudoku" + str(sudokuNr) + ".txt"
         file2.write("Sudoku " + str(sudokuNr) + "\n")
-        for s in range(1, 16, 1):
+        for s in range(5, 6, 1):
             print s
             avgIt = 0
             avgTime = 0
@@ -219,6 +226,7 @@ if __name__ == '__main__':
                 sudokuFile = "sudoku"+str(sudokuNr)+".txt"
                 sudoku = getSudoku(sudokuFile)
                 fillSudoku(sudoku)
+
                 score = Score()
                 counter = Score()
 
@@ -236,21 +244,32 @@ if __name__ == '__main__':
                 #print "Run Time:", x, "milliseconds"
                 avgIt += y
                 avgTime += x
-                if score.count() > 0:
-                    timesNotSolved += 1
+
+
                 file.write(sudokuFile+"\n")
                 file.write(str(score.count())+"\n")
                 file.write(str(y)+"\n")
                 file.write("Run Time: "+str(x)+" milliseconds\n")
+                if score.count() > 0:
+                    timesNotSolved += 1
+                    avgTime -=x
+                    avgIt -=y
+                #if avgTime > 300000:
+                 #   file.write("times completed "+ str(i+1)+ "\n")
+                  #  file2.write("times completed " + str(i+1) + "\n")
+                   # fileSudoku.write("times completed " + str(i+1) + "\n")
+                    #tried = i+1
+                    #break
 
-            file.write("average time: " + str(avgTime/goes)+"\n")
-            file.write("average iterations: " + str(avgIt / goes) + "\n")
+
+            file.write("average time: " + str(avgTime/tried-timesNotSolved)+"\n")
+            file.write("average iterations: " + str(avgIt / tried-timesNotSolved) + "\n")
             file.write("Times not solved: " + str(timesNotSolved) + "\n")
-            file2.write("average time: " + str(avgTime / goes) + "\n")
-            file2.write("average iterations: " + str(avgIt / goes) + "\n")
+            file2.write("average time: " + str(avgTime / tried-timesNotSolved) + "\n")
+            file2.write("average iterations: " + str(avgIt / tried-timesNotSolved) + "\n")
             file2.write("Times not solved: " + str(timesNotSolved) + "\n")
-            fileSudoku.write("average time: " + str(avgTime / goes) + "\n")
-            fileSudoku.write("average iterations: " + str(avgIt / goes) + "\n")
+            fileSudoku.write("average time: " + str(avgTime / tried-timesNotSolved) + "\n")
+            fileSudoku.write("average iterations: " + str(avgIt / tried-timesNotSolved) + "\n")
             fileSudoku.write("Times not solved: " + str(timesNotSolved) + "\n")
         fileSudoku.close()
     file.close()

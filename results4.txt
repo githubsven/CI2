@@ -4,3 +4,24 @@ difficulty 233
 average time: 6351.00007057
 average iterations: 2213
 Times not solved: 0
+times ran 20
+s value 5
+average time: 6289.94998932
+average iterations: 2185
+Times not solved: 0
+times ran 20
+s value 5
+average time: 18785.6000543
+average iterations: 3535
+Times not solved: 0
+times ran 7
+s value 5
+average time: 8938.57148715
+average iterations: 3090
+Times not solved: 0
+times ran 50
+s value 5
+times completed 18
+average time: 17496.5555138
+average iterations: 5164
+Times not solved: 0
